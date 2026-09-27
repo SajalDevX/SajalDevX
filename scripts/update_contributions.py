@@ -92,15 +92,15 @@ def render(prs: list[dict]) -> str:
     out: list[str] = []
 
     # Headline numbers
-    out.append('<p align="center">')
-    out.append(f'  <img src="https://img.shields.io/badge/pull_requests-{len(prs)}-1f6feb?style=for-the-badge&logo=git&logoColor=white" />')
-    out.append(f'  <img src="https://img.shields.io/badge/merged-{len(merged)}-8957e5?style=for-the-badge&logo=github&logoColor=white" />')
-    out.append(f'  <img src="https://img.shields.io/badge/in_review-{len(open_)}-2da44e?style=for-the-badge&logo=githubactions&logoColor=white" />')
-    out.append(f'  <img src="https://img.shields.io/badge/projects-{len(projects)}-f78166?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />')
+    out.append('<p>')
+    out.append(f'  <img src="https://img.shields.io/badge/pull_requests-{len(prs)}-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />')
+    out.append(f'  <img src="https://img.shields.io/badge/merged-{len(merged)}-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />')
+    out.append(f'  <img src="https://img.shields.io/badge/in_review-{len(open_)}-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />')
+    out.append(f'  <img src="https://img.shields.io/badge/projects-{len(projects)}-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />')
     out.append("</p>\n")
 
     # Merged table
-    out.append("### ✅ Merged upstream\n")
+    out.append("### Merged upstream\n")
     out.append("| Project | Pull request |")
     out.append("|:--|:--|")
     for p in sorted(merged, key=lambda x: x["created"], reverse=True):
@@ -109,7 +109,7 @@ def render(prs: list[dict]) -> str:
     out.append("")
 
     # Open, grouped by project
-    out.append("### 🔍 In review\n")
+    out.append("### In review\n")
     out.append("<details>")
     out.append(f"<summary><b>{len(open_)} open pull requests across {len({p['repo'] for p in open_})} projects</b> — click to expand</summary>\n")
     by_repo: dict[str, list[dict]] = defaultdict(list)
@@ -124,8 +124,8 @@ def render(prs: list[dict]) -> str:
     out.append("</details>\n")
 
     # Project cloud
-    out.append("### 🌐 Projects contributed to\n")
-    out.append('<p align="center">')
+    out.append("### Contributed to\n")
+    out.append('<p>')
     for repo in projects:
         owner, name = repo.split("/")
         badge_name = urllib.parse.quote(name.replace("-", "--").replace("_", "__"))
