@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=200&section=header&text=Sajal%20Kumar%20Jana&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Android%20%E2%80%A2%20Backend%20%E2%80%A2%20Open%20Source&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=200&section=header&text=Sajal%20Kumar%20Jana&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Android%20%E2%80%A2%20Backend%20%E2%80%A2%20Open%20Source&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/SajalDevX"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Native+Android+%E2%80%A2+Kotlin+%E2%80%A2+Jetpack+Compose;Ktor+%E2%80%A2+Spring+Boot+%E2%80%A2+Python+backends;Shipping+fixes+upstream+to+projects+I+use;Building+in+public%2C+one+PR+at+a+time" alt="typing intro" /></a>
 
