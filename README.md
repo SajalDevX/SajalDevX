@@ -31,9 +31,9 @@ I'm Sajal, a **native Android developer** who ended up equally at home on the ba
 
 <!-- CONTRIB:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/pull_requests-39-1f6feb?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/pull_requests-40-1f6feb?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/merged-7-8957e5?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-30-2da44e?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-31-2da44e?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-24-f78166?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
 </p>
 
@@ -52,12 +52,7 @@ I'm Sajal, a **native Android developer** who ended up equally at home on the ba
 ### 🔍 In review
 
 <details>
-<summary><b>30 open pull requests across 21 projects</b> — click to expand</summary>
-
-**[`The-OpenROAD-Project/OpenROAD`](https://github.com/The-OpenROAD-Project/OpenROAD)** · <sub>OpenROAD · open-source RTL-to-GDS EDA</sub>
-- [#11522](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11522) dbSta: check Liberty transition tables and input capacitance in check_ip
-- [#11540](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11540) grt: keep the folded child's fixed layers in CUGR getSteinerTree
-- [#11541](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11541) web: drop heat map bins outside a polygon die area
+<summary><b>31 open pull requests across 21 projects</b> — click to expand</summary>
 
 **[`arxlang/arx`](https://github.com/arxlang/arx)** · <sub>Arx · compiler front-end (LLVM)</sub>
 - [#119](https://github.com/arxlang/arx/pull/119) fix(irx): lower unary minus and plus
@@ -69,6 +64,11 @@ I'm Sajal, a **native Android developer** who ended up equally at home on the ba
 - [#3774](https://github.com/ohcnetwork/care/pull/3774) Fix schedule creation rejecting today and timezone-aware dates
 - [#3776](https://github.com/ohcnetwork/care/pull/3776) Fix 500 when listing appointments filtered by organization_ids
 
+**[`The-OpenROAD-Project/OpenROAD`](https://github.com/The-OpenROAD-Project/OpenROAD)** · <sub>OpenROAD · open-source RTL-to-GDS EDA</sub>
+- [#11522](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11522) dbSta: check Liberty transition tables and input capacitance in check_ip
+- [#11540](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11540) grt: keep the folded child's fixed layers in CUGR getSteinerTree
+- [#11541](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11541) web: drop heat map bins outside a polygon die area
+
 **[`dora-rs/dora-hub`](https://github.com/dora-rs/dora-hub)** · <sub>dora-rs · robotics dataflow nodes</sub>
 - [#90](https://github.com/dora-rs/dora-hub/pull/90) fix(dora-parquet-recorder): record string values instead of their offsets
 - [#91](https://github.com/dora-rs/dora-hub/pull/91) fix(dora-pyaudio): clip float audio before casting to int16
@@ -77,9 +77,16 @@ I'm Sajal, a **native Android developer** who ended up equally at home on the ba
 - [#5913](https://github.com/fossasia/eventyay/pull/5913) fix(base): send the current usage fields from record_usage
 - [#5944](https://github.com/fossasia/eventyay/pull/5944) fix(control): limit how many voucher codes one request can generate
 
+**[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)** · <sub>OneBusAway Maglev · transit REST API (Go)</sub>
+- [#1495](https://github.com/OneBusAway/maglev/pull/1495) Resolve stop route IDs in schedule-for-route
+- [#1496](https://github.com/OneBusAway/maglev/pull/1496) Allow spaces in IDs
+
 **[`theochem/grid`](https://github.com/theochem/grid)** · <sub>theochem/grid · numerical integration</sub>
 - [#335](https://github.com/theochem/grid/pull/335) Fix 1D Cartesian orders in generate_orders_horton_order
 - [#337](https://github.com/theochem/grid/pull/337) Include the last term in the Fejer quadrature weights
+
+**[`ankidroid/Anki-Android`](https://github.com/ankidroid/Anki-Android)** · <sub>AnkiDroid · spaced-repetition Android app</sub>
+- [#21383](https://github.com/ankidroid/Anki-Android/pull/21383) fix(reviewer): replace AlphaAnimation with ViewPropertyanimator in AnswerFeedbackView
 
 **[`CCExtractor/ccextractor`](https://github.com/CCExtractor/ccextractor)** · <sub>CCExtractor · subtitle extraction (C)</sub>
 - [#2356](https://github.com/CCExtractor/ccextractor/pull/2356) [FIX] Keep per-page teletext state when extracting multiple pages
@@ -90,23 +97,11 @@ I'm Sajal, a **native Android developer** who ended up equally at home on the ba
 **[`CircuitVerse/cv-frontend-vue`](https://github.com/CircuitVerse/cv-frontend-vue)** · <sub>CircuitVerse · digital logic simulator (Vue)</sub>
 - [#1334](https://github.com/CircuitVerse/cv-frontend-vue/pull/1334) fix(vuesim): use 2 ** bitWidth for Stepper and RAM range limits
 
-**[`JdeRobot/PerceptionMetrics`](https://github.com/JdeRobot/PerceptionMetrics)** · <sub>JdeRobot PerceptionMetrics · CV evaluation</sub>
-- [#643](https://github.com/JdeRobot/PerceptionMetrics/pull/643) Keep dots in sample names for YOLO and COCO datasets
-
-**[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)** · <sub>OneBusAway Maglev · transit REST API (Go)</sub>
-- [#1495](https://github.com/OneBusAway/maglev/pull/1495) Resolve stop route IDs in schedule-for-route
-
-**[`OpenMS/pyopenms_viz`](https://github.com/OpenMS/pyopenms_viz)** · <sub>OpenMS · pyopenms_viz (mass-spec plotting)</sub>
-- [#183](https://github.com/OpenMS/pyopenms_viz/pull/183) Let pyopenms_viz import without matplotlib or Pillow
-
-**[`Submitty/Submitty`](https://github.com/Submitty/Submitty)** · <sub>Submitty · course management & autograding</sub>
-- [#13384](https://github.com/Submitty/Submitty/pull/13384) [Bugfix:System] Quote DB URL credentials
-
-**[`ankidroid/Anki-Android`](https://github.com/ankidroid/Anki-Android)** · <sub>AnkiDroid · spaced-repetition Android app</sub>
-- [#21383](https://github.com/ankidroid/Anki-Android/pull/21383) fix(reviewer): replace AlphaAnimation with ViewPropertyanimator in AnswerFeedbackView
-
 **[`hermetoproject/hermeto`](https://github.com/hermetoproject/hermeto)** · <sub>Hermeto · hermetic build dependency fetcher</sub>
 - [#1788](https://github.com/hermetoproject/hermeto/pull/1788) fix(generic): map the java-source Maven type to a jar
+
+**[`JdeRobot/PerceptionMetrics`](https://github.com/JdeRobot/PerceptionMetrics)** · <sub>JdeRobot PerceptionMetrics · CV evaluation</sub>
+- [#643](https://github.com/JdeRobot/PerceptionMetrics/pull/643) Keep dots in sample names for YOLO and COCO datasets
 
 **[`kubeflow/kale`](https://github.com/kubeflow/kale)** · <sub>Kubeflow Kale · notebooks → pipelines</sub>
 - [#976](https://github.com/kubeflow/kale/pull/976) fix(backend): keep and escape annotation/label values that contain ':' or quotes
@@ -125,6 +120,12 @@ I'm Sajal, a **native Android developer** who ended up equally at home on the ba
 
 **[`openfoodfacts/open-prices`](https://github.com/openfoodfacts/open-prices)** · <sub>Open Food Facts · Open Prices (Django)</sub>
 - [#1460](https://github.com/openfoodfacts/open-prices/pull/1460) fix(Prices): reset duplicate_of when an edited price no longer matches
+
+**[`OpenMS/pyopenms_viz`](https://github.com/OpenMS/pyopenms_viz)** · <sub>OpenMS · pyopenms_viz (mass-spec plotting)</sub>
+- [#183](https://github.com/OpenMS/pyopenms_viz/pull/183) Let pyopenms_viz import without matplotlib or Pillow
+
+**[`Submitty/Submitty`](https://github.com/Submitty/Submitty)** · <sub>Submitty · course management & autograding</sub>
+- [#13384](https://github.com/Submitty/Submitty/pull/13384) [Bugfix:System] Quote DB URL credentials
 
 </details>
 
