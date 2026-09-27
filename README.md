@@ -1,43 +1,44 @@
-<div align="center">
+<a href="https://github.com/SajalDevX"><img src="https://raw.githubusercontent.com/SajalDevX/SajalDevX/main/assets/header.svg" alt="Sajal Kumar Jana — Android & backend engineer" width="100%" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=200&section=header&text=Sajal%20Kumar%20Jana&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Android%20%E2%80%A2%20Backend%20%E2%80%A2%20Open%20Source&descAlignY=58&descSize=18" width="100%" />
-
-<a href="https://github.com/SajalDevX"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Native+Android+%E2%80%A2+Kotlin+%E2%80%A2+Jetpack+Compose;Ktor+%E2%80%A2+Spring+Boot+%E2%80%A2+Python+backends;Shipping+fixes+upstream+to+projects+I+use;Building+in+public%2C+one+PR+at+a+time" alt="typing intro" /></a>
-
-<br/>
-
-<a href="https://github.com/SajalDevX?tab=followers"><img src="https://img.shields.io/github/followers/SajalDevX?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=1f6feb&label=FOLLOWERS" /></a>
-&nbsp;
-<a href="https://github.com/SajalDevX?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=8957e5&label=REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FSajalDevX" /></a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=SajalDevX&style=for-the-badge&color=2da44e&label=VIEWS" />
-
-</div>
-
-<br/>
-
-## 👋 About
-
-I'm Sajal, a **native Android developer** who ended up equally at home on the backend. I write Kotlin for phones, Ktor / Spring Boot / Python for servers, and I spend a lot of my week reading other people's codebases and sending fixes upstream — EDA tooling, hospital software, transit APIs, ML platforms, robotics dataflow. Wherever the bug is.
-
-- 📱 &nbsp;**Mobile** — Kotlin, Jetpack Compose, Clean Architecture, Hilt, Room, Coroutines/Flow, KMP
-- ⚙️ &nbsp;**Backend** — Ktor, Spring Boot, FastAPI, Node/TypeScript, Go · PostgreSQL, MongoDB, Redis
-- 🧠 &nbsp;**AI / ML** — RAG pipelines (Qdrant, hybrid retrieval), YOLOv8, LLM tooling, agents
-- 🌱 &nbsp;**Right now** — contributing daily to open source and aiming for **Google Summer of Code 2027**
-
-<br/>
-
-## 🚀 Open Source
-
-<!-- CONTRIB:START -->
-<p align="center">
-  <img src="https://img.shields.io/badge/pull_requests-40-1f6feb?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-7-8957e5?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-31-2da44e?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/projects-24-f78166?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+<p>
+  <a href="https://www.linkedin.com/in/sajal-kumar-jana-803917289">linkedin</a> &nbsp;·&nbsp;
+  <a href="mailto:kakalijana1254@gmail.com">kakalijana1254@gmail.com</a> &nbsp;·&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=ai.prepairo.app">prepairo on play store</a> &nbsp;·&nbsp;
+  <a href="https://github.com/search?q=author%3ASajalDevX+is%3Apr+-user%3ASajalDevX&type=pullrequests">all pull requests</a>
 </p>
 
-### ✅ Merged upstream
+I build mobile apps and the backends they lean on — Flutter and Compose on the client, Spring Boot, Postgres and Kafka behind it. The part I like most is the unglamorous middle: making a real-time system survive a pod restart, making analytics events survive a phone reboot, making a benchmark an agent can't shortcut. Most of my open-source work is the same instinct pointed at other people's codebases.
+
+<table>
+  <tr>
+    <td><sub>now</sub></td>
+    <td>Benchmark task author — <b>AfterQuery (Kepler)</b> and <b>Handshake (Dynamo, Seal)</b>. Containerized Terminal-Bench-style tasks, reference solutions, isolated verifiers, adversarial validation against no-op and shortcut paths.</td>
+  </tr>
+  <tr>
+    <td><sub>prev</sub></td>
+    <td>Founding engineer — <b>PrepAiro</b> (Oct 2024 – Mar 2026). Flutter app to 150K+ / 20K+ installs; Centrifugo + Spring Boot real-time backend; Kafka clickstream pipeline processing 2M+ events a month; attribution microservice handling 1M+ clicks.</td>
+  </tr>
+  <tr>
+    <td><sub>won</sub></td>
+    <td><b>1st of 2,000+ teams</b>, eRaksha Hackathon (IIT Delhi × CyberPeace Foundation), 2026 — with RAKSHAK. Demoed live at the Global AI Summit 2026, Bharat Mandapam.</td>
+  </tr>
+  <tr>
+    <td><sub>school</sub></td>
+    <td>B.E. Information Technology, Army Institute of Technology, Pune — class of 2027.</td>
+  </tr>
+</table>
+
+## Open source
+
+<!-- CONTRIB:START -->
+<p>
+  <img src="https://img.shields.io/badge/pull_requests-40-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-7-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-31-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/projects-24-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
+</p>
+
+### Merged upstream
 
 | Project | Pull request |
 |:--|:--|
@@ -49,7 +50,7 @@ I'm Sajal, a **native Android developer** who ended up equally at home on the ba
 | **[`ankidroid/Anki-Android`](https://github.com/ankidroid/Anki-Android)**<br/><sub>AnkiDroid · spaced-repetition Android app</sub> | [#21374](https://github.com/ankidroid/Anki-Android/pull/21374) fix(filtered-deck): preserve error message for InvalidSearchException |
 | **[`TeamAmaze/AmazeFileManager`](https://github.com/TeamAmaze/AmazeFileManager)**<br/><sub>Amaze File Manager · Android</sub> | [#4669](https://github.com/TeamAmaze/AmazeFileManager/pull/4669) Notify user when renaming a file/folder to its original name |
 
-### 🔍 In review
+### In review
 
 <details>
 <summary><b>31 open pull requests across 21 projects</b> — click to expand</summary>
@@ -129,9 +130,9 @@ I'm Sajal, a **native Android developer** who ended up equally at home on the ba
 
 </details>
 
-### 🌐 Projects contributed to
+### Contributed to
 
-<p align="center">
+<p>
   <a href="https://github.com/CCExtractor/ccextractor"><img alt="CCExtractor/ccextractor" src="https://img.shields.io/badge/ccextractor-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/CCExtractor/sample-platform"><img alt="CCExtractor/sample-platform" src="https://img.shields.io/badge/sample--platform-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/CircuitVerse/cv-frontend-vue"><img alt="CircuitVerse/cv-frontend-vue" src="https://img.shields.io/badge/cv--frontend--vue-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
@@ -159,114 +160,74 @@ I'm Sajal, a **native Android developer** who ended up equally at home on the ba
 </p>
 <!-- CONTRIB:END -->
 
-<sub>This section is regenerated every night by a GitHub Action from the public PR search API, so it never goes stale.</sub>
+<sub>Regenerated nightly by <a href="scripts/update_contributions.py">a small script</a> from the public PR search API.</sub>
 
 <br/>
 
-## 🛠️ Featured Work
+## Selected work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SajalDevX/Lufious">🌿 Lufious</a></h3>
-      <p>AI-powered plant-care companion and plant marketplace. Native Android front-end with a TypeScript backend (<a href="https://github.com/SajalDevX/lufious-backend">lufious-backend</a>).</p>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <h3><a href="https://play.google.com/store/apps/details?id=ai.prepairo.app">PrepAiro</a> <sub>work</sub></h3>
+      <p>UPSC prep app, 150K+ Play Store installs. Founding engineer across the Flutter client and the Spring Boot backend: real-time 1v1 and multiplayer duel rooms that stay consistent across pods (Postgres advisory locks, owning-pod heartbeats, orphan sweeper), Kafka → Parquet → DuckDB analytics, in-house install attribution.</p>
+      <sub>Flutter · Spring Boot · PostgreSQL · Centrifugo · Kafka · DuckDB · AWS S3</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SajalDevX/e-rakshak">🛡️ RAKSHAK</a></h3>
-      <p>Edge-AI IoT security device combining a Dueling DQN policy with an on-device TinyLlama. <b>1st place, eRaksha Hackathon (IIT Delhi, 2000+ teams)</b>; demoed at Global AI Summit 2026.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/IoT-2da44e?style=flat-square&logo=raspberrypi&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/SajalDevX/PESS">🔥 PESS</a></h3>
-      <p>Fire-detection and emergency-response system: YOLOv8 detection, Gemini 2.5 Flash scene verification, and automated voice alerts through Vapi, Twilio and ElevenLabs.</p>
-      <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/SajalDevX/rag-pipeline">📚 RAG Pipeline</a></h3>
-      <p>Production-style retrieval-augmented generation: Qdrant vector store, hybrid dense + sparse retrieval with reranking, and SSE-streamed LLM responses.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <h3><a href="https://github.com/SajalDevX/e-rakshak">RAKSHAK</a> <sub>1st place, eRaksha 2026</sub></h3>
+      <p>Agentic cyber guardian for home IoT on a Raspberry Pi 5. A Dueling DQN agent chooses threat responses autonomously, while TinyLlama-1.1B-powered honeypots impersonate real IoT devices to stall and fingerprint attackers.</p>
+      <sub>Python · PyTorch · TinyLlama · Flask · Scapy · nmap</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SajalDevX/ikou-app">🧭 Ikou</a></h3>
-      <p>Kotlin Android client backed by a Spring Boot microservices API (<a href="https://github.com/SajalDevX/ikou-backend">ikou-backend</a>) — auth, service discovery and independent deployable services.</p>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <h3><a href="https://github.com/SajalDevX/PESS">PESS</a></h3>
+      <p>Public emergency surveillance. RTSP frames go through YOLOv8 and a temporal scorer; a sustained score triggers Gemini 2.5 Flash verification to kill false alarms, then Vapi voice agents phone the fire brigade and the camera owner over Twilio, answering questions strictly from incident facts.</p>
+      <sub>YOLOv8 · OpenCV · Gemini · Vapi · Twilio · ElevenLabs</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SajalDevX/InstagramKtorServer">📸 Instagram Ktor Server</a></h3>
-      <p>Instagram-style social backend in Ktor: JWT auth, feeds, follows and media uploads. Pairs with the Ktor chat and auth servers in <a href="https://github.com/SajalDevX/KtorChatMainServer">KtorChatMainServer</a> and <a href="https://github.com/SajalDevX/KtorAuthMongoDb">KtorAuthMongoDb</a>.</p>
-      <img src="https://img.shields.io/badge/Ktor-087CFA?style=flat-square&logo=ktor&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+      <h3><a href="https://github.com/Jyntrix-ai/jyntrix-ai">Jyntrix AI</a></h3>
+      <p>Long-term memory for AI chat. Hybrid retrieval over Qdrant vectors, BM25, entity lookup and recency-aware selection; async pipeline with query analysis, token-budgeted context assembly and SSE-streamed responses.</p>
+      <sub>Python · Qdrant · RAG · SSE</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SajalDevX/Lufious">Lufious</a></h3>
+      <p>AI plant-care app. Clean Architecture + MVVM across five Compose modules with Koin DI; an expert-picker routes scans to 5+ specialised agents for disease detection and growth analysis; WebSocket chat, S3 uploads, Room + Flow offline layer.</p>
+      <sub>Kotlin · Jetpack Compose · Koin · Retrofit · Room</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SajalDevX/Gustosa">Gustosa</a></h3>
+      <p>College dining app serving 1,000+ students during the 10 PM – 2 AM night-canteen window. Compose + MVVM frontend, Firebase/Supabase backend, Minis payments, real-time order tracking with Realtime Database and FCM.</p>
+      <sub>Kotlin · Jetpack Compose · Firebase · Supabase</sub>
     </td>
   </tr>
 </table>
 
-<p align="right"><sub><a href="https://github.com/SajalDevX?tab=repositories&type=source">Browse all repositories →</a></sub></p>
+<p align="right"><sub><a href="https://github.com/SajalDevX?tab=repositories&type=source">all repositories →</a></sub></p>
 
-<br/>
+## Toolbox
 
-## 🧰 Toolbox
+<sub>languages</sub><br/>
+<img src="https://skillicons.dev/icons?i=kotlin,java,dart,python,cpp,js,ts&theme=dark" height="40" />
 
-<div align="center">
+<sub>mobile & frontend</sub><br/>
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,react,nextjs&theme=dark" height="40" />
 
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=kotlin,java,python,ts,js,go,cpp,c,dart,solidity&theme=dark" />
+<sub>backend & data</sub><br/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,go,postgres,mysql,mongodb,supabase,kafka,docker,aws,gcp,firebase&theme=dark" height="40" />
 
-**Mobile & Backend**<br/>
-<img src="https://skillicons.dev/icons?i=androidstudio,flutter,ktor,spring,fastapi,nodejs,express,graphql&theme=dark" />
+<sub>ai & edge</sub><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,raspberrypi&theme=dark" height="40" />
 
-**Data & Infrastructure**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,sqlite,docker,aws,firebase,nginx,kafka&theme=dark" />
+## Activity
 
-**Tooling**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,bash,gradle,postman,figma,pytorch,vercel&theme=dark" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SajalDevX&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e&text_color=8b949e&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=SajalDevX&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=8&hide=html,css,jupyter%20notebook&hide_title=true" />
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SajalDevX&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=8957e5&point=58a6ff&area=true&area_color=1f6feb&hide_title=true" width="100%" />
 
-<br/>
+## Contact
 
-## 📊 Activity
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SajalDevX&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=SajalDevX&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html,css,jupyter%20notebook" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SajalDevX&theme=github-dark-blue&hide_border=true&background=0d1117&ring=8957e5&fire=f78166&currStreakLabel=58a6ff" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SajalDevX&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=8957e5&point=58a6ff&area=true&area_color=1f6feb" width="100%" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SajalDevX/SajalDevX/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SajalDevX/SajalDevX/output/github-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/SajalDevX/SajalDevX/output/github-snake.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm open to Android and backend collaborations, open-source mentorship, and interesting bugs.
-
-<a href="https://github.com/SajalDevX"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-&nbsp;
-<a href="https://github.com/SajalDevX?tab=repositories"><img src="https://img.shields.io/badge/Projects-1f6feb?style=for-the-badge&logo=githubsponsors&logoColor=white" /></a>
-&nbsp;
-<a href="https://github.com/search?q=author%3ASajalDevX+is%3Apr+-user%3ASajalDevX&type=pullrequests"><img src="https://img.shields.io/badge/All_Pull_Requests-8957e5?style=for-the-badge&logo=git&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=110&section=footer" width="100%" />
-
-</div>
+Open to Android and backend roles, and to interesting bugs. [LinkedIn](https://www.linkedin.com/in/sajal-kumar-jana-803917289) · [kakalijana1254@gmail.com](mailto:kakalijana1254@gmail.com)
