@@ -221,13 +221,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 <sub>ai & edge</sub><br/>
 <img src="https://skillicons.dev/icons?i=pytorch,opencv,raspberrypi&theme=dark" height="40" />
 
-## Activity
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SajalDevX&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e&text_color=8b949e&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=SajalDevX&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=8&hide=html,css,jupyter%20notebook&hide_title=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SajalDevX&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=8957e5&point=58a6ff&area=true&area_color=1f6feb&hide_title=true" width="100%" />
-
 ## Contact
 
 Open to Android and backend roles, and to interesting bugs. [LinkedIn](https://www.linkedin.com/in/sajal-kumar-jana-803917289) · [kakalijana1254@gmail.com](mailto:kakalijana1254@gmail.com)
