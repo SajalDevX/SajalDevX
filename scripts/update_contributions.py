@@ -47,6 +47,21 @@ PROJECT_LABELS = {
     "JdeRobot/PerceptionMetrics": "JdeRobot PerceptionMetrics · CV evaluation",
     "openwisp/netjsonconfig": "OpenWISP netjsonconfig · network config rendering",
     "foss42/apidash": "API Dash · Flutter API client",
+    "FlexMeasures/flexmeasures": "FlexMeasures · energy flexibility platform",
+    "GAA-UAM/scikit-fda": "scikit-fda · functional data analysis",
+    "GMOD/jbrowse-components": "JBrowse 2 · genome browser",
+    "SimplexLab/TorchJD": "TorchJD · Jacobian descent for PyTorch",
+    "accordproject/concerto": "Accord Project Concerto · data modelling",
+    "gambitproject/gambit": "Gambit · game theory software",
+    "helmholtz-analytics/heat": "Heat · distributed tensors (Helmholtz)",
+    "holoviz/lumen": "HoloViz Lumen · data dashboards",
+    "ioos/compliance-checker": "IOOS Compliance Checker · NetCDF metadata",
+    "kiwix/kiwix-android": "Kiwix · offline Wikipedia (Android)",
+    "neutralinojs/neutralinojs": "Neutralinojs · lightweight desktop apps",
+    "ruxailab/RUXAILAB": "RUXAILAB · usability testing platform",
+    "scverse/anndata": "scverse anndata · annotated data matrices",
+    "sktime/skpro": "sktime skpro · probabilistic regression",
+    "traceopt-ai/traceml": "TraceML · ML observability",
 }
 
 
