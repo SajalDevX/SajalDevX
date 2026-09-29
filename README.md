@@ -33,8 +33,8 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 <!-- CONTRIB:START -->
 <p>
   <img src="https://img.shields.io/badge/pull_requests-58-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-10-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-44-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-13-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-39-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-39-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
@@ -43,8 +43,11 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 | Project | Pull request |
 |:--|:--|
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#512](https://github.com/traceopt-ai/traceml/pull/512) Spell out node scope in System diagnostic text |
+| **[`holoviz/lumen`](https://github.com/holoviz/lumen)**<br/><sub>HoloViz Lumen · data dashboards</sub> | [#2108](https://github.com/holoviz/lumen/pull/2108) Annotate `ViewOutputs.view` so it is a required output key |
 | **[`ruxailab/RUXAILAB`](https://github.com/ruxailab/RUXAILAB)**<br/><sub>RUXAILAB · usability testing platform</sub> | [#2395](https://github.com/ruxailab/RUXAILAB/pull/2395) fix(cooperators): style Admin role chip in cooperators table |
 | **[`mlflow/mlflow`](https://github.com/mlflow/mlflow)**<br/><sub>MLflow · ML lifecycle platform</sub> | [#26249](https://github.com/mlflow/mlflow/pull/26249) Accept lowercase `like`, `ilike` and `in` in `search_logged_models` filters |
+| **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)**<br/><sub>OneBusAway Maglev · transit REST API (Go)</sub> | [#1496](https://github.com/OneBusAway/maglev/pull/1496) Allow spaces in IDs |
+| **[`The-OpenROAD-Project/OpenROAD`](https://github.com/The-OpenROAD-Project/OpenROAD)**<br/><sub>OpenROAD · open-source RTL-to-GDS EDA</sub> | [#11541](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11541) web: drop heat map bins outside a polygon die area |
 | **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)**<br/><sub>OneBusAway Maglev · transit REST API (Go)</sub> | [#1493](https://github.com/OneBusAway/maglev/pull/1493) Return parent station in stops-for-location |
 | **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)**<br/><sub>OneBusAway Maglev · transit REST API (Go)</sub> | [#1490](https://github.com/OneBusAway/maglev/pull/1490) Reject NaN and Inf in float query parameters |
 | **[`ohcnetwork/care`](https://github.com/ohcnetwork/care)**<br/><sub>CARE · hospital & patient management (Django)</sub> | [#3770](https://github.com/ohcnetwork/care/pull/3770) Fix token numbers being reused after a token is deleted |
@@ -56,7 +59,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>44 open pull requests across 34 projects</b> — click to expand</summary>
+<summary><b>39 open pull requests across 32 projects</b> — click to expand</summary>
 
 **[`arxlang/arx`](https://github.com/arxlang/arx)** · <sub>Arx · compiler front-end (LLVM)</sub>
 - [#119](https://github.com/arxlang/arx/pull/119) fix(irx): lower unary minus and plus
@@ -68,11 +71,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 - [#3774](https://github.com/ohcnetwork/care/pull/3774) Fix schedule creation rejecting today and timezone-aware dates
 - [#3776](https://github.com/ohcnetwork/care/pull/3776) Fix 500 when listing appointments filtered by organization_ids
 
-**[`The-OpenROAD-Project/OpenROAD`](https://github.com/The-OpenROAD-Project/OpenROAD)** · <sub>OpenROAD · open-source RTL-to-GDS EDA</sub>
-- [#11522](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11522) dbSta: check Liberty transition tables and input capacitance in check_ip
-- [#11540](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11540) grt: keep the folded child's fixed layers in CUGR getSteinerTree
-- [#11541](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11541) web: drop heat map bins outside a polygon die area
-
 **[`dora-rs/dora-hub`](https://github.com/dora-rs/dora-hub)** · <sub>dora-rs · robotics dataflow nodes</sub>
 - [#90](https://github.com/dora-rs/dora-hub/pull/90) fix(dora-parquet-recorder): record string values instead of their offsets
 - [#91](https://github.com/dora-rs/dora-hub/pull/91) fix(dora-pyaudio): clip float audio before casting to int16
@@ -80,10 +78,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`fossasia/eventyay`](https://github.com/fossasia/eventyay)** · <sub>FOSSASIA eventyay · event ticketing</sub>
 - [#5913](https://github.com/fossasia/eventyay/pull/5913) fix(base): send the current usage fields from record_usage
 - [#5944](https://github.com/fossasia/eventyay/pull/5944) fix(control): limit how many voucher codes one request can generate
-
-**[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)** · <sub>OneBusAway Maglev · transit REST API (Go)</sub>
-- [#1495](https://github.com/OneBusAway/maglev/pull/1495) Resolve stop route IDs in schedule-for-route
-- [#1496](https://github.com/OneBusAway/maglev/pull/1496) Allow spaces in IDs
 
 **[`theochem/grid`](https://github.com/theochem/grid)** · <sub>theochem/grid · numerical integration</sub>
 - [#335](https://github.com/theochem/grid/pull/335) Fix 1D Cartesian orders in generate_orders_horton_order
@@ -113,17 +107,11 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`gambitproject/gambit`](https://github.com/gambitproject/gambit)** · <sub>Gambit · game theory software</sub>
 - [#1163](https://github.com/gambitproject/gambit/pull/1163) Fix missing closing parenthesis in repr() of an untitled Game
 
-**[`GMOD/jbrowse-components`](https://github.com/GMOD/jbrowse-components)** · <sub>JBrowse 2 · genome browser</sub>
-- [#5632](https://github.com/GMOD/jbrowse-components/pull/5632) Fix formatRelativeTime printing "60 seconds ago" / "24 hours ago" just under a unit boundary
-
 **[`helmholtz-analytics/heat`](https://github.com/helmholtz-analytics/heat)** · <sub>Heat · distributed tensors (Helmholtz)</sub>
 - [#2572](https://github.com/helmholtz-analytics/heat/pull/2572) Add array API compatible `cumulative_prod`
 
 **[`hermetoproject/hermeto`](https://github.com/hermetoproject/hermeto)** · <sub>Hermeto · hermetic build dependency fetcher</sub>
 - [#1788](https://github.com/hermetoproject/hermeto/pull/1788) fix(generic): map the java-source Maven type to a jar
-
-**[`holoviz/lumen`](https://github.com/holoviz/lumen)** · <sub>HoloViz Lumen · data dashboards</sub>
-- [#2108](https://github.com/holoviz/lumen/pull/2108) Annotate `ViewOutputs.view` so it is a required output key
 
 **[`JdeRobot/PerceptionMetrics`](https://github.com/JdeRobot/PerceptionMetrics)** · <sub>JdeRobot PerceptionMetrics · CV evaluation</sub>
 - [#643](https://github.com/JdeRobot/PerceptionMetrics/pull/643) Keep dots in sample names for YOLO and COCO datasets
@@ -149,6 +137,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`omegaup/omegaup`](https://github.com/omegaup/omegaup)** · <sub>omegaUp · competitive programming platform</sub>
 - [#10255](https://github.com/omegaup/omegaup/pull/10255) fix: escape every quote and quote line breaks in CSV cells
 
+**[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)** · <sub>OneBusAway Maglev · transit REST API (Go)</sub>
+- [#1495](https://github.com/OneBusAway/maglev/pull/1495) Resolve stop route IDs in schedule-for-route
+
 **[`openfoodfacts/open-prices`](https://github.com/openfoodfacts/open-prices)** · <sub>Open Food Facts · Open Prices (Django)</sub>
 - [#1460](https://github.com/openfoodfacts/open-prices/pull/1460) fix(Prices): reset duplicate_of when an edited price no longer matches
 
@@ -169,6 +160,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`Submitty/Submitty`](https://github.com/Submitty/Submitty)** · <sub>Submitty · course management & autograding</sub>
 - [#13384](https://github.com/Submitty/Submitty/pull/13384) [Bugfix:System] Quote DB URL credentials
+
+**[`The-OpenROAD-Project/OpenROAD`](https://github.com/The-OpenROAD-Project/OpenROAD)** · <sub>OpenROAD · open-source RTL-to-GDS EDA</sub>
+- [#11522](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11522) dbSta: check Liberty transition tables and input capacitance in check_ip
 
 </details>
 
