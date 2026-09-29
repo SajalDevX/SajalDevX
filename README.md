@@ -32,10 +32,10 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 <!-- CONTRIB:START -->
 <p>
-  <img src="https://img.shields.io/badge/pull_requests-40-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/pull_requests-42-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/merged-7-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-31-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/projects-24-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-33-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/projects-26-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
 ### Merged upstream
@@ -53,7 +53,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>31 open pull requests across 21 projects</b> — click to expand</summary>
+<summary><b>33 open pull requests across 23 projects</b> — click to expand</summary>
 
 **[`arxlang/arx`](https://github.com/arxlang/arx)** · <sub>Arx · compiler front-end (LLVM)</sub>
 - [#119](https://github.com/arxlang/arx/pull/119) fix(irx): lower unary minus and plus
@@ -101,8 +101,14 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`hermetoproject/hermeto`](https://github.com/hermetoproject/hermeto)** · <sub>Hermeto · hermetic build dependency fetcher</sub>
 - [#1788](https://github.com/hermetoproject/hermeto/pull/1788) fix(generic): map the java-source Maven type to a jar
 
+**[`ioos/compliance-checker`](https://github.com/ioos/compliance-checker)** · <sub>ioos/compliance-checker</sub>
+- [#1362](https://github.com/ioos/compliance-checker/pull/1362) cf §4.3.3: don't crash on unknown dimensionless vertical standard_name
+
 **[`JdeRobot/PerceptionMetrics`](https://github.com/JdeRobot/PerceptionMetrics)** · <sub>JdeRobot PerceptionMetrics · CV evaluation</sub>
 - [#643](https://github.com/JdeRobot/PerceptionMetrics/pull/643) Keep dots in sample names for YOLO and COCO datasets
+
+**[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)** · <sub>kiwix/kiwix-android</sub>
+- [#5145](https://github.com/kiwix/kiwix-android/pull/5145) Make the language filter ignore diacritics
 
 **[`kubeflow/kale`](https://github.com/kubeflow/kale)** · <sub>Kubeflow Kale · notebooks → pipelines</sub>
 - [#976](https://github.com/kubeflow/kale/pull/976) fix(backend): keep and escape annotation/label values that contain ':' or quotes
@@ -148,6 +154,8 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
   <a href="https://github.com/foss42/apidash"><img alt="foss42/apidash" src="https://img.shields.io/badge/apidash-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/fossasia/eventyay"><img alt="fossasia/eventyay" src="https://img.shields.io/badge/eventyay-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/hermetoproject/hermeto"><img alt="hermetoproject/hermeto" src="https://img.shields.io/badge/hermeto-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
+  <a href="https://github.com/ioos/compliance-checker"><img alt="ioos/compliance-checker" src="https://img.shields.io/badge/compliance--checker-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
+  <a href="https://github.com/kiwix/kiwix-android"><img alt="kiwix/kiwix-android" src="https://img.shields.io/badge/kiwix--android-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/kubeflow/kale"><img alt="kubeflow/kale" src="https://img.shields.io/badge/kale-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/mesa/mesa"><img alt="mesa/mesa" src="https://img.shields.io/badge/mesa-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/mlflow/mlflow"><img alt="mlflow/mlflow" src="https://img.shields.io/badge/mlflow-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
