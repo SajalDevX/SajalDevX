@@ -32,16 +32,19 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 <!-- CONTRIB:START -->
 <p>
-  <img src="https://img.shields.io/badge/pull_requests-42-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-7-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-33-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/projects-26-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/pull_requests-58-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-10-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-44-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/projects-39-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
 ### Merged upstream
 
 | Project | Pull request |
 |:--|:--|
+| **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#512](https://github.com/traceopt-ai/traceml/pull/512) Spell out node scope in System diagnostic text |
+| **[`ruxailab/RUXAILAB`](https://github.com/ruxailab/RUXAILAB)**<br/><sub>RUXAILAB · usability testing platform</sub> | [#2395](https://github.com/ruxailab/RUXAILAB/pull/2395) fix(cooperators): style Admin role chip in cooperators table |
+| **[`mlflow/mlflow`](https://github.com/mlflow/mlflow)**<br/><sub>MLflow · ML lifecycle platform</sub> | [#26249](https://github.com/mlflow/mlflow/pull/26249) Accept lowercase `like`, `ilike` and `in` in `search_logged_models` filters |
 | **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)**<br/><sub>OneBusAway Maglev · transit REST API (Go)</sub> | [#1493](https://github.com/OneBusAway/maglev/pull/1493) Return parent station in stops-for-location |
 | **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)**<br/><sub>OneBusAway Maglev · transit REST API (Go)</sub> | [#1490](https://github.com/OneBusAway/maglev/pull/1490) Reject NaN and Inf in float query parameters |
 | **[`ohcnetwork/care`](https://github.com/ohcnetwork/care)**<br/><sub>CARE · hospital & patient management (Django)</sub> | [#3770](https://github.com/ohcnetwork/care/pull/3770) Fix token numbers being reused after a token is deleted |
@@ -53,7 +56,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>33 open pull requests across 23 projects</b> — click to expand</summary>
+<summary><b>44 open pull requests across 34 projects</b> — click to expand</summary>
 
 **[`arxlang/arx`](https://github.com/arxlang/arx)** · <sub>Arx · compiler front-end (LLVM)</sub>
 - [#119](https://github.com/arxlang/arx/pull/119) fix(irx): lower unary minus and plus
@@ -86,6 +89,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 - [#335](https://github.com/theochem/grid/pull/335) Fix 1D Cartesian orders in generate_orders_horton_order
 - [#337](https://github.com/theochem/grid/pull/337) Include the last term in the Fejer quadrature weights
 
+**[`accordproject/concerto`](https://github.com/accordproject/concerto)** · <sub>Accord Project Concerto · data modelling</sub>
+- [#1420](https://github.com/accordproject/concerto/pull/1420) fix(build): make the ESM smoke test independent of the local timezone
+
 **[`ankidroid/Anki-Android`](https://github.com/ankidroid/Anki-Android)** · <sub>AnkiDroid · spaced-repetition Android app</sub>
 - [#21383](https://github.com/ankidroid/Anki-Android/pull/21383) fix(reviewer): replace AlphaAnimation with ViewPropertyanimator in AnswerFeedbackView
 
@@ -98,16 +104,31 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`CircuitVerse/cv-frontend-vue`](https://github.com/CircuitVerse/cv-frontend-vue)** · <sub>CircuitVerse · digital logic simulator (Vue)</sub>
 - [#1334](https://github.com/CircuitVerse/cv-frontend-vue/pull/1334) fix(vuesim): use 2 ** bitWidth for Stepper and RAM range limits
 
+**[`FlexMeasures/flexmeasures`](https://github.com/FlexMeasures/flexmeasures)** · <sub>FlexMeasures · energy flexibility platform</sub>
+- [#2618](https://github.com/FlexMeasures/flexmeasures/pull/2618) Answer unknown /api URLs with a JSON 404
+
+**[`GAA-UAM/scikit-fda`](https://github.com/GAA-UAM/scikit-fda)** · <sub>scikit-fda · functional data analysis</sub>
+- [#722](https://github.com/GAA-UAM/scikit-fda/pull/722) Evaluate FDataIrregular samples on their own points
+
+**[`gambitproject/gambit`](https://github.com/gambitproject/gambit)** · <sub>Gambit · game theory software</sub>
+- [#1163](https://github.com/gambitproject/gambit/pull/1163) Fix missing closing parenthesis in repr() of an untitled Game
+
+**[`GMOD/jbrowse-components`](https://github.com/GMOD/jbrowse-components)** · <sub>JBrowse 2 · genome browser</sub>
+- [#5632](https://github.com/GMOD/jbrowse-components/pull/5632) Fix formatRelativeTime printing "60 seconds ago" / "24 hours ago" just under a unit boundary
+
+**[`helmholtz-analytics/heat`](https://github.com/helmholtz-analytics/heat)** · <sub>Heat · distributed tensors (Helmholtz)</sub>
+- [#2572](https://github.com/helmholtz-analytics/heat/pull/2572) Add array API compatible `cumulative_prod`
+
 **[`hermetoproject/hermeto`](https://github.com/hermetoproject/hermeto)** · <sub>Hermeto · hermetic build dependency fetcher</sub>
 - [#1788](https://github.com/hermetoproject/hermeto/pull/1788) fix(generic): map the java-source Maven type to a jar
 
-**[`ioos/compliance-checker`](https://github.com/ioos/compliance-checker)** · <sub>ioos/compliance-checker</sub>
-- [#1362](https://github.com/ioos/compliance-checker/pull/1362) cf §4.3.3: don't crash on unknown dimensionless vertical standard_name
+**[`holoviz/lumen`](https://github.com/holoviz/lumen)** · <sub>HoloViz Lumen · data dashboards</sub>
+- [#2108](https://github.com/holoviz/lumen/pull/2108) Annotate `ViewOutputs.view` so it is a required output key
 
 **[`JdeRobot/PerceptionMetrics`](https://github.com/JdeRobot/PerceptionMetrics)** · <sub>JdeRobot PerceptionMetrics · CV evaluation</sub>
 - [#643](https://github.com/JdeRobot/PerceptionMetrics/pull/643) Keep dots in sample names for YOLO and COCO datasets
 
-**[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)** · <sub>kiwix/kiwix-android</sub>
+**[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)** · <sub>Kiwix · offline Wikipedia (Android)</sub>
 - [#5145](https://github.com/kiwix/kiwix-android/pull/5145) Make the language filter ignore diacritics
 
 **[`kubeflow/kale`](https://github.com/kubeflow/kale)** · <sub>Kubeflow Kale · notebooks → pipelines</sub>
@@ -122,6 +143,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`neuroinformatics-unit/movement`](https://github.com/neuroinformatics-unit/movement)** · <sub>movement · animal pose-tracking analysis</sub>
 - [#1122](https://github.com/neuroinformatics-unit/movement/pull/1122) Round frame numbers when exporting VIA tracks with time in seconds
 
+**[`neutralinojs/neutralinojs`](https://github.com/neutralinojs/neutralinojs)** · <sub>Neutralinojs · lightweight desktop apps</sub>
+- [#1851](https://github.com/neutralinojs/neutralinojs/pull/1851) Fix per-interface MAC addresses and schema in computer.getNetworkInterfaces
+
 **[`omegaup/omegaup`](https://github.com/omegaup/omegaup)** · <sub>omegaUp · competitive programming platform</sub>
 - [#10255](https://github.com/omegaup/omegaup/pull/10255) fix: escape every quote and quote line breaks in CSV cells
 
@@ -130,6 +154,18 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`OpenMS/pyopenms_viz`](https://github.com/OpenMS/pyopenms_viz)** · <sub>OpenMS · pyopenms_viz (mass-spec plotting)</sub>
 - [#183](https://github.com/OpenMS/pyopenms_viz/pull/183) Let pyopenms_viz import without matplotlib or Pillow
+
+**[`ruxailab/RUXAILAB`](https://github.com/ruxailab/RUXAILAB)** · <sub>RUXAILAB · usability testing platform</sub>
+- [#2397](https://github.com/ruxailab/RUXAILAB/pull/2397) fix(dashboard): show the next upcoming session on the dashboard card
+
+**[`scverse/anndata`](https://github.com/scverse/anndata)** · <sub>scverse anndata · annotated data matrices</sub>
+- [#2667](https://github.com/scverse/anndata/pull/2667) fix: name offending elements when writing object arrays with non-strings to h5ad
+
+**[`SimplexLab/TorchJD`](https://github.com/SimplexLab/TorchJD)** · <sub>TorchJD · Jacobian descent for PyTorch</sub>
+- [#787](https://github.com/SimplexLab/TorchJD/pull/787) fix(aggregation): Apply ExcessMTL exponentiation in log domain
+
+**[`sktime/skpro`](https://github.com/sktime/skpro)** · <sub>sktime skpro · probabilistic regression</sub>
+- [#1177](https://github.com/sktime/skpro/pull/1177) [DOC] add usage example to ConcordanceHarrell docstring
 
 **[`Submitty/Submitty`](https://github.com/Submitty/Submitty)** · <sub>Submitty · course management & autograding</sub>
 - [#13384](https://github.com/Submitty/Submitty/pull/13384) [Bugfix:System] Quote DB URL credentials
@@ -142,29 +178,42 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
   <a href="https://github.com/CCExtractor/ccextractor"><img alt="CCExtractor/ccextractor" src="https://img.shields.io/badge/ccextractor-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/CCExtractor/sample-platform"><img alt="CCExtractor/sample-platform" src="https://img.shields.io/badge/sample--platform-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/CircuitVerse/cv-frontend-vue"><img alt="CircuitVerse/cv-frontend-vue" src="https://img.shields.io/badge/cv--frontend--vue-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
+  <a href="https://github.com/FlexMeasures/flexmeasures"><img alt="FlexMeasures/flexmeasures" src="https://img.shields.io/badge/flexmeasures-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
+  <a href="https://github.com/GAA-UAM/scikit-fda"><img alt="GAA-UAM/scikit-fda" src="https://img.shields.io/badge/scikit--fda-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
+  <a href="https://github.com/GMOD/jbrowse-components"><img alt="GMOD/jbrowse-components" src="https://img.shields.io/badge/jbrowse--components-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/JdeRobot/PerceptionMetrics"><img alt="JdeRobot/PerceptionMetrics" src="https://img.shields.io/badge/PerceptionMetrics-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/OneBusAway/maglev"><img alt="OneBusAway/maglev" src="https://img.shields.io/badge/maglev-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/OpenMS/pyopenms_viz"><img alt="OpenMS/pyopenms_viz" src="https://img.shields.io/badge/pyopenms__viz-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
+  <a href="https://github.com/SimplexLab/TorchJD"><img alt="SimplexLab/TorchJD" src="https://img.shields.io/badge/TorchJD-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/Submitty/Submitty"><img alt="Submitty/Submitty" src="https://img.shields.io/badge/Submitty-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/TeamAmaze/AmazeFileManager"><img alt="TeamAmaze/AmazeFileManager" src="https://img.shields.io/badge/AmazeFileManager-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/The-OpenROAD-Project/OpenROAD"><img alt="The-OpenROAD-Project/OpenROAD" src="https://img.shields.io/badge/OpenROAD-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
+  <a href="https://github.com/accordproject/concerto"><img alt="accordproject/concerto" src="https://img.shields.io/badge/concerto-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/ankidroid/Anki-Android"><img alt="ankidroid/Anki-Android" src="https://img.shields.io/badge/Anki--Android-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/arxlang/arx"><img alt="arxlang/arx" src="https://img.shields.io/badge/arx-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/dora-rs/dora-hub"><img alt="dora-rs/dora-hub" src="https://img.shields.io/badge/dora--hub-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/foss42/apidash"><img alt="foss42/apidash" src="https://img.shields.io/badge/apidash-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/fossasia/eventyay"><img alt="fossasia/eventyay" src="https://img.shields.io/badge/eventyay-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
+  <a href="https://github.com/gambitproject/gambit"><img alt="gambitproject/gambit" src="https://img.shields.io/badge/gambit-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
+  <a href="https://github.com/helmholtz-analytics/heat"><img alt="helmholtz-analytics/heat" src="https://img.shields.io/badge/heat-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/hermetoproject/hermeto"><img alt="hermetoproject/hermeto" src="https://img.shields.io/badge/hermeto-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
+  <a href="https://github.com/holoviz/lumen"><img alt="holoviz/lumen" src="https://img.shields.io/badge/lumen-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/ioos/compliance-checker"><img alt="ioos/compliance-checker" src="https://img.shields.io/badge/compliance--checker-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/kiwix/kiwix-android"><img alt="kiwix/kiwix-android" src="https://img.shields.io/badge/kiwix--android-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/kubeflow/kale"><img alt="kubeflow/kale" src="https://img.shields.io/badge/kale-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/mesa/mesa"><img alt="mesa/mesa" src="https://img.shields.io/badge/mesa-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/mlflow/mlflow"><img alt="mlflow/mlflow" src="https://img.shields.io/badge/mlflow-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/neuroinformatics-unit/movement"><img alt="neuroinformatics-unit/movement" src="https://img.shields.io/badge/movement-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
+  <a href="https://github.com/neutralinojs/neutralinojs"><img alt="neutralinojs/neutralinojs" src="https://img.shields.io/badge/neutralinojs-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/ohcnetwork/care"><img alt="ohcnetwork/care" src="https://img.shields.io/badge/care-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/omegaup/omegaup"><img alt="omegaup/omegaup" src="https://img.shields.io/badge/omegaup-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/openfoodfacts/open-prices"><img alt="openfoodfacts/open-prices" src="https://img.shields.io/badge/open--prices-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/openwisp/netjsonconfig"><img alt="openwisp/netjsonconfig" src="https://img.shields.io/badge/netjsonconfig-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
+  <a href="https://github.com/ruxailab/RUXAILAB"><img alt="ruxailab/RUXAILAB" src="https://img.shields.io/badge/RUXAILAB-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
+  <a href="https://github.com/scverse/anndata"><img alt="scverse/anndata" src="https://img.shields.io/badge/anndata-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
+  <a href="https://github.com/sktime/skpro"><img alt="sktime/skpro" src="https://img.shields.io/badge/skpro-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/theochem/grid"><img alt="theochem/grid" src="https://img.shields.io/badge/grid-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
+  <a href="https://github.com/traceopt-ai/traceml"><img alt="traceopt-ai/traceml" src="https://img.shields.io/badge/traceml-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
 </p>
 <!-- CONTRIB:END -->
 
