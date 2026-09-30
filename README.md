@@ -33,8 +33,8 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 <!-- CONTRIB:START -->
 <p>
   <img src="https://img.shields.io/badge/pull_requests-62-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-14-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-42-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-15-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-41-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-41-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
@@ -52,6 +52,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 | **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)**<br/><sub>OneBusAway Maglev · transit REST API (Go)</sub> | [#1493](https://github.com/OneBusAway/maglev/pull/1493) Return parent station in stops-for-location |
 | **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)**<br/><sub>OneBusAway Maglev · transit REST API (Go)</sub> | [#1490](https://github.com/OneBusAway/maglev/pull/1490) Reject NaN and Inf in float query parameters |
 | **[`ohcnetwork/care`](https://github.com/ohcnetwork/care)**<br/><sub>CARE · hospital & patient management (Django)</sub> | [#3770](https://github.com/ohcnetwork/care/pull/3770) Fix token numbers being reused after a token is deleted |
+| **[`neuroinformatics-unit/movement`](https://github.com/neuroinformatics-unit/movement)**<br/><sub>movement · animal pose-tracking analysis</sub> | [#1122](https://github.com/neuroinformatics-unit/movement/pull/1122) Round frame numbers when exporting VIA tracks with time in seconds |
 | **[`The-OpenROAD-Project/OpenROAD`](https://github.com/The-OpenROAD-Project/OpenROAD)**<br/><sub>OpenROAD · open-source RTL-to-GDS EDA</sub> | [#11523](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11523) bazel: enable layering_check on the dft and dst tests |
 | **[`The-OpenROAD-Project/OpenROAD`](https://github.com/The-OpenROAD-Project/OpenROAD)**<br/><sub>OpenROAD · open-source RTL-to-GDS EDA</sub> | [#11410](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11410) odb: keep LEF SPACING on OBS POLYGON geometry |
 | **[`ankidroid/Anki-Android`](https://github.com/ankidroid/Anki-Android)**<br/><sub>AnkiDroid · spaced-repetition Android app</sub> | [#21374](https://github.com/ankidroid/Anki-Android/pull/21374) fix(filtered-deck): preserve error message for InvalidSearchException |
@@ -60,7 +61,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>42 open pull requests across 33 projects</b> — click to expand</summary>
+<summary><b>41 open pull requests across 32 projects</b> — click to expand</summary>
 
 **[`arxlang/arx`](https://github.com/arxlang/arx)** · <sub>Arx · compiler front-end (LLVM)</sub>
 - [#119](https://github.com/arxlang/arx/pull/119) fix(irx): lower unary minus and plus
@@ -133,9 +134,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`mlflow/mlflow`](https://github.com/mlflow/mlflow)** · <sub>MLflow · ML lifecycle platform</sub>
 - [#26190](https://github.com/mlflow/mlflow/pull/26190) Make `set_mcp_server_alias` safe against concurrent `delete_mcp_server_version`
-
-**[`neuroinformatics-unit/movement`](https://github.com/neuroinformatics-unit/movement)** · <sub>movement · animal pose-tracking analysis</sub>
-- [#1122](https://github.com/neuroinformatics-unit/movement/pull/1122) Round frame numbers when exporting VIA tracks with time in seconds
 
 **[`neutralinojs/neutralinojs`](https://github.com/neutralinojs/neutralinojs)** · <sub>Neutralinojs · lightweight desktop apps</sub>
 - [#1851](https://github.com/neutralinojs/neutralinojs/pull/1851) Fix per-interface MAC addresses and schema in computer.getNetworkInterfaces
