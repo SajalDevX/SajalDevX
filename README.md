@@ -33,8 +33,8 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 <!-- CONTRIB:START -->
 <p>
   <img src="https://img.shields.io/badge/pull_requests-65-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-16-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-43-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-17-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-42-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-41-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
@@ -50,6 +50,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 | **[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)**<br/><sub>Kiwix · offline Wikipedia (Android)</sub> | [#5145](https://github.com/kiwix/kiwix-android/pull/5145) Make the language filter ignore diacritics |
 | **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)**<br/><sub>OneBusAway Maglev · transit REST API (Go)</sub> | [#1496](https://github.com/OneBusAway/maglev/pull/1496) Allow spaces in IDs |
 | **[`The-OpenROAD-Project/OpenROAD`](https://github.com/The-OpenROAD-Project/OpenROAD)**<br/><sub>OpenROAD · open-source RTL-to-GDS EDA</sub> | [#11541](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11541) web: drop heat map bins outside a polygon die area |
+| **[`omegaup/omegaup`](https://github.com/omegaup/omegaup)**<br/><sub>omegaUp · competitive programming platform</sub> | [#10255](https://github.com/omegaup/omegaup/pull/10255) fix: escape every quote and quote line breaks in CSV cells |
 | **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)**<br/><sub>OneBusAway Maglev · transit REST API (Go)</sub> | [#1493](https://github.com/OneBusAway/maglev/pull/1493) Return parent station in stops-for-location |
 | **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)**<br/><sub>OneBusAway Maglev · transit REST API (Go)</sub> | [#1490](https://github.com/OneBusAway/maglev/pull/1490) Reject NaN and Inf in float query parameters |
 | **[`ohcnetwork/care`](https://github.com/ohcnetwork/care)**<br/><sub>CARE · hospital & patient management (Django)</sub> | [#3770](https://github.com/ohcnetwork/care/pull/3770) Fix token numbers being reused after a token is deleted |
@@ -62,7 +63,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>43 open pull requests across 34 projects</b> — click to expand</summary>
+<summary><b>42 open pull requests across 33 projects</b> — click to expand</summary>
 
 **[`arxlang/arx`](https://github.com/arxlang/arx)** · <sub>Arx · compiler front-end (LLVM)</sub>
 - [#119](https://github.com/arxlang/arx/pull/119) fix(irx): lower unary minus and plus
@@ -144,9 +145,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`neutralinojs/neutralinojs`](https://github.com/neutralinojs/neutralinojs)** · <sub>Neutralinojs · lightweight desktop apps</sub>
 - [#1851](https://github.com/neutralinojs/neutralinojs/pull/1851) Fix per-interface MAC addresses and schema in computer.getNetworkInterfaces
-
-**[`omegaup/omegaup`](https://github.com/omegaup/omegaup)** · <sub>omegaUp · competitive programming platform</sub>
-- [#10255](https://github.com/omegaup/omegaup/pull/10255) fix: escape every quote and quote line breaks in CSV cells
 
 **[`openfoodfacts/open-prices`](https://github.com/openfoodfacts/open-prices)** · <sub>Open Food Facts · Open Prices (Django)</sub>
 - [#1460](https://github.com/openfoodfacts/open-prices/pull/1460) fix(Prices): reset duplicate_of when an edited price no longer matches
