@@ -34,7 +34,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 <p>
   <img src="https://img.shields.io/badge/pull_requests-69-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/merged-19-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-44-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-43-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
@@ -65,7 +65,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>44 open pull requests across 35 projects</b> — click to expand</summary>
+<summary><b>43 open pull requests across 35 projects</b> — click to expand</summary>
 
 **[`arxlang/arx`](https://github.com/arxlang/arx)** · <sub>Arx · compiler front-end (LLVM)</sub>
 - [#119](https://github.com/arxlang/arx/pull/119) fix(irx): lower unary minus and plus
@@ -92,10 +92,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`The-OpenROAD-Project/OpenROAD`](https://github.com/The-OpenROAD-Project/OpenROAD)** · <sub>OpenROAD · open-source RTL-to-GDS EDA</sub>
 - [#11522](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11522) dbSta: check Liberty transition tables and input capacitance in check_ip
 - [#11582](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11582) bazel: keep layering_check on for gpl fft_gpu_test
-
-**[`theochem/grid`](https://github.com/theochem/grid)** · <sub>theochem/grid · numerical integration</sub>
-- [#335](https://github.com/theochem/grid/pull/335) Fix 1D Cartesian orders in generate_orders_horton_order
-- [#337](https://github.com/theochem/grid/pull/337) Include the last term in the Fejer quadrature weights
 
 **[`accordproject/concerto`](https://github.com/accordproject/concerto)** · <sub>Accord Project Concerto · data modelling</sub>
 - [#1420](https://github.com/accordproject/concerto/pull/1420) fix(build): make the ESM smoke test independent of the local timezone
@@ -177,6 +173,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`The-OpenROAD-Project/OpenSTA`](https://github.com/The-OpenROAD-Project/OpenSTA)** · <sub>The-OpenROAD-Project/OpenSTA</sub>
 - [#419](https://github.com/The-OpenROAD-Project/OpenSTA/pull/419) bazel: export dcalc/DmpCeff.hh from opensta_lib
+
+**[`theochem/grid`](https://github.com/theochem/grid)** · <sub>theochem/grid · numerical integration</sub>
+- [#335](https://github.com/theochem/grid/pull/335) Fix 1D Cartesian orders in generate_orders_horton_order
 
 **[`tslearn-team/tslearn`](https://github.com/tslearn-team/tslearn)** · <sub>tslearn-team/tslearn</sub>
 - [#739](https://github.com/tslearn-team/tslearn/pull/739) Let piecewise distance() take time series of different lengths
