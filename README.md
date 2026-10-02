@@ -32,10 +32,10 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 <!-- CONTRIB:START -->
 <p>
-  <img src="https://img.shields.io/badge/pull_requests-65-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/pull_requests-69-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/merged-17-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-42-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/projects-41-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-46-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
 ### Merged upstream
@@ -63,7 +63,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>42 open pull requests across 33 projects</b> — click to expand</summary>
+<summary><b>46 open pull requests across 37 projects</b> — click to expand</summary>
 
 **[`arxlang/arx`](https://github.com/arxlang/arx)** · <sub>Arx · compiler front-end (LLVM)</sub>
 - [#119](https://github.com/arxlang/arx/pull/119) fix(irx): lower unary minus and plus
@@ -119,11 +119,17 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`gambitproject/gambit`](https://github.com/gambitproject/gambit)** · <sub>Gambit · game theory software</sub>
 - [#1163](https://github.com/gambitproject/gambit/pull/1163) Fix missing closing parenthesis in repr() of an untitled Game
 
+**[`gprMax/gprMax`](https://github.com/gprMax/gprMax)** · <sub>gprMax/gprMax</sub>
+- [#868](https://github.com/gprMax/gprMax/pull/868) Accept CRIM volumetric fractions that sum to one within rounding
+
 **[`helmholtz-analytics/heat`](https://github.com/helmholtz-analytics/heat)** · <sub>Heat · distributed tensors (Helmholtz)</sub>
 - [#2572](https://github.com/helmholtz-analytics/heat/pull/2572) Add array API compatible `cumulative_prod`
 
 **[`hermetoproject/hermeto`](https://github.com/hermetoproject/hermeto)** · <sub>Hermeto · hermetic build dependency fetcher</sub>
 - [#1788](https://github.com/hermetoproject/hermeto/pull/1788) fix(generic): map the java-source Maven type to a jar
+
+**[`HSF/phoenix`](https://github.com/HSF/phoenix)** · <sub>HSF/phoenix</sub>
+- [#1041](https://github.com/HSF/phoenix/pull/1041) fix(event-display): keep jivexml backward track theta and charge
 
 **[`JdeRobot/PerceptionMetrics`](https://github.com/JdeRobot/PerceptionMetrics)** · <sub>JdeRobot PerceptionMetrics · CV evaluation</sub>
 - [#643](https://github.com/JdeRobot/PerceptionMetrics/pull/643) Keep dots in sample names for YOLO and COCO datasets
@@ -136,6 +142,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`mesa/mesa`](https://github.com/mesa/mesa)** · <sub>Mesa · agent-based modelling (Python)</sub>
 - [#3882](https://github.com/mesa/mesa/pull/3882) Don't run an EventGenerator whose first run is after schedule.end
+
+**[`meshery/meshery`](https://github.com/meshery/meshery)** · <sub>meshery/meshery</sub>
+- [#22184](https://github.com/meshery/meshery/pull/22184) [Server] Fix SanitizeFileName panic for names without extension
 
 **[`mlflow/mlflow`](https://github.com/mlflow/mlflow)** · <sub>MLflow · ML lifecycle platform</sub>
 - [#26190](https://github.com/mlflow/mlflow/pull/26190) Make `set_mcp_server_alias` safe against concurrent `delete_mcp_server_version`
@@ -164,6 +173,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`sktime/skpro`](https://github.com/sktime/skpro)** · <sub>sktime skpro · probabilistic regression</sub>
 - [#1177](https://github.com/sktime/skpro/pull/1177) [DOC] add usage example to ConcordanceHarrell docstring
 
+**[`stdlib-js/stdlib`](https://github.com/stdlib-js/stdlib)** · <sub>stdlib-js/stdlib</sub>
+- [#15781](https://github.com/stdlib-js/stdlib/pull/15781) fix: return MGF for number of failures in `stats/base/dists/geometric/mgf`
+
 **[`Submitty/Submitty`](https://github.com/Submitty/Submitty)** · <sub>Submitty · course management & autograding</sub>
 - [#13384](https://github.com/Submitty/Submitty/pull/13384) [Bugfix:System] Quote DB URL credentials
 
@@ -184,6 +196,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
   <a href="https://github.com/FlexMeasures/flexmeasures"><img alt="FlexMeasures/flexmeasures" src="https://img.shields.io/badge/flexmeasures-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/GAA-UAM/scikit-fda"><img alt="GAA-UAM/scikit-fda" src="https://img.shields.io/badge/scikit--fda-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/GMOD/jbrowse-components"><img alt="GMOD/jbrowse-components" src="https://img.shields.io/badge/jbrowse--components-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
+  <a href="https://github.com/HSF/phoenix"><img alt="HSF/phoenix" src="https://img.shields.io/badge/phoenix-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/JdeRobot/PerceptionMetrics"><img alt="JdeRobot/PerceptionMetrics" src="https://img.shields.io/badge/PerceptionMetrics-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/OneBusAway/maglev"><img alt="OneBusAway/maglev" src="https://img.shields.io/badge/maglev-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/OpenMS/pyopenms_viz"><img alt="OpenMS/pyopenms_viz" src="https://img.shields.io/badge/pyopenms__viz-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
@@ -199,6 +212,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
   <a href="https://github.com/foss42/apidash"><img alt="foss42/apidash" src="https://img.shields.io/badge/apidash-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/fossasia/eventyay"><img alt="fossasia/eventyay" src="https://img.shields.io/badge/eventyay-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/gambitproject/gambit"><img alt="gambitproject/gambit" src="https://img.shields.io/badge/gambit-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
+  <a href="https://github.com/gprMax/gprMax"><img alt="gprMax/gprMax" src="https://img.shields.io/badge/gprMax-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/helmholtz-analytics/heat"><img alt="helmholtz-analytics/heat" src="https://img.shields.io/badge/heat-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/hermetoproject/hermeto"><img alt="hermetoproject/hermeto" src="https://img.shields.io/badge/hermeto-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/holoviz/lumen"><img alt="holoviz/lumen" src="https://img.shields.io/badge/lumen-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
@@ -206,6 +220,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
   <a href="https://github.com/kiwix/kiwix-android"><img alt="kiwix/kiwix-android" src="https://img.shields.io/badge/kiwix--android-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/kubeflow/kale"><img alt="kubeflow/kale" src="https://img.shields.io/badge/kale-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/mesa/mesa"><img alt="mesa/mesa" src="https://img.shields.io/badge/mesa-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
+  <a href="https://github.com/meshery/meshery"><img alt="meshery/meshery" src="https://img.shields.io/badge/meshery-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/mlflow/mlflow"><img alt="mlflow/mlflow" src="https://img.shields.io/badge/mlflow-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/neuroinformatics-unit/movement"><img alt="neuroinformatics-unit/movement" src="https://img.shields.io/badge/movement-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/neutralinojs/neutralinojs"><img alt="neutralinojs/neutralinojs" src="https://img.shields.io/badge/neutralinojs-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
@@ -216,6 +231,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
   <a href="https://github.com/ruxailab/RUXAILAB"><img alt="ruxailab/RUXAILAB" src="https://img.shields.io/badge/RUXAILAB-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/scverse/anndata"><img alt="scverse/anndata" src="https://img.shields.io/badge/anndata-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/sktime/skpro"><img alt="sktime/skpro" src="https://img.shields.io/badge/skpro-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
+  <a href="https://github.com/stdlib-js/stdlib"><img alt="stdlib-js/stdlib" src="https://img.shields.io/badge/stdlib-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/theochem/grid"><img alt="theochem/grid" src="https://img.shields.io/badge/grid-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/traceopt-ai/traceml"><img alt="traceopt-ai/traceml" src="https://img.shields.io/badge/traceml-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/tslearn-team/tslearn"><img alt="tslearn-team/tslearn" src="https://img.shields.io/badge/tslearn-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
