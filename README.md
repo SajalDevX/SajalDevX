@@ -33,8 +33,8 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 <!-- CONTRIB:START -->
 <p>
   <img src="https://img.shields.io/badge/pull_requests-74-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-22-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-45-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-23-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-44-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
@@ -60,6 +60,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 | **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)**<br/><sub>OneBusAway Maglev · transit REST API (Go)</sub> | [#1490](https://github.com/OneBusAway/maglev/pull/1490) Reject NaN and Inf in float query parameters |
 | **[`ohcnetwork/care`](https://github.com/ohcnetwork/care)**<br/><sub>CARE · hospital & patient management (Django)</sub> | [#3770](https://github.com/ohcnetwork/care/pull/3770) Fix token numbers being reused after a token is deleted |
 | **[`neuroinformatics-unit/movement`](https://github.com/neuroinformatics-unit/movement)**<br/><sub>movement · animal pose-tracking analysis</sub> | [#1122](https://github.com/neuroinformatics-unit/movement/pull/1122) Round frame numbers when exporting VIA tracks with time in seconds |
+| **[`fossasia/eventyay`](https://github.com/fossasia/eventyay)**<br/><sub>FOSSASIA eventyay · event ticketing</sub> | [#5913](https://github.com/fossasia/eventyay/pull/5913) fix(base): send the current usage fields from record_usage |
 | **[`The-OpenROAD-Project/OpenROAD`](https://github.com/The-OpenROAD-Project/OpenROAD)**<br/><sub>OpenROAD · open-source RTL-to-GDS EDA</sub> | [#11523](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11523) bazel: enable layering_check on the dft and dst tests |
 | **[`The-OpenROAD-Project/OpenROAD`](https://github.com/The-OpenROAD-Project/OpenROAD)**<br/><sub>OpenROAD · open-source RTL-to-GDS EDA</sub> | [#11410](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11410) odb: keep LEF SPACING on OBS POLYGON geometry |
 | **[`ankidroid/Anki-Android`](https://github.com/ankidroid/Anki-Android)**<br/><sub>AnkiDroid · spaced-repetition Android app</sub> | [#21374](https://github.com/ankidroid/Anki-Android/pull/21374) fix(filtered-deck): preserve error message for InvalidSearchException |
@@ -68,7 +69,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>45 open pull requests across 36 projects</b> — click to expand</summary>
+<summary><b>44 open pull requests across 36 projects</b> — click to expand</summary>
 
 **[`arxlang/arx`](https://github.com/arxlang/arx)** · <sub>Arx · compiler front-end (LLVM)</sub>
 - [#119](https://github.com/arxlang/arx/pull/119) fix(irx): lower unary minus and plus
@@ -88,10 +89,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`dora-rs/dora-hub`](https://github.com/dora-rs/dora-hub)** · <sub>dora-rs · robotics dataflow nodes</sub>
 - [#90](https://github.com/dora-rs/dora-hub/pull/90) fix(dora-parquet-recorder): record string values instead of their offsets
 - [#91](https://github.com/dora-rs/dora-hub/pull/91) fix(dora-pyaudio): clip float audio before casting to int16
-
-**[`fossasia/eventyay`](https://github.com/fossasia/eventyay)** · <sub>FOSSASIA eventyay · event ticketing</sub>
-- [#5913](https://github.com/fossasia/eventyay/pull/5913) fix(base): send the current usage fields from record_usage
-- [#5944](https://github.com/fossasia/eventyay/pull/5944) fix(control): limit how many voucher codes one request can generate
 
 **[`The-OpenROAD-Project/OpenROAD`](https://github.com/The-OpenROAD-Project/OpenROAD)** · <sub>OpenROAD · open-source RTL-to-GDS EDA</sub>
 - [#11522](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11522) dbSta: check Liberty transition tables and input capacitance in check_ip
@@ -114,6 +111,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`FlexMeasures/flexmeasures`](https://github.com/FlexMeasures/flexmeasures)** · <sub>FlexMeasures · energy flexibility platform</sub>
 - [#2618](https://github.com/FlexMeasures/flexmeasures/pull/2618) Answer unknown /api URLs with a JSON 404
+
+**[`fossasia/eventyay`](https://github.com/fossasia/eventyay)** · <sub>FOSSASIA eventyay · event ticketing</sub>
+- [#5944](https://github.com/fossasia/eventyay/pull/5944) fix(control): limit how many voucher codes one request can generate
 
 **[`GAA-UAM/scikit-fda`](https://github.com/GAA-UAM/scikit-fda)** · <sub>scikit-fda · functional data analysis</sub>
 - [#722](https://github.com/GAA-UAM/scikit-fda/pull/722) Evaluate FDataIrregular samples on their own points
