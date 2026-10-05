@@ -32,9 +32,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 <!-- CONTRIB:START -->
 <p>
-  <img src="https://img.shields.io/badge/pull_requests-79-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-25-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-47-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/pull_requests-84-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-29-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-48-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
@@ -43,13 +43,17 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 | Project | Pull request |
 |:--|:--|
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#528](https://github.com/traceopt-ai/traceml/pull/528) Keep dotted run labels in compare artifact names |
+| **[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)**<br/><sub>Kiwix · offline Wikipedia (Android)</sub> | [#5160](https://github.com/kiwix/kiwix-android/pull/5160) #5159 Delete a recent search only from the ZIM file it was deleted in |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#525](https://github.com/traceopt-ai/traceml/pull/525) Scale negative byte values in fmt_mem_new |
+| **[`holoviz/lumen`](https://github.com/holoviz/lumen)**<br/><sub>HoloViz Lumen · data dashboards</sub> | [#2114](https://github.com/holoviz/lumen/pull/2114) fix: Support open-ended ranges and slices in SQLFilter and Filter |
 | **[`gprMax/gprMax`](https://github.com/gprMax/gprMax)**<br/><sub>gprMax/gprMax</sub> | [#871](https://github.com/gprMax/gprMax/pull/871) Normalise DebyeFit imaginary-part error by the loss magnitude |
 | **[`SimplexLab/TorchJD`](https://github.com/SimplexLab/TorchJD)**<br/><sub>TorchJD · Jacobian descent for PyTorch</sub> | [#790](https://github.com/SimplexLab/TorchJD/pull/790) fix(aggregation): Clamp squared distances in Krum |
 | **[`gprMax/gprMax`](https://github.com/gprMax/gprMax)**<br/><sub>gprMax/gprMax</sub> | [#868](https://github.com/gprMax/gprMax/pull/868) Accept CRIM volumetric fractions that sum to one within rounding |
 | **[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)**<br/><sub>Kiwix · offline Wikipedia (Android)</sub> | [#5150](https://github.com/kiwix/kiwix-android/pull/5150) #5149 Keep same-day history entries for pages whose URLs differ only in case |
+| **[`tslearn-team/tslearn`](https://github.com/tslearn-team/tslearn)**<br/><sub>tslearn-team/tslearn</sub> | [#739](https://github.com/tslearn-team/tslearn/pull/739) Let piecewise distance() take time series of different lengths |
 | **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)**<br/><sub>OneBusAway Maglev · transit REST API (Go)</sub> | [#1506](https://github.com/OneBusAway/maglev/pull/1506) Order stops-for-route stops by trip adjacency |
 | **[`SimplexLab/TorchJD`](https://github.com/SimplexLab/TorchJD)**<br/><sub>TorchJD · Jacobian descent for PyTorch</sub> | [#787](https://github.com/SimplexLab/TorchJD/pull/787) fix(aggregation): Apply ExcessMTL exponentiation in log domain |
+| **[`GAA-UAM/scikit-fda`](https://github.com/GAA-UAM/scikit-fda)**<br/><sub>scikit-fda · functional data analysis</sub> | [#722](https://github.com/GAA-UAM/scikit-fda/pull/722) Evaluate FDataIrregular samples on their own points |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#512](https://github.com/traceopt-ai/traceml/pull/512) Spell out node scope in System diagnostic text |
 | **[`holoviz/lumen`](https://github.com/holoviz/lumen)**<br/><sub>HoloViz Lumen · data dashboards</sub> | [#2108](https://github.com/holoviz/lumen/pull/2108) Annotate `ViewOutputs.view` so it is a required output key |
 | **[`ruxailab/RUXAILAB`](https://github.com/ruxailab/RUXAILAB)**<br/><sub>RUXAILAB · usability testing platform</sub> | [#2395](https://github.com/ruxailab/RUXAILAB/pull/2395) fix(cooperators): style Admin role chip in cooperators table |
@@ -71,7 +75,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>47 open pull requests across 39 projects</b> — click to expand</summary>
+<summary><b>48 open pull requests across 39 projects</b> — click to expand</summary>
 
 **[`arxlang/arx`](https://github.com/arxlang/arx)** · <sub>Arx · compiler front-end (LLVM)</sub>
 - [#119](https://github.com/arxlang/arx/pull/119) fix(irx): lower unary minus and plus
@@ -88,13 +92,14 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 - [#1513](https://github.com/OneBusAway/maglev/pull/1513) Order schedule-for-route stops by trip adjacency
 - [#1521](https://github.com/OneBusAway/maglev/pull/1521) Group trips without direction_id separately
 
-**[`dora-rs/dora-hub`](https://github.com/dora-rs/dora-hub)** · <sub>dora-rs · robotics dataflow nodes</sub>
-- [#90](https://github.com/dora-rs/dora-hub/pull/90) fix(dora-parquet-recorder): record string values instead of their offsets
-- [#91](https://github.com/dora-rs/dora-hub/pull/91) fix(dora-pyaudio): clip float audio before casting to int16
-
 **[`The-OpenROAD-Project/OpenROAD`](https://github.com/The-OpenROAD-Project/OpenROAD)** · <sub>OpenROAD · open-source RTL-to-GDS EDA</sub>
 - [#11522](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11522) dbSta: check Liberty transition tables and input capacitance in check_ip
 - [#11582](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11582) bazel: keep layering_check on for gpl fft_gpu_test
+- [#11636](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11636) utl: skip whitespace-only lines in readCsv
+
+**[`dora-rs/dora-hub`](https://github.com/dora-rs/dora-hub)** · <sub>dora-rs · robotics dataflow nodes</sub>
+- [#90](https://github.com/dora-rs/dora-hub/pull/90) fix(dora-parquet-recorder): record string values instead of their offsets
+- [#91](https://github.com/dora-rs/dora-hub/pull/91) fix(dora-pyaudio): clip float audio before casting to int16
 
 **[`accordproject/concerto`](https://github.com/accordproject/concerto)** · <sub>Accord Project Concerto · data modelling</sub>
 - [#1420](https://github.com/accordproject/concerto/pull/1420) fix(build): make the ESM smoke test independent of the local timezone
@@ -117,9 +122,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`fossasia/eventyay`](https://github.com/fossasia/eventyay)** · <sub>FOSSASIA eventyay · event ticketing</sub>
 - [#5944](https://github.com/fossasia/eventyay/pull/5944) fix(control): limit how many voucher codes one request can generate
 
-**[`GAA-UAM/scikit-fda`](https://github.com/GAA-UAM/scikit-fda)** · <sub>scikit-fda · functional data analysis</sub>
-- [#722](https://github.com/GAA-UAM/scikit-fda/pull/722) Evaluate FDataIrregular samples on their own points
-
 **[`gambitproject/gambit`](https://github.com/gambitproject/gambit)** · <sub>Gambit · game theory software</sub>
 - [#1163](https://github.com/gambitproject/gambit/pull/1163) Fix missing closing parenthesis in repr() of an untitled Game
 
@@ -133,7 +135,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 - [#1788](https://github.com/hermetoproject/hermeto/pull/1788) fix(generic): map the java-source Maven type to a jar
 
 **[`holoviz/lumen`](https://github.com/holoviz/lumen)** · <sub>HoloViz Lumen · data dashboards</sub>
-- [#2114](https://github.com/holoviz/lumen/pull/2114) fix: Support open-ended ranges and slices in SQLFilter and Filter
+- [#2119](https://github.com/holoviz/lumen/pull/2119) fix: Skip row counts when merging JoinedSource schemas
 
 **[`HSF/phoenix`](https://github.com/HSF/phoenix)** · <sub>HSF/phoenix</sub>
 - [#1041](https://github.com/HSF/phoenix/pull/1041) fix(event-display): keep jivexml backward track theta and charge
@@ -142,7 +144,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 - [#643](https://github.com/JdeRobot/PerceptionMetrics/pull/643) Keep dots in sample names for YOLO and COCO datasets
 
 **[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)** · <sub>Kiwix · offline Wikipedia (Android)</sub>
-- [#5160](https://github.com/kiwix/kiwix-android/pull/5160) #5159 Delete a recent search only from the ZIM file it was deleted in
+- [#5165](https://github.com/kiwix/kiwix-android/pull/5165) #5164 Save notes added from the reader under their own article title
 
 **[`kubeflow/kale`](https://github.com/kubeflow/kale)** · <sub>Kubeflow Kale · notebooks → pipelines</sub>
 - [#976](https://github.com/kubeflow/kale/pull/976) fix(backend): keep and escape annotation/label values that contain ':' or quotes
@@ -195,8 +197,11 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`theochem/grid`](https://github.com/theochem/grid)** · <sub>theochem/grid · numerical integration</sub>
 - [#335](https://github.com/theochem/grid/pull/335) Fix 1D Cartesian orders in generate_orders_horton_order
 
+**[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)** · <sub>TraceML · ML observability</sub>
+- [#533](https://github.com/traceopt-ai/traceml/pull/533) Roll summary card durations over to minutes after rounding
+
 **[`tslearn-team/tslearn`](https://github.com/tslearn-team/tslearn)** · <sub>tslearn-team/tslearn</sub>
-- [#739](https://github.com/tslearn-team/tslearn/pull/739) Let piecewise distance() take time series of different lengths
+- [#754](https://github.com/tslearn-team/tslearn/pull/754) [MRG] Ignore NaN subsequences in the numpy matrix profile
 
 </details>
 
