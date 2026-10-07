@@ -33,8 +33,8 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 <!-- CONTRIB:START -->
 <p>
   <img src="https://img.shields.io/badge/pull_requests-89-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-32-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-50-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-33-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-49-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
@@ -48,6 +48,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#528](https://github.com/traceopt-ai/traceml/pull/528) Keep dotted run labels in compare artifact names |
 | **[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)**<br/><sub>Kiwix · offline Wikipedia (Android)</sub> | [#5160](https://github.com/kiwix/kiwix-android/pull/5160) #5159 Delete a recent search only from the ZIM file it was deleted in |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#525](https://github.com/traceopt-ai/traceml/pull/525) Scale negative byte values in fmt_mem_new |
+| **[`omegaup/omegaup`](https://github.com/omegaup/omegaup)**<br/><sub>omegaUp · competitive programming platform</sub> | [#10274](https://github.com/omegaup/omegaup/pull/10274) fix: keep run penalty and time when a problem version changes |
 | **[`holoviz/lumen`](https://github.com/holoviz/lumen)**<br/><sub>HoloViz Lumen · data dashboards</sub> | [#2114](https://github.com/holoviz/lumen/pull/2114) fix: Support open-ended ranges and slices in SQLFilter and Filter |
 | **[`gprMax/gprMax`](https://github.com/gprMax/gprMax)**<br/><sub>gprMax/gprMax</sub> | [#871](https://github.com/gprMax/gprMax/pull/871) Normalise DebyeFit imaginary-part error by the loss magnitude |
 | **[`SimplexLab/TorchJD`](https://github.com/SimplexLab/TorchJD)**<br/><sub>TorchJD · Jacobian descent for PyTorch</sub> | [#790](https://github.com/SimplexLab/TorchJD/pull/790) fix(aggregation): Clamp squared distances in Krum |
@@ -78,7 +79,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>50 open pull requests across 40 projects</b> — click to expand</summary>
+<summary><b>49 open pull requests across 40 projects</b> — click to expand</summary>
 
 **[`arxlang/arx`](https://github.com/arxlang/arx)** · <sub>Arx · compiler front-end (LLVM)</sub>
 - [#119](https://github.com/arxlang/arx/pull/119) fix(irx): lower unary minus and plus
@@ -103,10 +104,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`dora-rs/dora-hub`](https://github.com/dora-rs/dora-hub)** · <sub>dora-rs · robotics dataflow nodes</sub>
 - [#90](https://github.com/dora-rs/dora-hub/pull/90) fix(dora-parquet-recorder): record string values instead of their offsets
 - [#91](https://github.com/dora-rs/dora-hub/pull/91) fix(dora-pyaudio): clip float audio before casting to int16
-
-**[`omegaup/omegaup`](https://github.com/omegaup/omegaup)** · <sub>omegaUp · competitive programming platform</sub>
-- [#10274](https://github.com/omegaup/omegaup/pull/10274) fix: keep run penalty and time when a problem version changes
-- [#10290](https://github.com/omegaup/omegaup/pull/10290) fix: show country flags in the runs table, including runs from the socket
 
 **[`accordproject/concerto`](https://github.com/accordproject/concerto)** · <sub>Accord Project Concerto · data modelling</sub>
 - [#1420](https://github.com/accordproject/concerto/pull/1420) fix(build): make the ESM smoke test independent of the local timezone
@@ -173,6 +170,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`neutralinojs/neutralinojs`](https://github.com/neutralinojs/neutralinojs)** · <sub>Neutralinojs · lightweight desktop apps</sub>
 - [#1851](https://github.com/neutralinojs/neutralinojs/pull/1851) Fix per-interface MAC addresses and schema in computer.getNetworkInterfaces
+
+**[`omegaup/omegaup`](https://github.com/omegaup/omegaup)** · <sub>omegaUp · competitive programming platform</sub>
+- [#10290](https://github.com/omegaup/omegaup/pull/10290) fix: show country flags in the runs table, including runs from the socket
 
 **[`openfoodfacts/open-prices`](https://github.com/openfoodfacts/open-prices)** · <sub>Open Food Facts · Open Prices (Django)</sub>
 - [#1460](https://github.com/openfoodfacts/open-prices/pull/1460) fix(Prices): reset duplicate_of when an edited price no longer matches
