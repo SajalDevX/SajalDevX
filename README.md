@@ -32,8 +32,8 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 <!-- CONTRIB:START -->
 <p>
-  <img src="https://img.shields.io/badge/pull_requests-92-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-37-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/pull_requests-93-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-38-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/in_review-48-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
@@ -45,6 +45,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 | **[`gprMax/gprMax`](https://github.com/gprMax/gprMax)**<br/><sub>gprMax/gprMax</sub> | [#879](https://github.com/gprMax/gprMax/pull/879) Plot all non-negative FFT bins for zero A-scan traces |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#540](https://github.com/traceopt-ai/traceml/pull/540) Reject non-positive finalize_timeout_sec from traceml.yaml and env |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#536](https://github.com/traceopt-ai/traceml/pull/536) Move step time values to the next unit after rounding |
+| **[`omegaup/omegaup`](https://github.com/omegaup/omegaup)**<br/><sub>omegaUp · competitive programming platform</sub> | [#10290](https://github.com/omegaup/omegaup/pull/10290) fix: show country flags in the runs table, including runs from the socket |
 | **[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)**<br/><sub>Kiwix · offline Wikipedia (Android)</sub> | [#5165](https://github.com/kiwix/kiwix-android/pull/5165) #5164 Save notes added from the reader under their own article title |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#533](https://github.com/traceopt-ai/traceml/pull/533) Roll summary card durations over to minutes after rounding |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#528](https://github.com/traceopt-ai/traceml/pull/528) Keep dotted run labels in compare artifact names |
@@ -83,7 +84,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>48 open pull requests across 38 projects</b> — click to expand</summary>
+<summary><b>48 open pull requests across 39 projects</b> — click to expand</summary>
 
 **[`arxlang/arx`](https://github.com/arxlang/arx)** · <sub>Arx · compiler front-end (LLVM)</sub>
 - [#119](https://github.com/arxlang/arx/pull/119) fix(irx): lower unary minus and plus
@@ -108,10 +109,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`dora-rs/dora-hub`](https://github.com/dora-rs/dora-hub)** · <sub>dora-rs · robotics dataflow nodes</sub>
 - [#90](https://github.com/dora-rs/dora-hub/pull/90) fix(dora-parquet-recorder): record string values instead of their offsets
 - [#91](https://github.com/dora-rs/dora-hub/pull/91) fix(dora-pyaudio): clip float audio before casting to int16
-
-**[`omegaup/omegaup`](https://github.com/omegaup/omegaup)** · <sub>omegaUp · competitive programming platform</sub>
-- [#10290](https://github.com/omegaup/omegaup/pull/10290) fix: show country flags in the runs table, including runs from the socket
-- [#10297](https://github.com/omegaup/omegaup/pull/10297) fix: don't count own or forfeited problems for the 100 solved problems badge
 
 **[`accordproject/concerto`](https://github.com/accordproject/concerto)** · <sub>Accord Project Concerto · data modelling</sub>
 - [#1420](https://github.com/accordproject/concerto/pull/1420) fix(build): make the ESM smoke test independent of the local timezone
@@ -176,6 +173,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`neutralinojs/neutralinojs`](https://github.com/neutralinojs/neutralinojs)** · <sub>Neutralinojs · lightweight desktop apps</sub>
 - [#1851](https://github.com/neutralinojs/neutralinojs/pull/1851) Fix per-interface MAC addresses and schema in computer.getNetworkInterfaces
 
+**[`omegaup/omegaup`](https://github.com/omegaup/omegaup)** · <sub>omegaUp · competitive programming platform</sub>
+- [#10297](https://github.com/omegaup/omegaup/pull/10297) fix: don't count own or forfeited problems for the 100 solved problems badge
+
 **[`openfoodfacts/open-prices`](https://github.com/openfoodfacts/open-prices)** · <sub>Open Food Facts · Open Prices (Django)</sub>
 - [#1460](https://github.com/openfoodfacts/open-prices/pull/1460) fix(Prices): reset duplicate_of when an edited price no longer matches
 
@@ -187,6 +187,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`scverse/anndata`](https://github.com/scverse/anndata)** · <sub>scverse anndata · annotated data matrices</sub>
 - [#2667](https://github.com/scverse/anndata/pull/2667) fix: name offending elements when writing object arrays with non-strings to h5ad
+
+**[`SimplexLab/TorchJD`](https://github.com/SimplexLab/TorchJD)** · <sub>TorchJD · Jacobian descent for PyTorch</sub>
+- [#821](https://github.com/SimplexLab/TorchJD/pull/821) fix(autojac): Support tensors of different dtypes in jac_to_grad
 
 **[`sktime/skpro`](https://github.com/sktime/skpro)** · <sub>sktime skpro · probabilistic regression</sub>
 - [#1177](https://github.com/sktime/skpro/pull/1177) [DOC] add usage example to ConcordanceHarrell docstring
