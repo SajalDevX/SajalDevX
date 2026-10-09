@@ -33,8 +33,8 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 <!-- CONTRIB:START -->
 <p>
   <img src="https://img.shields.io/badge/pull_requests-98-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-42-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-48-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-44-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-46-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
@@ -42,12 +42,14 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 | Project | Pull request |
 |:--|:--|
+| **[`gprMax/gprMax`](https://github.com/gprMax/gprMax)**<br/><sub>gprMax/gprMax</sub> | [#883](https://github.com/gprMax/gprMax/pull/883) Anchor antenna pattern dB rings at the 0 dB peak |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#549](https://github.com/traceopt-ai/traceml/pull/549) Reject out-of-range ports on every serve and dashboard config path |
 | **[`SimplexLab/TorchJD`](https://github.com/SimplexLab/TorchJD)**<br/><sub>TorchJD · Jacobian descent for PyTorch</sub> | [#821](https://github.com/SimplexLab/TorchJD/pull/821) fix(autojac): Support tensors of different dtypes in jac_to_grad |
 | **[`gprMax/gprMax`](https://github.com/gprMax/gprMax)**<br/><sub>gprMax/gprMax</sub> | [#879](https://github.com/gprMax/gprMax/pull/879) Plot all non-negative FFT bins for zero A-scan traces |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#545](https://github.com/traceopt-ai/traceml/pull/545) Reject out-of-range ports in launch arguments |
 | **[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)**<br/><sub>Kiwix · offline Wikipedia (Android)</sub> | [#5172](https://github.com/kiwix/kiwix-android/pull/5172) #5171 Save an edited note before sharing it from the note dialog |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#540](https://github.com/traceopt-ai/traceml/pull/540) Reject non-positive finalize_timeout_sec from traceml.yaml and env |
+| **[`GAA-UAM/scikit-fda`](https://github.com/GAA-UAM/scikit-fda)**<br/><sub>scikit-fda · functional data analysis</sub> | [#725](https://github.com/GAA-UAM/scikit-fda/pull/725) Keep K-means centers unchanged in predict |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#536](https://github.com/traceopt-ai/traceml/pull/536) Move step time values to the next unit after rounding |
 | **[`omegaup/omegaup`](https://github.com/omegaup/omegaup)**<br/><sub>omegaUp · competitive programming platform</sub> | [#10290](https://github.com/omegaup/omegaup/pull/10290) fix: show country flags in the runs table, including runs from the socket |
 | **[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)**<br/><sub>Kiwix · offline Wikipedia (Android)</sub> | [#5165](https://github.com/kiwix/kiwix-android/pull/5165) #5164 Save notes added from the reader under their own article title |
@@ -88,7 +90,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>48 open pull requests across 39 projects</b> — click to expand</summary>
+<summary><b>46 open pull requests across 37 projects</b> — click to expand</summary>
 
 **[`arxlang/arx`](https://github.com/arxlang/arx)** · <sub>Arx · compiler front-end (LLVM)</sub>
 - [#119](https://github.com/arxlang/arx/pull/119) fix(irx): lower unary minus and plus
@@ -132,14 +134,8 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`FlexMeasures/flexmeasures`](https://github.com/FlexMeasures/flexmeasures)** · <sub>FlexMeasures · energy flexibility platform</sub>
 - [#2618](https://github.com/FlexMeasures/flexmeasures/pull/2618) Answer unknown /api URLs with a JSON 404
 
-**[`GAA-UAM/scikit-fda`](https://github.com/GAA-UAM/scikit-fda)** · <sub>scikit-fda · functional data analysis</sub>
-- [#725](https://github.com/GAA-UAM/scikit-fda/pull/725) Keep K-means centers unchanged in predict
-
 **[`gambitproject/gambit`](https://github.com/gambitproject/gambit)** · <sub>Gambit · game theory software</sub>
 - [#1163](https://github.com/gambitproject/gambit/pull/1163) Fix missing closing parenthesis in repr() of an untitled Game
-
-**[`gprMax/gprMax`](https://github.com/gprMax/gprMax)** · <sub>gprMax/gprMax</sub>
-- [#883](https://github.com/gprMax/gprMax/pull/883) Anchor antenna pattern dB rings at the 0 dB peak
 
 **[`helmholtz-analytics/heat`](https://github.com/helmholtz-analytics/heat)** · <sub>Heat · distributed tensors (Helmholtz)</sub>
 - [#2572](https://github.com/helmholtz-analytics/heat/pull/2572) Add array API compatible `cumulative_prod`
