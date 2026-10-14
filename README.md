@@ -33,8 +33,8 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 <!-- CONTRIB:START -->
 <p>
   <img src="https://img.shields.io/badge/pull_requests-101-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-49-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-44-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-50-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-43-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
@@ -84,6 +84,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 | **[`omegaup/omegaup`](https://github.com/omegaup/omegaup)**<br/><sub>omegaUp · competitive programming platform</sub> | [#10255](https://github.com/omegaup/omegaup/pull/10255) fix: escape every quote and quote line breaks in CSV cells |
 | **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)**<br/><sub>OneBusAway Maglev · transit REST API (Go)</sub> | [#1493](https://github.com/OneBusAway/maglev/pull/1493) Return parent station in stops-for-location |
 | **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)**<br/><sub>OneBusAway Maglev · transit REST API (Go)</sub> | [#1490](https://github.com/OneBusAway/maglev/pull/1490) Reject NaN and Inf in float query parameters |
+| **[`arxlang/arx`](https://github.com/arxlang/arx)**<br/><sub>Arx · compiler front-end (LLVM)</sub> | [#120](https://github.com/arxlang/arx/pull/120) fix(aix): lower ¬ to IRx's ! operator |
 | **[`ohcnetwork/care`](https://github.com/ohcnetwork/care)**<br/><sub>CARE · hospital & patient management (Django)</sub> | [#3770](https://github.com/ohcnetwork/care/pull/3770) Fix token numbers being reused after a token is deleted |
 | **[`neuroinformatics-unit/movement`](https://github.com/neuroinformatics-unit/movement)**<br/><sub>movement · animal pose-tracking analysis</sub> | [#1122](https://github.com/neuroinformatics-unit/movement/pull/1122) Round frame numbers when exporting VIA tracks with time in seconds |
 | **[`fossasia/eventyay`](https://github.com/fossasia/eventyay)**<br/><sub>FOSSASIA eventyay · event ticketing</sub> | [#5913](https://github.com/fossasia/eventyay/pull/5913) fix(base): send the current usage fields from record_usage |
@@ -95,12 +96,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>44 open pull requests across 37 projects</b> — click to expand</summary>
-
-**[`arxlang/arx`](https://github.com/arxlang/arx)** · <sub>Arx · compiler front-end (LLVM)</sub>
-- [#119](https://github.com/arxlang/arx/pull/119) fix(irx): lower unary minus and plus
-- [#120](https://github.com/arxlang/arx/pull/120) fix(aix): lower ¬ to IRx's ! operator
-- [#121](https://github.com/arxlang/arx/pull/121) fix(aix): reject ^ until IRx can lower exponentiation
+<summary><b>43 open pull requests across 37 projects</b> — click to expand</summary>
 
 **[`ohcnetwork/care`](https://github.com/ohcnetwork/care)** · <sub>CARE · hospital & patient management (Django)</sub>
 - [#3772](https://github.com/ohcnetwork/care/pull/3772) Fix availability exception overlap check for existing slots
@@ -111,6 +107,10 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 - [#11522](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11522) dbSta: check Liberty transition tables and input capacitance in check_ip
 - [#11582](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11582) bazel: keep layering_check on for gpl fft_gpu_test
 - [#11636](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11636) utl: skip whitespace-only lines in readCsv
+
+**[`arxlang/arx`](https://github.com/arxlang/arx)** · <sub>Arx · compiler front-end (LLVM)</sub>
+- [#119](https://github.com/arxlang/arx/pull/119) fix(irx): lower unary minus and plus
+- [#121](https://github.com/arxlang/arx/pull/121) fix(aix): reject ^ until IRx can lower exponentiation
 
 **[`dora-rs/dora-hub`](https://github.com/dora-rs/dora-hub)** · <sub>dora-rs · robotics dataflow nodes</sub>
 - [#90](https://github.com/dora-rs/dora-hub/pull/90) fix(dora-parquet-recorder): record string values instead of their offsets
