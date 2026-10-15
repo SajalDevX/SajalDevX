@@ -33,8 +33,8 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 <!-- CONTRIB:START -->
 <p>
   <img src="https://img.shields.io/badge/pull_requests-101-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-52-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-41-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-54-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-39-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
@@ -56,6 +56,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 | **[`GAA-UAM/scikit-fda`](https://github.com/GAA-UAM/scikit-fda)**<br/><sub>scikit-fda · functional data analysis</sub> | [#725](https://github.com/GAA-UAM/scikit-fda/pull/725) Keep K-means centers unchanged in predict |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#536](https://github.com/traceopt-ai/traceml/pull/536) Move step time values to the next unit after rounding |
 | **[`omegaup/omegaup`](https://github.com/omegaup/omegaup)**<br/><sub>omegaUp · competitive programming platform</sub> | [#10290](https://github.com/omegaup/omegaup/pull/10290) fix: show country flags in the runs table, including runs from the socket |
+| **[`The-OpenROAD-Project/OpenROAD`](https://github.com/The-OpenROAD-Project/OpenROAD)**<br/><sub>OpenROAD · open-source RTL-to-GDS EDA</sub> | [#11636](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11636) utl: skip whitespace-only lines in readCsv |
 | **[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)**<br/><sub>Kiwix · offline Wikipedia (Android)</sub> | [#5165](https://github.com/kiwix/kiwix-android/pull/5165) #5164 Save notes added from the reader under their own article title |
 | **[`holoviz/lumen`](https://github.com/holoviz/lumen)**<br/><sub>HoloViz Lumen · data dashboards</sub> | [#2119](https://github.com/holoviz/lumen/pull/2119) fix: Skip row counts when merging JoinedSource schemas |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#533](https://github.com/traceopt-ai/traceml/pull/533) Roll summary card durations over to minutes after rounding |
@@ -76,6 +77,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 | **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)**<br/><sub>OneBusAway Maglev · transit REST API (Go)</sub> | [#1506](https://github.com/OneBusAway/maglev/pull/1506) Order stops-for-route stops by trip adjacency |
 | **[`SimplexLab/TorchJD`](https://github.com/SimplexLab/TorchJD)**<br/><sub>TorchJD · Jacobian descent for PyTorch</sub> | [#787](https://github.com/SimplexLab/TorchJD/pull/787) fix(aggregation): Apply ExcessMTL exponentiation in log domain |
 | **[`GAA-UAM/scikit-fda`](https://github.com/GAA-UAM/scikit-fda)**<br/><sub>scikit-fda · functional data analysis</sub> | [#722](https://github.com/GAA-UAM/scikit-fda/pull/722) Evaluate FDataIrregular samples on their own points |
+| **[`ruxailab/RUXAILAB`](https://github.com/ruxailab/RUXAILAB)**<br/><sub>RUXAILAB · usability testing platform</sub> | [#2397](https://github.com/ruxailab/RUXAILAB/pull/2397) fix(dashboard): show the next upcoming session on the dashboard card |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#512](https://github.com/traceopt-ai/traceml/pull/512) Spell out node scope in System diagnostic text |
 | **[`holoviz/lumen`](https://github.com/holoviz/lumen)**<br/><sub>HoloViz Lumen · data dashboards</sub> | [#2108](https://github.com/holoviz/lumen/pull/2108) Annotate `ViewOutputs.view` so it is a required output key |
 | **[`ruxailab/RUXAILAB`](https://github.com/ruxailab/RUXAILAB)**<br/><sub>RUXAILAB · usability testing platform</sub> | [#2395](https://github.com/ruxailab/RUXAILAB/pull/2395) fix(cooperators): style Admin role chip in cooperators table |
@@ -98,17 +100,12 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>41 open pull requests across 35 projects</b> — click to expand</summary>
+<summary><b>39 open pull requests across 34 projects</b> — click to expand</summary>
 
 **[`ohcnetwork/care`](https://github.com/ohcnetwork/care)** · <sub>CARE · hospital & patient management (Django)</sub>
 - [#3772](https://github.com/ohcnetwork/care/pull/3772) Fix availability exception overlap check for existing slots
 - [#3774](https://github.com/ohcnetwork/care/pull/3774) Fix schedule creation rejecting today and timezone-aware dates
 - [#3776](https://github.com/ohcnetwork/care/pull/3776) Fix 500 when listing appointments filtered by organization_ids
-
-**[`The-OpenROAD-Project/OpenROAD`](https://github.com/The-OpenROAD-Project/OpenROAD)** · <sub>OpenROAD · open-source RTL-to-GDS EDA</sub>
-- [#11522](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11522) dbSta: check Liberty transition tables and input capacitance in check_ip
-- [#11582](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11582) bazel: keep layering_check on for gpl fft_gpu_test
-- [#11636](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11636) utl: skip whitespace-only lines in readCsv
 
 **[`arxlang/arx`](https://github.com/arxlang/arx)** · <sub>Arx · compiler front-end (LLVM)</sub>
 - [#119](https://github.com/arxlang/arx/pull/119) fix(irx): lower unary minus and plus
@@ -117,6 +114,10 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`dora-rs/dora-hub`](https://github.com/dora-rs/dora-hub)** · <sub>dora-rs · robotics dataflow nodes</sub>
 - [#90](https://github.com/dora-rs/dora-hub/pull/90) fix(dora-parquet-recorder): record string values instead of their offsets
 - [#91](https://github.com/dora-rs/dora-hub/pull/91) fix(dora-pyaudio): clip float audio before casting to int16
+
+**[`The-OpenROAD-Project/OpenROAD`](https://github.com/The-OpenROAD-Project/OpenROAD)** · <sub>OpenROAD · open-source RTL-to-GDS EDA</sub>
+- [#11522](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11522) dbSta: check Liberty transition tables and input capacitance in check_ip
+- [#11582](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11582) bazel: keep layering_check on for gpl fft_gpu_test
 
 **[`accordproject/concerto`](https://github.com/accordproject/concerto)** · <sub>Accord Project Concerto · data modelling</sub>
 - [#1420](https://github.com/accordproject/concerto/pull/1420) fix(build): make the ESM smoke test independent of the local timezone
@@ -180,9 +181,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`OpenMS/pyopenms_viz`](https://github.com/OpenMS/pyopenms_viz)** · <sub>OpenMS · pyopenms_viz (mass-spec plotting)</sub>
 - [#183](https://github.com/OpenMS/pyopenms_viz/pull/183) Let pyopenms_viz import without matplotlib or Pillow
-
-**[`ruxailab/RUXAILAB`](https://github.com/ruxailab/RUXAILAB)** · <sub>RUXAILAB · usability testing platform</sub>
-- [#2397](https://github.com/ruxailab/RUXAILAB/pull/2397) fix(dashboard): show the next upcoming session on the dashboard card
 
 **[`scverse/anndata`](https://github.com/scverse/anndata)** · <sub>scverse anndata · annotated data matrices</sub>
 - [#2667](https://github.com/scverse/anndata/pull/2667) fix: name offending elements when writing object arrays with non-strings to h5ad
