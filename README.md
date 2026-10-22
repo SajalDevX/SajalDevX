@@ -32,10 +32,10 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 <!-- CONTRIB:START -->
 <p>
-  <img src="https://img.shields.io/badge/pull_requests-92-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-49-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-36-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/projects-41-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/pull_requests-101-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-55-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-38-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
 ### Merged upstream
@@ -43,10 +43,13 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 | Project | Pull request |
 |:--|:--|
 | **[`holoviz/lumen`](https://github.com/holoviz/lumen)**<br/><sub>HoloViz Lumen · data dashboards</sub> | [#2140](https://github.com/holoviz/lumen/pull/2140) fix: Skip the row count when generating auto filters |
+| **[`gprMax/gprMax`](https://github.com/gprMax/gprMax)**<br/><sub>gprMax/gprMax</sub> | [#887](https://github.com/gprMax/gprMax/pull/887) Use the receiver half-step fallback for legacy files in the Marimo reader |
+| **[`gprMax/gprMax`](https://github.com/gprMax/gprMax)**<br/><sub>gprMax/gprMax</sub> | [#883](https://github.com/gprMax/gprMax/pull/883) Anchor antenna pattern dB rings at the 0 dB peak |
 | **[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)**<br/><sub>Kiwix · offline Wikipedia (Android)</sub> | [#5182](https://github.com/kiwix/kiwix-android/pull/5182) #5181 Deduplicate the cached bookmark list by book id and url |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#549](https://github.com/traceopt-ai/traceml/pull/549) Reject out-of-range ports on every serve and dashboard config path |
 | **[`SimplexLab/TorchJD`](https://github.com/SimplexLab/TorchJD)**<br/><sub>TorchJD · Jacobian descent for PyTorch</sub> | [#821](https://github.com/SimplexLab/TorchJD/pull/821) fix(autojac): Support tensors of different dtypes in jac_to_grad |
 | **[`omegaup/omegaup`](https://github.com/omegaup/omegaup)**<br/><sub>omegaUp · competitive programming platform</sub> | [#10297](https://github.com/omegaup/omegaup/pull/10297) fix: don't count own or forfeited problems for the 100 solved problems badge |
+| **[`gprMax/gprMax`](https://github.com/gprMax/gprMax)**<br/><sub>gprMax/gprMax</sub> | [#879](https://github.com/gprMax/gprMax/pull/879) Plot all non-negative FFT bins for zero A-scan traces |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#545](https://github.com/traceopt-ai/traceml/pull/545) Reject out-of-range ports in launch arguments |
 | **[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)**<br/><sub>Kiwix · offline Wikipedia (Android)</sub> | [#5172](https://github.com/kiwix/kiwix-android/pull/5172) #5171 Save an edited note before sharing it from the note dialog |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#540](https://github.com/traceopt-ai/traceml/pull/540) Reject non-positive finalize_timeout_sec from traceml.yaml and env |
@@ -60,11 +63,14 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#528](https://github.com/traceopt-ai/traceml/pull/528) Keep dotted run labels in compare artifact names |
 | **[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)**<br/><sub>Kiwix · offline Wikipedia (Android)</sub> | [#5160](https://github.com/kiwix/kiwix-android/pull/5160) #5159 Delete a recent search only from the ZIM file it was deleted in |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#525](https://github.com/traceopt-ai/traceml/pull/525) Scale negative byte values in fmt_mem_new |
+| **[`gprMax/gprMax`](https://github.com/gprMax/gprMax)**<br/><sub>gprMax/gprMax</sub> | [#875](https://github.com/gprMax/gprMax/pull/875) Use the solver's iteration count for plot_source_wave time windows |
 | **[`SimplexLab/TorchJD`](https://github.com/SimplexLab/TorchJD)**<br/><sub>TorchJD · Jacobian descent for PyTorch</sub> | [#792](https://github.com/SimplexLab/TorchJD/pull/792) fix(aggregation): Use Gramian dtype in AlignedMTL rank tolerance |
 | **[`omegaup/omegaup`](https://github.com/omegaup/omegaup)**<br/><sub>omegaUp · competitive programming platform</sub> | [#10274](https://github.com/omegaup/omegaup/pull/10274) fix: keep run penalty and time when a problem version changes |
 | **[`holoviz/lumen`](https://github.com/holoviz/lumen)**<br/><sub>HoloViz Lumen · data dashboards</sub> | [#2114](https://github.com/holoviz/lumen/pull/2114) fix: Support open-ended ranges and slices in SQLFilter and Filter |
+| **[`gprMax/gprMax`](https://github.com/gprMax/gprMax)**<br/><sub>gprMax/gprMax</sub> | [#871](https://github.com/gprMax/gprMax/pull/871) Normalise DebyeFit imaginary-part error by the loss magnitude |
 | **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)**<br/><sub>OneBusAway Maglev · transit REST API (Go)</sub> | [#1521](https://github.com/OneBusAway/maglev/pull/1521) Group trips without direction_id separately |
 | **[`SimplexLab/TorchJD`](https://github.com/SimplexLab/TorchJD)**<br/><sub>TorchJD · Jacobian descent for PyTorch</sub> | [#790](https://github.com/SimplexLab/TorchJD/pull/790) fix(aggregation): Clamp squared distances in Krum |
+| **[`gprMax/gprMax`](https://github.com/gprMax/gprMax)**<br/><sub>gprMax/gprMax</sub> | [#868](https://github.com/gprMax/gprMax/pull/868) Accept CRIM volumetric fractions that sum to one within rounding |
 | **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)**<br/><sub>OneBusAway Maglev · transit REST API (Go)</sub> | [#1513](https://github.com/OneBusAway/maglev/pull/1513) Order schedule-for-route stops by trip adjacency |
 | **[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)**<br/><sub>Kiwix · offline Wikipedia (Android)</sub> | [#5150](https://github.com/kiwix/kiwix-android/pull/5150) #5149 Keep same-day history entries for pages whose URLs differ only in case |
 | **[`tslearn-team/tslearn`](https://github.com/tslearn-team/tslearn)**<br/><sub>tslearn-team/tslearn</sub> | [#739](https://github.com/tslearn-team/tslearn/pull/739) Let piecewise distance() take time series of different lengths |
@@ -95,7 +101,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>36 open pull requests across 31 projects</b> — click to expand</summary>
+<summary><b>38 open pull requests across 33 projects</b> — click to expand</summary>
 
 **[`ohcnetwork/care`](https://github.com/ohcnetwork/care)** · <sub>CARE · hospital & patient management (Django)</sub>
 - [#3772](https://github.com/ohcnetwork/care/pull/3772) Fix availability exception overlap check for existing slots
@@ -138,6 +144,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`gambitproject/gambit`](https://github.com/gambitproject/gambit)** · <sub>Gambit · game theory software</sub>
 - [#1163](https://github.com/gambitproject/gambit/pull/1163) Fix missing closing parenthesis in repr() of an untitled Game
 
+**[`helmholtz-analytics/heat`](https://github.com/helmholtz-analytics/heat)** · <sub>Heat · distributed tensors (Helmholtz)</sub>
+- [#2572](https://github.com/helmholtz-analytics/heat/pull/2572) Add array API compatible `cumulative_prod`
+
 **[`hermetoproject/hermeto`](https://github.com/hermetoproject/hermeto)** · <sub>Hermeto · hermetic build dependency fetcher</sub>
 - [#1788](https://github.com/hermetoproject/hermeto/pull/1788) fix(generic): map the java-source Maven type to a jar
 
@@ -170,6 +179,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`OpenMS/pyopenms_viz`](https://github.com/OpenMS/pyopenms_viz)** · <sub>OpenMS · pyopenms_viz (mass-spec plotting)</sub>
 - [#183](https://github.com/OpenMS/pyopenms_viz/pull/183) Let pyopenms_viz import without matplotlib or Pillow
+
+**[`scverse/anndata`](https://github.com/scverse/anndata)** · <sub>scverse anndata · annotated data matrices</sub>
+- [#2667](https://github.com/scverse/anndata/pull/2667) fix: name offending elements when writing object arrays with non-strings to h5ad
 
 **[`SimplexLab/TorchJD`](https://github.com/SimplexLab/TorchJD)** · <sub>TorchJD · Jacobian descent for PyTorch</sub>
 - [#826](https://github.com/SimplexLab/TorchJD/pull/826) fix(aggregation): Cast ConstantWeighting weights to matrix dtype
@@ -219,8 +231,11 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
   <a href="https://github.com/ankidroid/Anki-Android"><img alt="ankidroid/Anki-Android" src="https://img.shields.io/badge/Anki--Android-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/arxlang/arx"><img alt="arxlang/arx" src="https://img.shields.io/badge/arx-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/dora-rs/dora-hub"><img alt="dora-rs/dora-hub" src="https://img.shields.io/badge/dora--hub-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
+  <a href="https://github.com/foss42/apidash"><img alt="foss42/apidash" src="https://img.shields.io/badge/apidash-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/fossasia/eventyay"><img alt="fossasia/eventyay" src="https://img.shields.io/badge/eventyay-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/gambitproject/gambit"><img alt="gambitproject/gambit" src="https://img.shields.io/badge/gambit-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
+  <a href="https://github.com/gprMax/gprMax"><img alt="gprMax/gprMax" src="https://img.shields.io/badge/gprMax-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
+  <a href="https://github.com/helmholtz-analytics/heat"><img alt="helmholtz-analytics/heat" src="https://img.shields.io/badge/heat-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/hermetoproject/hermeto"><img alt="hermetoproject/hermeto" src="https://img.shields.io/badge/hermeto-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/holoviz/lumen"><img alt="holoviz/lumen" src="https://img.shields.io/badge/lumen-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/ioos/compliance-checker"><img alt="ioos/compliance-checker" src="https://img.shields.io/badge/compliance--checker-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
@@ -236,6 +251,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
   <a href="https://github.com/openfoodfacts/open-prices"><img alt="openfoodfacts/open-prices" src="https://img.shields.io/badge/open--prices-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/openwisp/netjsonconfig"><img alt="openwisp/netjsonconfig" src="https://img.shields.io/badge/netjsonconfig-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/ruxailab/RUXAILAB"><img alt="ruxailab/RUXAILAB" src="https://img.shields.io/badge/RUXAILAB-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
+  <a href="https://github.com/scverse/anndata"><img alt="scverse/anndata" src="https://img.shields.io/badge/anndata-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/sktime/skpro"><img alt="sktime/skpro" src="https://img.shields.io/badge/skpro-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/stdlib-js/stdlib"><img alt="stdlib-js/stdlib" src="https://img.shields.io/badge/stdlib-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/theochem/grid"><img alt="theochem/grid" src="https://img.shields.io/badge/grid-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
