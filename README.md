@@ -33,8 +33,8 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 <!-- CONTRIB:START -->
 <p>
   <img src="https://img.shields.io/badge/pull_requests-101-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-56-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-37-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-57-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-36-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
@@ -45,6 +45,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 | **[`holoviz/lumen`](https://github.com/holoviz/lumen)**<br/><sub>HoloViz Lumen · data dashboards</sub> | [#2140](https://github.com/holoviz/lumen/pull/2140) fix: Skip the row count when generating auto filters |
 | **[`gprMax/gprMax`](https://github.com/gprMax/gprMax)**<br/><sub>gprMax/gprMax</sub> | [#887](https://github.com/gprMax/gprMax/pull/887) Use the receiver half-step fallback for legacy files in the Marimo reader |
 | **[`gprMax/gprMax`](https://github.com/gprMax/gprMax)**<br/><sub>gprMax/gprMax</sub> | [#883](https://github.com/gprMax/gprMax/pull/883) Anchor antenna pattern dB rings at the 0 dB peak |
+| **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#551](https://github.com/traceopt-ai/traceml/pull/551) Reject a zero, negative or non-finite interval on every config path |
 | **[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)**<br/><sub>Kiwix · offline Wikipedia (Android)</sub> | [#5182](https://github.com/kiwix/kiwix-android/pull/5182) #5181 Deduplicate the cached bookmark list by book id and url |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#549](https://github.com/traceopt-ai/traceml/pull/549) Reject out-of-range ports on every serve and dashboard config path |
 | **[`SimplexLab/TorchJD`](https://github.com/SimplexLab/TorchJD)**<br/><sub>TorchJD · Jacobian descent for PyTorch</sub> | [#821](https://github.com/SimplexLab/TorchJD/pull/821) fix(autojac): Support tensors of different dtypes in jac_to_grad |
@@ -102,7 +103,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>37 open pull requests across 32 projects</b> — click to expand</summary>
+<summary><b>36 open pull requests across 31 projects</b> — click to expand</summary>
 
 **[`ohcnetwork/care`](https://github.com/ohcnetwork/care)** · <sub>CARE · hospital & patient management (Django)</sub>
 - [#3772](https://github.com/ohcnetwork/care/pull/3772) Fix availability exception overlap check for existing slots
@@ -198,9 +199,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`theochem/grid`](https://github.com/theochem/grid)** · <sub>theochem/grid · numerical integration</sub>
 - [#335](https://github.com/theochem/grid/pull/335) Fix 1D Cartesian orders in generate_orders_horton_order
-
-**[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)** · <sub>TraceML · ML observability</sub>
-- [#551](https://github.com/traceopt-ai/traceml/pull/551) Reject a zero, negative or non-finite interval on every config path
 
 **[`tslearn-team/tslearn`](https://github.com/tslearn-team/tslearn)** · <sub>tslearn-team/tslearn</sub>
 - [#754](https://github.com/tslearn-team/tslearn/pull/754) [MRG] Ignore NaN subsequences in the numpy matrix profile
