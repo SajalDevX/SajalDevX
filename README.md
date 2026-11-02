@@ -32,8 +32,8 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 <!-- CONTRIB:START -->
 <p>
-  <img src="https://img.shields.io/badge/pull_requests-107-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-59-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/pull_requests-111-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-62-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/in_review-39-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
@@ -42,6 +42,8 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 | Project | Pull request |
 |:--|:--|
+| **[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)**<br/><sub>Kiwix · offline Wikipedia (Android)</sub> | [#5246](https://github.com/kiwix/kiwix-android/pull/5246) #5245 Fix book size showing 1,000 MB instead of 1 GB and crashing for 0 bytes |
+| **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#576](https://github.com/traceopt-ai/traceml/pull/576) Roll fmt_mem_new over to the next unit after rounding |
 | **[`holoviz/lumen`](https://github.com/holoviz/lumen)**<br/><sub>HoloViz Lumen · data dashboards</sub> | [#2140](https://github.com/holoviz/lumen/pull/2140) fix: Skip the row count when generating auto filters |
 | **[`gprMax/gprMax`](https://github.com/gprMax/gprMax)**<br/><sub>gprMax/gprMax</sub> | [#887](https://github.com/gprMax/gprMax/pull/887) Use the receiver half-step fallback for legacy files in the Marimo reader |
 | **[`gprMax/gprMax`](https://github.com/gprMax/gprMax)**<br/><sub>gprMax/gprMax</sub> | [#883](https://github.com/gprMax/gprMax/pull/883) Anchor antenna pattern dB rings at the 0 dB peak |
@@ -89,6 +91,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 | **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)**<br/><sub>OneBusAway Maglev · transit REST API (Go)</sub> | [#1496](https://github.com/OneBusAway/maglev/pull/1496) Allow spaces in IDs |
 | **[`The-OpenROAD-Project/OpenROAD`](https://github.com/The-OpenROAD-Project/OpenROAD)**<br/><sub>OpenROAD · open-source RTL-to-GDS EDA</sub> | [#11541](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11541) web: drop heat map bins outside a polygon die area |
 | **[`omegaup/omegaup`](https://github.com/omegaup/omegaup)**<br/><sub>omegaUp · competitive programming platform</sub> | [#10255](https://github.com/omegaup/omegaup/pull/10255) fix: escape every quote and quote line breaks in CSV cells |
+| **[`hermetoproject/hermeto`](https://github.com/hermetoproject/hermeto)**<br/><sub>Hermeto · hermetic build dependency fetcher</sub> | [#1788](https://github.com/hermetoproject/hermeto/pull/1788) fix(generic): map the java-source Maven type to a jar |
 | **[`openfoodfacts/open-prices`](https://github.com/openfoodfacts/open-prices)**<br/><sub>Open Food Facts · Open Prices (Django)</sub> | [#1460](https://github.com/openfoodfacts/open-prices/pull/1460) fix(Prices): reset duplicate_of when an edited price no longer matches |
 | **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)**<br/><sub>OneBusAway Maglev · transit REST API (Go)</sub> | [#1493](https://github.com/OneBusAway/maglev/pull/1493) Return parent station in stops-for-location |
 | **[`CCExtractor/sample-platform`](https://github.com/CCExtractor/sample-platform)**<br/><sub>CCExtractor sample platform (Flask)</sub> | [#1214](https://github.com/CCExtractor/sample-platform/pull/1214) [FIX] Reject malformed or unexpected webhook signatures instead of raising |
@@ -151,9 +154,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`helmholtz-analytics/heat`](https://github.com/helmholtz-analytics/heat)** · <sub>Heat · distributed tensors (Helmholtz)</sub>
 - [#2572](https://github.com/helmholtz-analytics/heat/pull/2572) Add array API compatible `cumulative_prod`
 
-**[`hermetoproject/hermeto`](https://github.com/hermetoproject/hermeto)** · <sub>Hermeto · hermetic build dependency fetcher</sub>
-- [#1788](https://github.com/hermetoproject/hermeto/pull/1788) fix(generic): map the java-source Maven type to a jar
-
 **[`holoviz/lumen`](https://github.com/holoviz/lumen)** · <sub>HoloViz Lumen · data dashboards</sub>
 - [#2262](https://github.com/holoviz/lumen/pull/2262) fix: Handle DuckDBSource.to_spec when no tables are declared
 
@@ -162,9 +162,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`JdeRobot/PerceptionMetrics`](https://github.com/JdeRobot/PerceptionMetrics)** · <sub>JdeRobot PerceptionMetrics · CV evaluation</sub>
 - [#643](https://github.com/JdeRobot/PerceptionMetrics/pull/643) Keep dots in sample names for YOLO and COCO datasets
-
-**[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)** · <sub>Kiwix · offline Wikipedia (Android)</sub>
-- [#5246](https://github.com/kiwix/kiwix-android/pull/5246) #5245 Fix book size showing 1,000 MB instead of 1 GB and crashing for 0 bytes
 
 **[`kubeflow/kale`](https://github.com/kubeflow/kale)** · <sub>Kubeflow Kale · notebooks → pipelines</sub>
 - [#976](https://github.com/kubeflow/kale/pull/976) fix(backend): keep and escape annotation/label values that contain ':' or quotes
@@ -178,6 +175,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`mlflow/mlflow`](https://github.com/mlflow/mlflow)** · <sub>MLflow · ML lifecycle platform</sub>
 - [#26190](https://github.com/mlflow/mlflow/pull/26190) Make `set_mcp_server_alias` safe against concurrent `delete_mcp_server_version`
 
+**[`neuroinformatics-unit/movement`](https://github.com/neuroinformatics-unit/movement)** · <sub>movement · animal pose-tracking analysis</sub>
+- [#1185](https://github.com/neuroinformatics-unit/movement/pull/1185) Keep frame gaps when saving to SLEAP analysis files
+
 **[`neutralinojs/neutralinojs`](https://github.com/neutralinojs/neutralinojs)** · <sub>Neutralinojs · lightweight desktop apps</sub>
 - [#1851](https://github.com/neutralinojs/neutralinojs/pull/1851) Fix per-interface MAC addresses and schema in computer.getNetworkInterfaces
 
@@ -186,6 +186,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)** · <sub>OneBusAway Maglev · transit REST API (Go)</sub>
 - [#1495](https://github.com/OneBusAway/maglev/pull/1495) Resolve stop route IDs in schedule-for-route
+
+**[`openfoodfacts/open-prices`](https://github.com/openfoodfacts/open-prices)** · <sub>Open Food Facts · Open Prices (Django)</sub>
+- [#1511](https://github.com/openfoodfacts/open-prices/pull/1511) fix(Locations): nearby: clamp the acos argument to avoid 'input is out of range' errors
 
 **[`OpenMS/pyopenms_viz`](https://github.com/OpenMS/pyopenms_viz)** · <sub>OpenMS · pyopenms_viz (mass-spec plotting)</sub>
 - [#183](https://github.com/OpenMS/pyopenms_viz/pull/183) Let pyopenms_viz import without matplotlib or Pillow
@@ -205,11 +208,11 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`Submitty/Submitty`](https://github.com/Submitty/Submitty)** · <sub>Submitty · course management & autograding</sub>
 - [#13384](https://github.com/Submitty/Submitty/pull/13384) [Bugfix:System] Quote DB URL credentials
 
+**[`The-OpenROAD-Project/OpenSTA`](https://github.com/The-OpenROAD-Project/OpenSTA)** · <sub>The-OpenROAD-Project/OpenSTA</sub>
+- [#453](https://github.com/The-OpenROAD-Project/OpenSTA/pull/453) read_liberty: read library default_max_capacitance
+
 **[`theochem/grid`](https://github.com/theochem/grid)** · <sub>theochem/grid · numerical integration</sub>
 - [#335](https://github.com/theochem/grid/pull/335) Fix 1D Cartesian orders in generate_orders_horton_order
-
-**[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)** · <sub>TraceML · ML observability</sub>
-- [#576](https://github.com/traceopt-ai/traceml/pull/576) Roll fmt_mem_new over to the next unit after rounding
 
 **[`tslearn-team/tslearn`](https://github.com/tslearn-team/tslearn)** · <sub>tslearn-team/tslearn</sub>
 - [#754](https://github.com/tslearn-team/tslearn/pull/754) [MRG] Ignore NaN subsequences in the numpy matrix profile
