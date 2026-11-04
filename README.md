@@ -32,9 +32,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 <!-- CONTRIB:START -->
 <p>
-  <img src="https://img.shields.io/badge/pull_requests-114-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-66-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-38-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/pull_requests-118-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-67-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-40-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
@@ -42,6 +42,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 | Project | Pull request |
 |:--|:--|
+| **[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)**<br/><sub>Kiwix · offline Wikipedia (Android)</sub> | [#5251](https://github.com/kiwix/kiwix-android/pull/5251) #5250 Compare file sizes in bytes against the 4 GB FAT32 limit |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#595](https://github.com/traceopt-ai/traceml/pull/595) Keep fractional Hugging Face step intervals in the code manifest |
 | **[`openfoodfacts/open-prices`](https://github.com/openfoodfacts/open-prices)**<br/><sub>Open Food Facts · Open Prices (Django)</sub> | [#1535](https://github.com/openfoodfacts/open-prices/pull/1535) fix(Locations): nearby: handle search areas that cross the antimeridian (±180° longitude) |
 | **[`openfoodfacts/open-prices`](https://github.com/openfoodfacts/open-prices)**<br/><sub>Open Food Facts · Open Prices (Django)</sub> | [#1511](https://github.com/openfoodfacts/open-prices/pull/1511) fix(Locations): nearby: clamp the acos argument to avoid 'input is out of range' errors |
@@ -112,7 +113,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>38 open pull requests across 33 projects</b> — click to expand</summary>
+<summary><b>40 open pull requests across 35 projects</b> — click to expand</summary>
 
 **[`ohcnetwork/care`](https://github.com/ohcnetwork/care)** · <sub>CARE · hospital & patient management (Django)</sub>
 - [#3772](https://github.com/ohcnetwork/care/pull/3772) Fix availability exception overlap check for existing slots
@@ -133,9 +134,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`accordproject/concerto`](https://github.com/accordproject/concerto)** · <sub>Accord Project Concerto · data modelling</sub>
 - [#1420](https://github.com/accordproject/concerto/pull/1420) fix(build): make the ESM smoke test independent of the local timezone
-
-**[`ankidroid/Anki-Android`](https://github.com/ankidroid/Anki-Android)** · <sub>AnkiDroid · spaced-repetition Android app</sub>
-- [#21383](https://github.com/ankidroid/Anki-Android/pull/21383) fix(reviewer): fade feedback via ViewPropertyAnimator
 
 **[`CCExtractor/ccextractor`](https://github.com/CCExtractor/ccextractor)** · <sub>CCExtractor · subtitle extraction (C)</sub>
 - [#2356](https://github.com/CCExtractor/ccextractor/pull/2356) [FIX] Keep per-page teletext state when extracting multiple pages
@@ -167,9 +165,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`JdeRobot/PerceptionMetrics`](https://github.com/JdeRobot/PerceptionMetrics)** · <sub>JdeRobot PerceptionMetrics · CV evaluation</sub>
 - [#643](https://github.com/JdeRobot/PerceptionMetrics/pull/643) Keep dots in sample names for YOLO and COCO datasets
 
-**[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)** · <sub>Kiwix · offline Wikipedia (Android)</sub>
-- [#5251](https://github.com/kiwix/kiwix-android/pull/5251) #5250 Compare file sizes in bytes against the 4 GB FAT32 limit
-
 **[`kubeflow/kale`](https://github.com/kubeflow/kale)** · <sub>Kubeflow Kale · notebooks → pipelines</sub>
 - [#976](https://github.com/kubeflow/kale/pull/976) fix(backend): keep and escape annotation/label values that contain ':' or quotes
 
@@ -194,8 +189,14 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)** · <sub>OneBusAway Maglev · transit REST API (Go)</sub>
 - [#1495](https://github.com/OneBusAway/maglev/pull/1495) Resolve stop route IDs in schedule-for-route
 
+**[`openfoodfacts/open-prices`](https://github.com/openfoodfacts/open-prices)** · <sub>Open Food Facts · Open Prices (Django)</sub>
+- [#1537](https://github.com/openfoodfacts/open-prices/pull/1537) fix(Prices): accept a date of tomorrow (1 day leniency, like proofs)
+
 **[`OpenMS/pyopenms_viz`](https://github.com/OpenMS/pyopenms_viz)** · <sub>OpenMS · pyopenms_viz (mass-spec plotting)</sub>
 - [#183](https://github.com/OpenMS/pyopenms_viz/pull/183) Let pyopenms_viz import without matplotlib or Pillow
+
+**[`ruxailab/RUXAILAB`](https://github.com/ruxailab/RUXAILAB)** · <sub>RUXAILAB · usability testing platform</sub>
+- [#2584](https://github.com/ruxailab/RUXAILAB/pull/2584) fix(sessions): sort the owner and created columns of the sessions table
 
 **[`scverse/anndata`](https://github.com/scverse/anndata)** · <sub>scverse anndata · annotated data matrices</sub>
 - [#2667](https://github.com/scverse/anndata/pull/2667) fix: name offending elements when writing object arrays with non-strings to h5ad
@@ -214,6 +215,12 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`The-OpenROAD-Project/OpenSTA`](https://github.com/The-OpenROAD-Project/OpenSTA)** · <sub>The-OpenROAD-Project/OpenSTA</sub>
 - [#453](https://github.com/The-OpenROAD-Project/OpenSTA/pull/453) read_liberty: read library default_max_capacitance
+
+**[`theochem/grid`](https://github.com/theochem/grid)** · <sub>theochem/grid · numerical integration</sub>
+- [#348](https://github.com/theochem/grid/pull/348) Fix HandyModRTransform.deriv3 for m > 2
+
+**[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)** · <sub>TraceML · ML observability</sub>
+- [#600](https://github.com/traceopt-ai/traceml/pull/600) Skip a disabled cudnn.benchmark in the code manifest
 
 **[`tslearn-team/tslearn`](https://github.com/tslearn-team/tslearn)** · <sub>tslearn-team/tslearn</sub>
 - [#754](https://github.com/tslearn-team/tslearn/pull/754) [MRG] Ignore NaN subsequences in the numpy matrix profile
