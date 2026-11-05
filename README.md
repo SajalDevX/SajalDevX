@@ -33,8 +33,8 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 <!-- CONTRIB:START -->
 <p>
   <img src="https://img.shields.io/badge/pull_requests-121-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-72-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-38-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-74-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-36-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
@@ -44,6 +44,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 |:--|:--|
 | **[`SimplexLab/TorchJD`](https://github.com/SimplexLab/TorchJD)**<br/><sub>TorchJD · Jacobian descent for PyTorch</sub> | [#842](https://github.com/SimplexLab/TorchJD/pull/842) fix(scalarization): Register tensor attributes as buffers |
 | **[`gprMax/gprMax`](https://github.com/gprMax/gprMax)**<br/><sub>gprMax/gprMax</sub> | [#948](https://github.com/gprMax/gprMax/pull/948) Keep dotted names when building DT1/HD output paths |
+| **[`theochem/grid`](https://github.com/theochem/grid)**<br/><sub>theochem/grid · numerical integration</sub> | [#348](https://github.com/theochem/grid/pull/348) Fix HandyModRTransform.deriv3 for m > 2 |
 | **[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)**<br/><sub>Kiwix · offline Wikipedia (Android)</sub> | [#5251](https://github.com/kiwix/kiwix-android/pull/5251) #5250 Compare file sizes in bytes against the 4 GB FAT32 limit |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#595](https://github.com/traceopt-ai/traceml/pull/595) Keep fractional Hugging Face step intervals in the code manifest |
 | **[`openfoodfacts/open-prices`](https://github.com/openfoodfacts/open-prices)**<br/><sub>Open Food Facts · Open Prices (Django)</sub> | [#1535](https://github.com/openfoodfacts/open-prices/pull/1535) fix(Locations): nearby: handle search areas that cross the antimeridian (±180° longitude) |
@@ -109,6 +110,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 | **[`arxlang/arx`](https://github.com/arxlang/arx)**<br/><sub>Arx · compiler front-end (LLVM)</sub> | [#120](https://github.com/arxlang/arx/pull/120) fix(aix): lower ¬ to IRx's ! operator |
 | **[`ohcnetwork/care`](https://github.com/ohcnetwork/care)**<br/><sub>CARE · hospital & patient management (Django)</sub> | [#3770](https://github.com/ohcnetwork/care/pull/3770) Fix token numbers being reused after a token is deleted |
 | **[`neuroinformatics-unit/movement`](https://github.com/neuroinformatics-unit/movement)**<br/><sub>movement · animal pose-tracking analysis</sub> | [#1122](https://github.com/neuroinformatics-unit/movement/pull/1122) Round frame numbers when exporting VIA tracks with time in seconds |
+| **[`JdeRobot/PerceptionMetrics`](https://github.com/JdeRobot/PerceptionMetrics)**<br/><sub>JdeRobot PerceptionMetrics · CV evaluation</sub> | [#643](https://github.com/JdeRobot/PerceptionMetrics/pull/643) Keep dots in sample names for YOLO and COCO datasets |
 | **[`fossasia/eventyay`](https://github.com/fossasia/eventyay)**<br/><sub>FOSSASIA eventyay · event ticketing</sub> | [#5913](https://github.com/fossasia/eventyay/pull/5913) fix(base): send the current usage fields from record_usage |
 | **[`The-OpenROAD-Project/OpenROAD`](https://github.com/The-OpenROAD-Project/OpenROAD)**<br/><sub>OpenROAD · open-source RTL-to-GDS EDA</sub> | [#11523](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11523) bazel: enable layering_check on the dft and dst tests |
 | **[`The-OpenROAD-Project/OpenROAD`](https://github.com/The-OpenROAD-Project/OpenROAD)**<br/><sub>OpenROAD · open-source RTL-to-GDS EDA</sub> | [#11410](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11410) odb: keep LEF SPACING on OBS POLYGON geometry |
@@ -118,7 +120,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>38 open pull requests across 33 projects</b> — click to expand</summary>
+<summary><b>36 open pull requests across 31 projects</b> — click to expand</summary>
 
 **[`ohcnetwork/care`](https://github.com/ohcnetwork/care)** · <sub>CARE · hospital & patient management (Django)</sub>
 - [#3772](https://github.com/ohcnetwork/care/pull/3772) Fix availability exception overlap check for existing slots
@@ -160,9 +162,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`HSF/phoenix`](https://github.com/HSF/phoenix)** · <sub>HSF/phoenix</sub>
 - [#1041](https://github.com/HSF/phoenix/pull/1041) fix(event-display): keep jivexml backward track theta and charge
-
-**[`JdeRobot/PerceptionMetrics`](https://github.com/JdeRobot/PerceptionMetrics)** · <sub>JdeRobot PerceptionMetrics · CV evaluation</sub>
-- [#643](https://github.com/JdeRobot/PerceptionMetrics/pull/643) Keep dots in sample names for YOLO and COCO datasets
 
 **[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)** · <sub>Kiwix · offline Wikipedia (Android)</sub>
 - [#5260](https://github.com/kiwix/kiwix-android/pull/5260) #5259 Report ZIM file size in bytes instead of kilobytes
@@ -214,9 +213,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`The-OpenROAD-Project/OpenSTA`](https://github.com/The-OpenROAD-Project/OpenSTA)** · <sub>The-OpenROAD-Project/OpenSTA</sub>
 - [#453](https://github.com/The-OpenROAD-Project/OpenSTA/pull/453) read_liberty: read library default_max_capacitance
-
-**[`theochem/grid`](https://github.com/theochem/grid)** · <sub>theochem/grid · numerical integration</sub>
-- [#348](https://github.com/theochem/grid/pull/348) Fix HandyModRTransform.deriv3 for m > 2
 
 **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)** · <sub>TraceML · ML observability</sub>
 - [#600](https://github.com/traceopt-ai/traceml/pull/600) Skip a disabled cudnn.benchmark in the code manifest
