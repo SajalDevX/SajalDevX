@@ -32,9 +32,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 <!-- CONTRIB:START -->
 <p>
-  <img src="https://img.shields.io/badge/pull_requests-118-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-68-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-39-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/pull_requests-121-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-72-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-38-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
@@ -42,10 +42,13 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 | Project | Pull request |
 |:--|:--|
+| **[`SimplexLab/TorchJD`](https://github.com/SimplexLab/TorchJD)**<br/><sub>TorchJD · Jacobian descent for PyTorch</sub> | [#842](https://github.com/SimplexLab/TorchJD/pull/842) fix(scalarization): Register tensor attributes as buffers |
+| **[`gprMax/gprMax`](https://github.com/gprMax/gprMax)**<br/><sub>gprMax/gprMax</sub> | [#948](https://github.com/gprMax/gprMax/pull/948) Keep dotted names when building DT1/HD output paths |
 | **[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)**<br/><sub>Kiwix · offline Wikipedia (Android)</sub> | [#5251](https://github.com/kiwix/kiwix-android/pull/5251) #5250 Compare file sizes in bytes against the 4 GB FAT32 limit |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#595](https://github.com/traceopt-ai/traceml/pull/595) Keep fractional Hugging Face step intervals in the code manifest |
 | **[`openfoodfacts/open-prices`](https://github.com/openfoodfacts/open-prices)**<br/><sub>Open Food Facts · Open Prices (Django)</sub> | [#1535](https://github.com/openfoodfacts/open-prices/pull/1535) fix(Locations): nearby: handle search areas that cross the antimeridian (±180° longitude) |
 | **[`openfoodfacts/open-prices`](https://github.com/openfoodfacts/open-prices)**<br/><sub>Open Food Facts · Open Prices (Django)</sub> | [#1511](https://github.com/openfoodfacts/open-prices/pull/1511) fix(Locations): nearby: clamp the acos argument to avoid 'input is out of range' errors |
+| **[`SimplexLab/TorchJD`](https://github.com/SimplexLab/TorchJD)**<br/><sub>TorchJD · Jacobian descent for PyTorch</sub> | [#839](https://github.com/SimplexLab/TorchJD/pull/839) fix(aggregation): Register tensor attributes as buffers |
 | **[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)**<br/><sub>Kiwix · offline Wikipedia (Android)</sub> | [#5246](https://github.com/kiwix/kiwix-android/pull/5246) #5245 Fix book size showing 1,000 MB instead of 1 GB and crashing for 0 bytes |
 | **[`gprMax/gprMax`](https://github.com/gprMax/gprMax)**<br/><sub>gprMax/gprMax</sub> | [#944](https://github.com/gprMax/gprMax/pull/944) Crop component and tag arrays with the voxels in head_only_h5 |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#576](https://github.com/traceopt-ai/traceml/pull/576) Roll fmt_mem_new over to the next unit after rounding |
@@ -89,6 +92,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 | **[`GAA-UAM/scikit-fda`](https://github.com/GAA-UAM/scikit-fda)**<br/><sub>scikit-fda · functional data analysis</sub> | [#722](https://github.com/GAA-UAM/scikit-fda/pull/722) Evaluate FDataIrregular samples on their own points |
 | **[`ruxailab/RUXAILAB`](https://github.com/ruxailab/RUXAILAB)**<br/><sub>RUXAILAB · usability testing platform</sub> | [#2397](https://github.com/ruxailab/RUXAILAB/pull/2397) fix(dashboard): show the next upcoming session on the dashboard card |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#512](https://github.com/traceopt-ai/traceml/pull/512) Spell out node scope in System diagnostic text |
+| **[`FlexMeasures/flexmeasures`](https://github.com/FlexMeasures/flexmeasures)**<br/><sub>FlexMeasures · energy flexibility platform</sub> | [#2618](https://github.com/FlexMeasures/flexmeasures/pull/2618) Answer unknown /api URLs with a JSON 404 |
 | **[`holoviz/lumen`](https://github.com/holoviz/lumen)**<br/><sub>HoloViz Lumen · data dashboards</sub> | [#2108](https://github.com/holoviz/lumen/pull/2108) Annotate `ViewOutputs.view` so it is a required output key |
 | **[`ruxailab/RUXAILAB`](https://github.com/ruxailab/RUXAILAB)**<br/><sub>RUXAILAB · usability testing platform</sub> | [#2395](https://github.com/ruxailab/RUXAILAB/pull/2395) fix(cooperators): style Admin role chip in cooperators table |
 | **[`mlflow/mlflow`](https://github.com/mlflow/mlflow)**<br/><sub>MLflow · ML lifecycle platform</sub> | [#26249](https://github.com/mlflow/mlflow/pull/26249) Accept lowercase `like`, `ilike` and `in` in `search_logged_models` filters |
@@ -114,7 +118,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>39 open pull requests across 34 projects</b> — click to expand</summary>
+<summary><b>38 open pull requests across 33 projects</b> — click to expand</summary>
 
 **[`ohcnetwork/care`](https://github.com/ohcnetwork/care)** · <sub>CARE · hospital & patient management (Django)</sub>
 - [#3772](https://github.com/ohcnetwork/care/pull/3772) Fix availability exception overlap check for existing slots
@@ -142,9 +146,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`CircuitVerse/cv-frontend-vue`](https://github.com/CircuitVerse/cv-frontend-vue)** · <sub>CircuitVerse · digital logic simulator (Vue)</sub>
 - [#1334](https://github.com/CircuitVerse/cv-frontend-vue/pull/1334) fix(vuesim): use 2 ** bitWidth for Stepper and RAM range limits
 
-**[`FlexMeasures/flexmeasures`](https://github.com/FlexMeasures/flexmeasures)** · <sub>FlexMeasures · energy flexibility platform</sub>
-- [#2618](https://github.com/FlexMeasures/flexmeasures/pull/2618) Answer unknown /api URLs with a JSON 404
-
 **[`GAA-UAM/scikit-fda`](https://github.com/GAA-UAM/scikit-fda)** · <sub>scikit-fda · functional data analysis</sub>
 - [#729](https://github.com/GAA-UAM/scikit-fda/pull/729) Adjust domain range of vector valued and tensor bases in to_basis
 
@@ -162,6 +163,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`JdeRobot/PerceptionMetrics`](https://github.com/JdeRobot/PerceptionMetrics)** · <sub>JdeRobot PerceptionMetrics · CV evaluation</sub>
 - [#643](https://github.com/JdeRobot/PerceptionMetrics/pull/643) Keep dots in sample names for YOLO and COCO datasets
+
+**[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)** · <sub>Kiwix · offline Wikipedia (Android)</sub>
+- [#5260](https://github.com/kiwix/kiwix-android/pull/5260) #5259 Report ZIM file size in bytes instead of kilobytes
 
 **[`kubeflow/kale`](https://github.com/kubeflow/kale)** · <sub>Kubeflow Kale · notebooks → pipelines</sub>
 - [#976](https://github.com/kubeflow/kale/pull/976) fix(backend): keep and escape annotation/label values that contain ':' or quotes
@@ -198,9 +202,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`scverse/anndata`](https://github.com/scverse/anndata)** · <sub>scverse anndata · annotated data matrices</sub>
 - [#2667](https://github.com/scverse/anndata/pull/2667) fix: name offending elements when writing object arrays with non-strings to h5ad
-
-**[`SimplexLab/TorchJD`](https://github.com/SimplexLab/TorchJD)** · <sub>TorchJD · Jacobian descent for PyTorch</sub>
-- [#839](https://github.com/SimplexLab/TorchJD/pull/839) fix(aggregation): Register tensor attributes as buffers
 
 **[`sktime/skpro`](https://github.com/sktime/skpro)** · <sub>sktime skpro · probabilistic regression</sub>
 - [#1177](https://github.com/sktime/skpro/pull/1177) [DOC] add usage example to ConcordanceHarrell docstring
