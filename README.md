@@ -33,8 +33,8 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 <!-- CONTRIB:START -->
 <p>
   <img src="https://img.shields.io/badge/pull_requests-121-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-74-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-36-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-75-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-35-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
@@ -42,6 +42,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 | Project | Pull request |
 |:--|:--|
+| **[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)**<br/><sub>Kiwix · offline Wikipedia (Android)</sub> | [#5260](https://github.com/kiwix/kiwix-android/pull/5260) #5259 Report ZIM file size in bytes instead of kilobytes |
 | **[`SimplexLab/TorchJD`](https://github.com/SimplexLab/TorchJD)**<br/><sub>TorchJD · Jacobian descent for PyTorch</sub> | [#842](https://github.com/SimplexLab/TorchJD/pull/842) fix(scalarization): Register tensor attributes as buffers |
 | **[`gprMax/gprMax`](https://github.com/gprMax/gprMax)**<br/><sub>gprMax/gprMax</sub> | [#948](https://github.com/gprMax/gprMax/pull/948) Keep dotted names when building DT1/HD output paths |
 | **[`theochem/grid`](https://github.com/theochem/grid)**<br/><sub>theochem/grid · numerical integration</sub> | [#348](https://github.com/theochem/grid/pull/348) Fix HandyModRTransform.deriv3 for m > 2 |
@@ -120,7 +121,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>36 open pull requests across 31 projects</b> — click to expand</summary>
+<summary><b>35 open pull requests across 30 projects</b> — click to expand</summary>
 
 **[`ohcnetwork/care`](https://github.com/ohcnetwork/care)** · <sub>CARE · hospital & patient management (Django)</sub>
 - [#3772](https://github.com/ohcnetwork/care/pull/3772) Fix availability exception overlap check for existing slots
@@ -162,9 +163,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`HSF/phoenix`](https://github.com/HSF/phoenix)** · <sub>HSF/phoenix</sub>
 - [#1041](https://github.com/HSF/phoenix/pull/1041) fix(event-display): keep jivexml backward track theta and charge
-
-**[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)** · <sub>Kiwix · offline Wikipedia (Android)</sub>
-- [#5260](https://github.com/kiwix/kiwix-android/pull/5260) #5259 Report ZIM file size in bytes instead of kilobytes
 
 **[`kubeflow/kale`](https://github.com/kubeflow/kale)** · <sub>Kubeflow Kale · notebooks → pipelines</sub>
 - [#976](https://github.com/kubeflow/kale/pull/976) fix(backend): keep and escape annotation/label values that contain ':' or quotes
