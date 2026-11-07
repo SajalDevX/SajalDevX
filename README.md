@@ -34,7 +34,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 <p>
   <img src="https://img.shields.io/badge/pull_requests-127-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/merged-76-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-40-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-39-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
@@ -122,7 +122,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>40 open pull requests across 35 projects</b> — click to expand</summary>
+<summary><b>39 open pull requests across 34 projects</b> — click to expand</summary>
 
 **[`ohcnetwork/care`](https://github.com/ohcnetwork/care)** · <sub>CARE · hospital & patient management (Django)</sub>
 - [#3772](https://github.com/ohcnetwork/care/pull/3772) Fix availability exception overlap check for existing slots
@@ -179,9 +179,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`kubeflow/kale`](https://github.com/kubeflow/kale)** · <sub>Kubeflow Kale · notebooks → pipelines</sub>
 - [#976](https://github.com/kubeflow/kale/pull/976) fix(backend): keep and escape annotation/label values that contain ':' or quotes
-
-**[`mesa/mesa`](https://github.com/mesa/mesa)** · <sub>Mesa · agent-based modelling (Python)</sub>
-- [#3882](https://github.com/mesa/mesa/pull/3882) Don't run an EventGenerator whose first run is after schedule.end
 
 **[`meshery/meshery`](https://github.com/meshery/meshery)** · <sub>meshery/meshery</sub>
 - [#22184](https://github.com/meshery/meshery/pull/22184) [Server] Fix SanitizeFileName panic for names without extension
