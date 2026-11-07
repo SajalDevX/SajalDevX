@@ -33,8 +33,8 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 <!-- CONTRIB:START -->
 <p>
   <img src="https://img.shields.io/badge/pull_requests-127-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-75-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-41-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-76-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-40-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
@@ -42,6 +42,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 | Project | Pull request |
 |:--|:--|
+| **[`SimplexLab/TorchJD`](https://github.com/SimplexLab/TorchJD)**<br/><sub>TorchJD · Jacobian descent for PyTorch</sub> | [#844](https://github.com/SimplexLab/TorchJD/pull/844) fix(autojac): Handle repeated tensors in jac_to_grad |
 | **[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)**<br/><sub>Kiwix · offline Wikipedia (Android)</sub> | [#5260](https://github.com/kiwix/kiwix-android/pull/5260) #5259 Report ZIM file size in bytes instead of kilobytes |
 | **[`SimplexLab/TorchJD`](https://github.com/SimplexLab/TorchJD)**<br/><sub>TorchJD · Jacobian descent for PyTorch</sub> | [#842](https://github.com/SimplexLab/TorchJD/pull/842) fix(scalarization): Register tensor attributes as buffers |
 | **[`gprMax/gprMax`](https://github.com/gprMax/gprMax)**<br/><sub>gprMax/gprMax</sub> | [#948](https://github.com/gprMax/gprMax/pull/948) Keep dotted names when building DT1/HD output paths |
@@ -121,7 +122,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>41 open pull requests across 36 projects</b> — click to expand</summary>
+<summary><b>40 open pull requests across 35 projects</b> — click to expand</summary>
 
 **[`ohcnetwork/care`](https://github.com/ohcnetwork/care)** · <sub>CARE · hospital & patient management (Django)</sub>
 - [#3772](https://github.com/ohcnetwork/care/pull/3772) Fix availability exception overlap check for existing slots
@@ -211,9 +212,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`scverse/anndata`](https://github.com/scverse/anndata)** · <sub>scverse anndata · annotated data matrices</sub>
 - [#2667](https://github.com/scverse/anndata/pull/2667) fix: name offending elements when writing object arrays with non-strings to h5ad
-
-**[`SimplexLab/TorchJD`](https://github.com/SimplexLab/TorchJD)** · <sub>TorchJD · Jacobian descent for PyTorch</sub>
-- [#844](https://github.com/SimplexLab/TorchJD/pull/844) fix(autojac): Handle repeated tensors in jac_to_grad
 
 **[`sktime/skpro`](https://github.com/sktime/skpro)** · <sub>sktime skpro · probabilistic regression</sub>
 - [#1177](https://github.com/sktime/skpro/pull/1177) [DOC] add usage example to ConcordanceHarrell docstring
