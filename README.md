@@ -33,8 +33,8 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 <!-- CONTRIB:START -->
 <p>
   <img src="https://img.shields.io/badge/pull_requests-128-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-77-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-39-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-78-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-37-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
@@ -47,6 +47,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 | **[`SimplexLab/TorchJD`](https://github.com/SimplexLab/TorchJD)**<br/><sub>TorchJD · Jacobian descent for PyTorch</sub> | [#842](https://github.com/SimplexLab/TorchJD/pull/842) fix(scalarization): Register tensor attributes as buffers |
 | **[`gprMax/gprMax`](https://github.com/gprMax/gprMax)**<br/><sub>gprMax/gprMax</sub> | [#948](https://github.com/gprMax/gprMax/pull/948) Keep dotted names when building DT1/HD output paths |
 | **[`theochem/grid`](https://github.com/theochem/grid)**<br/><sub>theochem/grid · numerical integration</sub> | [#348](https://github.com/theochem/grid/pull/348) Fix HandyModRTransform.deriv3 for m > 2 |
+| **[`ruxailab/RUXAILAB`](https://github.com/ruxailab/RUXAILAB)**<br/><sub>RUXAILAB · usability testing platform</sub> | [#2584](https://github.com/ruxailab/RUXAILAB/pull/2584) fix(sessions): sort the owner and created columns of the sessions table |
 | **[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)**<br/><sub>Kiwix · offline Wikipedia (Android)</sub> | [#5251](https://github.com/kiwix/kiwix-android/pull/5251) #5250 Compare file sizes in bytes against the 4 GB FAT32 limit |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#595](https://github.com/traceopt-ai/traceml/pull/595) Keep fractional Hugging Face step intervals in the code manifest |
 | **[`openfoodfacts/open-prices`](https://github.com/openfoodfacts/open-prices)**<br/><sub>Open Food Facts · Open Prices (Django)</sub> | [#1535](https://github.com/openfoodfacts/open-prices/pull/1535) fix(Locations): nearby: handle search areas that cross the antimeridian (±180° longitude) |
@@ -123,7 +124,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>39 open pull requests across 34 projects</b> — click to expand</summary>
+<summary><b>37 open pull requests across 32 projects</b> — click to expand</summary>
 
 **[`ohcnetwork/care`](https://github.com/ohcnetwork/care)** · <sub>CARE · hospital & patient management (Django)</sub>
 - [#3772](https://github.com/ohcnetwork/care/pull/3772) Fix availability exception overlap check for existing slots
@@ -202,9 +203,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`OpenMS/pyopenms_viz`](https://github.com/OpenMS/pyopenms_viz)** · <sub>OpenMS · pyopenms_viz (mass-spec plotting)</sub>
 - [#183](https://github.com/OpenMS/pyopenms_viz/pull/183) Let pyopenms_viz import without matplotlib or Pillow
 
-**[`ruxailab/RUXAILAB`](https://github.com/ruxailab/RUXAILAB)** · <sub>RUXAILAB · usability testing platform</sub>
-- [#2584](https://github.com/ruxailab/RUXAILAB/pull/2584) fix(sessions): sort the owner and created columns of the sessions table
-
 **[`scverse/anndata`](https://github.com/scverse/anndata)** · <sub>scverse anndata · annotated data matrices</sub>
 - [#2667](https://github.com/scverse/anndata/pull/2667) fix: name offending elements when writing object arrays with non-strings to h5ad
 
@@ -225,9 +223,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`theochem/grid`](https://github.com/theochem/grid)** · <sub>theochem/grid · numerical integration</sub>
 - [#350](https://github.com/theochem/grid/pull/350) Fix Fourier2 weights in UniformGrid
-
-**[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)** · <sub>TraceML · ML observability</sub>
-- [#600](https://github.com/traceopt-ai/traceml/pull/600) Skip a disabled cudnn.benchmark in the code manifest
 
 **[`tslearn-team/tslearn`](https://github.com/tslearn-team/tslearn)** · <sub>tslearn-team/tslearn</sub>
 - [#754](https://github.com/tslearn-team/tslearn/pull/754) [MRG] Ignore NaN subsequences in the numpy matrix profile
