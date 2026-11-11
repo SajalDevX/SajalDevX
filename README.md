@@ -32,9 +32,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 <!-- CONTRIB:START -->
 <p>
-  <img src="https://img.shields.io/badge/pull_requests-131-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-81-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-36-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/pull_requests-135-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-82-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-39-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
@@ -119,6 +119,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 | **[`neuroinformatics-unit/movement`](https://github.com/neuroinformatics-unit/movement)**<br/><sub>movement · animal pose-tracking analysis</sub> | [#1122](https://github.com/neuroinformatics-unit/movement/pull/1122) Round frame numbers when exporting VIA tracks with time in seconds |
 | **[`JdeRobot/PerceptionMetrics`](https://github.com/JdeRobot/PerceptionMetrics)**<br/><sub>JdeRobot PerceptionMetrics · CV evaluation</sub> | [#643](https://github.com/JdeRobot/PerceptionMetrics/pull/643) Keep dots in sample names for YOLO and COCO datasets |
 | **[`fossasia/eventyay`](https://github.com/fossasia/eventyay)**<br/><sub>FOSSASIA eventyay · event ticketing</sub> | [#5913](https://github.com/fossasia/eventyay/pull/5913) fix(base): send the current usage fields from record_usage |
+| **[`CCExtractor/ccextractor`](https://github.com/CCExtractor/ccextractor)**<br/><sub>CCExtractor · subtitle extraction (C)</sub> | [#2356](https://github.com/CCExtractor/ccextractor/pull/2356) [FIX] Keep per-page teletext state when extracting multiple pages |
 | **[`The-OpenROAD-Project/OpenROAD`](https://github.com/The-OpenROAD-Project/OpenROAD)**<br/><sub>OpenROAD · open-source RTL-to-GDS EDA</sub> | [#11523](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11523) bazel: enable layering_check on the dft and dst tests |
 | **[`The-OpenROAD-Project/OpenROAD`](https://github.com/The-OpenROAD-Project/OpenROAD)**<br/><sub>OpenROAD · open-source RTL-to-GDS EDA</sub> | [#11410](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11410) odb: keep LEF SPACING on OBS POLYGON geometry |
 | **[`ankidroid/Anki-Android`](https://github.com/ankidroid/Anki-Android)**<br/><sub>AnkiDroid · spaced-repetition Android app</sub> | [#21374](https://github.com/ankidroid/Anki-Android/pull/21374) fix(filtered-deck): preserve error message for InvalidSearchException |
@@ -127,7 +128,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>36 open pull requests across 31 projects</b> — click to expand</summary>
+<summary><b>39 open pull requests across 34 projects</b> — click to expand</summary>
 
 **[`ohcnetwork/care`](https://github.com/ohcnetwork/care)** · <sub>CARE · hospital & patient management (Django)</sub>
 - [#3772](https://github.com/ohcnetwork/care/pull/3772) Fix availability exception overlap check for existing slots
@@ -148,9 +149,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`accordproject/concerto`](https://github.com/accordproject/concerto)** · <sub>Accord Project Concerto · data modelling</sub>
 - [#1420](https://github.com/accordproject/concerto/pull/1420) fix(build): make the ESM smoke test independent of the local timezone
-
-**[`CCExtractor/ccextractor`](https://github.com/CCExtractor/ccextractor)** · <sub>CCExtractor · subtitle extraction (C)</sub>
-- [#2356](https://github.com/CCExtractor/ccextractor/pull/2356) [FIX] Keep per-page teletext state when extracting multiple pages
 
 **[`CircuitVerse/cv-frontend-vue`](https://github.com/CircuitVerse/cv-frontend-vue)** · <sub>CircuitVerse · digital logic simulator (Vue)</sub>
 - [#1334](https://github.com/CircuitVerse/cv-frontend-vue/pull/1334) fix(vuesim): use 2 ** bitWidth for Stepper and RAM range limits
@@ -173,8 +171,14 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`holoviz/lumen`](https://github.com/holoviz/lumen)** · <sub>HoloViz Lumen · data dashboards</sub>
 - [#2262](https://github.com/holoviz/lumen/pull/2262) fix: Handle DuckDBSource.to_spec when no tables are declared
 
+**[`HSF/phoenix`](https://github.com/HSF/phoenix)** · <sub>HSF/phoenix</sub>
+- [#1068](https://github.com/HSF/phoenix/pull/1068) fix(event-display): use valid colors for edm4hep overlay and secondary hits
+
 **[`JdeRobot/PerceptionMetrics`](https://github.com/JdeRobot/PerceptionMetrics)** · <sub>JdeRobot PerceptionMetrics · CV evaluation</sub>
 - [#668](https://github.com/JdeRobot/PerceptionMetrics/pull/668) Only swap the images/labels folder itself in YOLO paths
+
+**[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)** · <sub>Kiwix · offline Wikipedia (Android)</sub>
+- [#5269](https://github.com/kiwix/kiwix-android/pull/5269) #5268 Uppercase online library language tabs with the app locale
 
 **[`kubeflow/kale`](https://github.com/kubeflow/kale)** · <sub>Kubeflow Kale · notebooks → pipelines</sub>
 - [#976](https://github.com/kubeflow/kale/pull/976) fix(backend): keep and escape annotation/label values that contain ':' or quotes
@@ -196,6 +200,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)** · <sub>OneBusAway Maglev · transit REST API (Go)</sub>
 - [#1495](https://github.com/OneBusAway/maglev/pull/1495) Resolve stop route IDs in schedule-for-route
+
+**[`openfoodfacts/open-prices`](https://github.com/openfoodfacts/open-prices)** · <sub>Open Food Facts · Open Prices (Django)</sub>
+- [#1546](https://github.com/openfoodfacts/open-prices/pull/1546) fix(Locations): API: return the existing location on duplicate create instead of a 500
 
 **[`OpenMS/pyopenms_viz`](https://github.com/OpenMS/pyopenms_viz)** · <sub>OpenMS · pyopenms_viz (mass-spec plotting)</sub>
 - [#183](https://github.com/OpenMS/pyopenms_viz/pull/183) Let pyopenms_viz import without matplotlib or Pillow
@@ -223,6 +230,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`theochem/grid`](https://github.com/theochem/grid)** · <sub>theochem/grid · numerical integration</sub>
 - [#350](https://github.com/theochem/grid/pull/350) Fix Fourier2 weights in UniformGrid
+
+**[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)** · <sub>TraceML · ML observability</sub>
+- [#613](https://github.com/traceopt-ai/traceml/pull/613) Stop reporting a Lightning Trainer as a Hugging Face Trainer
 
 **[`tslearn-team/tslearn`](https://github.com/tslearn-team/tslearn)** · <sub>tslearn-team/tslearn</sub>
 - [#754](https://github.com/tslearn-team/tslearn/pull/754) [MRG] Ignore NaN subsequences in the numpy matrix profile
