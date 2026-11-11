@@ -33,8 +33,8 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 <!-- CONTRIB:START -->
 <p>
   <img src="https://img.shields.io/badge/pull_requests-137-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-84-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-39-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-85-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-38-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
@@ -45,6 +45,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#613](https://github.com/traceopt-ai/traceml/pull/613) Stop reporting a Lightning Trainer as a Hugging Face Trainer |
 | **[`HSF/phoenix`](https://github.com/HSF/phoenix)**<br/><sub>HSF/phoenix</sub> | [#1068](https://github.com/HSF/phoenix/pull/1068) fix(event-display): use valid colors for edm4hep overlay and secondary hits |
 | **[`HSF/phoenix`](https://github.com/HSF/phoenix)**<br/><sub>HSF/phoenix</sub> | [#1067](https://github.com/HSF/phoenix/pull/1067) fix(event-display): convert jivexml vertex positions from cm to mm |
+| **[`ruxailab/RUXAILAB`](https://github.com/ruxailab/RUXAILAB)**<br/><sub>RUXAILAB · usability testing platform</sub> | [#2622](https://github.com/ruxailab/RUXAILAB/pull/2622) fix(user-test): keep the analytics reset button disabled when no filter is set |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#610](https://github.com/traceopt-ai/traceml/pull/610) Skip a disabled cudnn.benchmark in the code manifest |
 | **[`SimplexLab/TorchJD`](https://github.com/SimplexLab/TorchJD)**<br/><sub>TorchJD · Jacobian descent for PyTorch</sub> | [#844](https://github.com/SimplexLab/TorchJD/pull/844) fix(autojac): Handle repeated tensors in jac_to_grad |
 | **[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)**<br/><sub>Kiwix · offline Wikipedia (Android)</sub> | [#5260](https://github.com/kiwix/kiwix-android/pull/5260) #5259 Report ZIM file size in bytes instead of kilobytes |
@@ -130,7 +131,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>39 open pull requests across 34 projects</b> — click to expand</summary>
+<summary><b>38 open pull requests across 33 projects</b> — click to expand</summary>
 
 **[`ohcnetwork/care`](https://github.com/ohcnetwork/care)** · <sub>CARE · hospital & patient management (Django)</sub>
 - [#3772](https://github.com/ohcnetwork/care/pull/3772) Fix availability exception overlap check for existing slots
@@ -211,9 +212,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`OpenMS/pyopenms_viz`](https://github.com/OpenMS/pyopenms_viz)** · <sub>OpenMS · pyopenms_viz (mass-spec plotting)</sub>
 - [#183](https://github.com/OpenMS/pyopenms_viz/pull/183) Let pyopenms_viz import without matplotlib or Pillow
-
-**[`ruxailab/RUXAILAB`](https://github.com/ruxailab/RUXAILAB)** · <sub>RUXAILAB · usability testing platform</sub>
-- [#2622](https://github.com/ruxailab/RUXAILAB/pull/2622) fix(user-test): keep the analytics reset button disabled when no filter is set
 
 **[`scverse/anndata`](https://github.com/scverse/anndata)** · <sub>scverse anndata · annotated data matrices</sub>
 - [#2667](https://github.com/scverse/anndata/pull/2667) fix: name offending elements when writing object arrays with non-strings to h5ad
