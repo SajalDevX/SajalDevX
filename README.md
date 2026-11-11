@@ -32,8 +32,8 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 <!-- CONTRIB:START -->
 <p>
-  <img src="https://img.shields.io/badge/pull_requests-135-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-82-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/pull_requests-137-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-84-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/in_review-39-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
@@ -42,6 +42,8 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 | Project | Pull request |
 |:--|:--|
+| **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#613](https://github.com/traceopt-ai/traceml/pull/613) Stop reporting a Lightning Trainer as a Hugging Face Trainer |
+| **[`HSF/phoenix`](https://github.com/HSF/phoenix)**<br/><sub>HSF/phoenix</sub> | [#1068](https://github.com/HSF/phoenix/pull/1068) fix(event-display): use valid colors for edm4hep overlay and secondary hits |
 | **[`HSF/phoenix`](https://github.com/HSF/phoenix)**<br/><sub>HSF/phoenix</sub> | [#1067](https://github.com/HSF/phoenix/pull/1067) fix(event-display): convert jivexml vertex positions from cm to mm |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#610](https://github.com/traceopt-ai/traceml/pull/610) Skip a disabled cudnn.benchmark in the code manifest |
 | **[`SimplexLab/TorchJD`](https://github.com/SimplexLab/TorchJD)**<br/><sub>TorchJD · Jacobian descent for PyTorch</sub> | [#844](https://github.com/SimplexLab/TorchJD/pull/844) fix(autojac): Handle repeated tensors in jac_to_grad |
@@ -150,6 +152,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`accordproject/concerto`](https://github.com/accordproject/concerto)** · <sub>Accord Project Concerto · data modelling</sub>
 - [#1420](https://github.com/accordproject/concerto/pull/1420) fix(build): make the ESM smoke test independent of the local timezone
 
+**[`CCExtractor/ccextractor`](https://github.com/CCExtractor/ccextractor)** · <sub>CCExtractor · subtitle extraction (C)</sub>
+- [#2459](https://github.com/CCExtractor/ccextractor/pull/2459) [FIX] Flush the last 608 caption for g608 and simple-xml output
+
 **[`CircuitVerse/cv-frontend-vue`](https://github.com/CircuitVerse/cv-frontend-vue)** · <sub>CircuitVerse · digital logic simulator (Vue)</sub>
 - [#1334](https://github.com/CircuitVerse/cv-frontend-vue/pull/1334) fix(vuesim): use 2 ** bitWidth for Stepper and RAM range limits
 
@@ -172,7 +177,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 - [#2262](https://github.com/holoviz/lumen/pull/2262) fix: Handle DuckDBSource.to_spec when no tables are declared
 
 **[`HSF/phoenix`](https://github.com/HSF/phoenix)** · <sub>HSF/phoenix</sub>
-- [#1068](https://github.com/HSF/phoenix/pull/1068) fix(event-display): use valid colors for edm4hep overlay and secondary hits
+- [#1070](https://github.com/HSF/phoenix/pull/1070) fix(event-display): give single edm4hep calo hits a finite cell size
 
 **[`JdeRobot/PerceptionMetrics`](https://github.com/JdeRobot/PerceptionMetrics)** · <sub>JdeRobot PerceptionMetrics · CV evaluation</sub>
 - [#668](https://github.com/JdeRobot/PerceptionMetrics/pull/668) Only swap the images/labels folder itself in YOLO paths
@@ -230,9 +235,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`theochem/grid`](https://github.com/theochem/grid)** · <sub>theochem/grid · numerical integration</sub>
 - [#350](https://github.com/theochem/grid/pull/350) Fix Fourier2 weights in UniformGrid
-
-**[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)** · <sub>TraceML · ML observability</sub>
-- [#613](https://github.com/traceopt-ai/traceml/pull/613) Stop reporting a Lightning Trainer as a Hugging Face Trainer
 
 **[`tslearn-team/tslearn`](https://github.com/tslearn-team/tslearn)** · <sub>tslearn-team/tslearn</sub>
 - [#754](https://github.com/tslearn-team/tslearn/pull/754) [MRG] Ignore NaN subsequences in the numpy matrix profile
