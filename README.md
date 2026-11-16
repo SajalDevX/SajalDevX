@@ -33,8 +33,8 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 <!-- CONTRIB:START -->
 <p>
   <img src="https://img.shields.io/badge/pull_requests-143-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-89-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-40-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-90-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-39-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
@@ -46,6 +46,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#619](https://github.com/traceopt-ai/traceml/pull/619) Reject '.' and '..' as a run name |
 | **[`ruxailab/RUXAILAB`](https://github.com/ruxailab/RUXAILAB)**<br/><sub>RUXAILAB · usability testing platform</sub> | [#2633](https://github.com/ruxailab/RUXAILAB/pull/2633) fix(notifications): keep the page in range when the list gets shorter |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#613](https://github.com/traceopt-ai/traceml/pull/613) Stop reporting a Lightning Trainer as a Hugging Face Trainer |
+| **[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)**<br/><sub>Kiwix · offline Wikipedia (Android)</sub> | [#5269](https://github.com/kiwix/kiwix-android/pull/5269) #5268 Uppercase online library language tabs with the app locale |
 | **[`HSF/phoenix`](https://github.com/HSF/phoenix)**<br/><sub>HSF/phoenix</sub> | [#1068](https://github.com/HSF/phoenix/pull/1068) fix(event-display): use valid colors for edm4hep overlay and secondary hits |
 | **[`HSF/phoenix`](https://github.com/HSF/phoenix)**<br/><sub>HSF/phoenix</sub> | [#1067](https://github.com/HSF/phoenix/pull/1067) fix(event-display): convert jivexml vertex positions from cm to mm |
 | **[`ruxailab/RUXAILAB`](https://github.com/ruxailab/RUXAILAB)**<br/><sub>RUXAILAB · usability testing platform</sub> | [#2622](https://github.com/ruxailab/RUXAILAB/pull/2622) fix(user-test): keep the analytics reset button disabled when no filter is set |
@@ -135,7 +136,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>40 open pull requests across 35 projects</b> — click to expand</summary>
+<summary><b>39 open pull requests across 34 projects</b> — click to expand</summary>
 
 **[`ohcnetwork/care`](https://github.com/ohcnetwork/care)** · <sub>CARE · hospital & patient management (Django)</sub>
 - [#3772](https://github.com/ohcnetwork/care/pull/3772) Fix availability exception overlap check for existing slots
@@ -186,9 +187,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`JdeRobot/PerceptionMetrics`](https://github.com/JdeRobot/PerceptionMetrics)** · <sub>JdeRobot PerceptionMetrics · CV evaluation</sub>
 - [#668](https://github.com/JdeRobot/PerceptionMetrics/pull/668) Only swap the images/labels folder itself in YOLO paths
-
-**[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)** · <sub>Kiwix · offline Wikipedia (Android)</sub>
-- [#5269](https://github.com/kiwix/kiwix-android/pull/5269) #5268 Uppercase online library language tabs with the app locale
 
 **[`kubeflow/kale`](https://github.com/kubeflow/kale)** · <sub>Kubeflow Kale · notebooks → pipelines</sub>
 - [#976](https://github.com/kubeflow/kale/pull/976) fix(backend): keep and escape annotation/label values that contain ':' or quotes
