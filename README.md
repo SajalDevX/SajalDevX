@@ -33,8 +33,8 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 <!-- CONTRIB:START -->
 <p>
   <img src="https://img.shields.io/badge/pull_requests-143-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-90-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-39-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-91-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-37-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
@@ -43,6 +43,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 | Project | Pull request |
 |:--|:--|
 | **[`ruxailab/RUXAILAB`](https://github.com/ruxailab/RUXAILAB)**<br/><sub>RUXAILAB · usability testing platform</sub> | [#2637](https://github.com/ruxailab/RUXAILAB/pull/2637) fix(studies): show accessibility studies when filtering by method |
+| **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#624](https://github.com/traceopt-ai/traceml/pull/624) Stop view, inspect and compare quietly when their output pipe closes |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#619](https://github.com/traceopt-ai/traceml/pull/619) Reject '.' and '..' as a run name |
 | **[`ruxailab/RUXAILAB`](https://github.com/ruxailab/RUXAILAB)**<br/><sub>RUXAILAB · usability testing platform</sub> | [#2633](https://github.com/ruxailab/RUXAILAB/pull/2633) fix(notifications): keep the page in range when the list gets shorter |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#613](https://github.com/traceopt-ai/traceml/pull/613) Stop reporting a Lightning Trainer as a Hugging Face Trainer |
@@ -136,7 +137,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>39 open pull requests across 34 projects</b> — click to expand</summary>
+<summary><b>37 open pull requests across 32 projects</b> — click to expand</summary>
 
 **[`ohcnetwork/care`](https://github.com/ohcnetwork/care)** · <sub>CARE · hospital & patient management (Django)</sub>
 - [#3772](https://github.com/ohcnetwork/care/pull/3772) Fix availability exception overlap check for existing slots
@@ -169,9 +170,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`GAA-UAM/scikit-fda`](https://github.com/GAA-UAM/scikit-fda)** · <sub>scikit-fda · functional data analysis</sub>
 - [#729](https://github.com/GAA-UAM/scikit-fda/pull/729) Adjust domain range of vector valued and tensor bases in to_basis
-
-**[`gambitproject/gambit`](https://github.com/gambitproject/gambit)** · <sub>Gambit · game theory software</sub>
-- [#1163](https://github.com/gambitproject/gambit/pull/1163) Fix missing closing parenthesis in repr() of an untitled Game
 
 **[`gprMax/gprMax`](https://github.com/gprMax/gprMax)** · <sub>gprMax/gprMax</sub>
 - [#970](https://github.com/gprMax/gprMax/pull/970) Match only the named series when merging output files
@@ -238,9 +236,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`theochem/grid`](https://github.com/theochem/grid)** · <sub>theochem/grid · numerical integration</sub>
 - [#350](https://github.com/theochem/grid/pull/350) Fix Fourier2 weights in UniformGrid
-
-**[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)** · <sub>TraceML · ML observability</sub>
-- [#624](https://github.com/traceopt-ai/traceml/pull/624) Stop view, inspect and compare quietly when their output pipe closes
 
 **[`tslearn-team/tslearn`](https://github.com/tslearn-team/tslearn)** · <sub>tslearn-team/tslearn</sub>
 - [#754](https://github.com/tslearn-team/tslearn/pull/754) [MRG] Ignore NaN subsequences in the numpy matrix profile
