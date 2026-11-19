@@ -33,8 +33,8 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 <!-- CONTRIB:START -->
 <p>
   <img src="https://img.shields.io/badge/pull_requests-143-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-93-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-35-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-94-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-34-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
@@ -49,6 +49,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 | **[`ruxailab/RUXAILAB`](https://github.com/ruxailab/RUXAILAB)**<br/><sub>RUXAILAB · usability testing platform</sub> | [#2633](https://github.com/ruxailab/RUXAILAB/pull/2633) fix(notifications): keep the page in range when the list gets shorter |
 | **[`HSF/phoenix`](https://github.com/HSF/phoenix)**<br/><sub>HSF/phoenix</sub> | [#1070](https://github.com/HSF/phoenix/pull/1070) fix(event-display): give single edm4hep calo hits a finite cell size |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#613](https://github.com/traceopt-ai/traceml/pull/613) Stop reporting a Lightning Trainer as a Hugging Face Trainer |
+| **[`openfoodfacts/open-prices`](https://github.com/openfoodfacts/open-prices)**<br/><sub>Open Food Facts · Open Prices (Django)</sub> | [#1546](https://github.com/openfoodfacts/open-prices/pull/1546) fix(Locations): API: return the existing location on duplicate create instead of a 500 |
 | **[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)**<br/><sub>Kiwix · offline Wikipedia (Android)</sub> | [#5269](https://github.com/kiwix/kiwix-android/pull/5269) #5268 Uppercase online library language tabs with the app locale |
 | **[`HSF/phoenix`](https://github.com/HSF/phoenix)**<br/><sub>HSF/phoenix</sub> | [#1068](https://github.com/HSF/phoenix/pull/1068) fix(event-display): use valid colors for edm4hep overlay and secondary hits |
 | **[`HSF/phoenix`](https://github.com/HSF/phoenix)**<br/><sub>HSF/phoenix</sub> | [#1067](https://github.com/HSF/phoenix/pull/1067) fix(event-display): convert jivexml vertex positions from cm to mm |
@@ -139,7 +140,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>35 open pull requests across 30 projects</b> — click to expand</summary>
+<summary><b>34 open pull requests across 29 projects</b> — click to expand</summary>
 
 **[`ohcnetwork/care`](https://github.com/ohcnetwork/care)** · <sub>CARE · hospital & patient management (Django)</sub>
 - [#3772](https://github.com/ohcnetwork/care/pull/3772) Fix availability exception overlap check for existing slots
@@ -202,9 +203,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)** · <sub>OneBusAway Maglev · transit REST API (Go)</sub>
 - [#1495](https://github.com/OneBusAway/maglev/pull/1495) Resolve stop route IDs in schedule-for-route
-
-**[`openfoodfacts/open-prices`](https://github.com/openfoodfacts/open-prices)** · <sub>Open Food Facts · Open Prices (Django)</sub>
-- [#1546](https://github.com/openfoodfacts/open-prices/pull/1546) fix(Locations): API: return the existing location on duplicate create instead of a 500
 
 **[`OpenMS/pyopenms_viz`](https://github.com/OpenMS/pyopenms_viz)** · <sub>OpenMS · pyopenms_viz (mass-spec plotting)</sub>
 - [#183](https://github.com/OpenMS/pyopenms_viz/pull/183) Let pyopenms_viz import without matplotlib or Pillow
