@@ -33,8 +33,8 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 <!-- CONTRIB:START -->
 <p>
   <img src="https://img.shields.io/badge/pull_requests-143-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-95-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-33-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-97-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-31-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
@@ -55,6 +55,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 | **[`HSF/phoenix`](https://github.com/HSF/phoenix)**<br/><sub>HSF/phoenix</sub> | [#1067](https://github.com/HSF/phoenix/pull/1067) fix(event-display): convert jivexml vertex positions from cm to mm |
 | **[`ruxailab/RUXAILAB`](https://github.com/ruxailab/RUXAILAB)**<br/><sub>RUXAILAB · usability testing platform</sub> | [#2622](https://github.com/ruxailab/RUXAILAB/pull/2622) fix(user-test): keep the analytics reset button disabled when no filter is set |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#610](https://github.com/traceopt-ai/traceml/pull/610) Skip a disabled cudnn.benchmark in the code manifest |
+| **[`SimplexLab/TorchJD`](https://github.com/SimplexLab/TorchJD)**<br/><sub>TorchJD · Jacobian descent for PyTorch</sub> | [#845](https://github.com/SimplexLab/TorchJD/pull/845) fix(autojac): Materialize expanded jacs and grads |
 | **[`SimplexLab/TorchJD`](https://github.com/SimplexLab/TorchJD)**<br/><sub>TorchJD · Jacobian descent for PyTorch</sub> | [#844](https://github.com/SimplexLab/TorchJD/pull/844) fix(autojac): Handle repeated tensors in jac_to_grad |
 | **[`gprMax/gprMax`](https://github.com/gprMax/gprMax)**<br/><sub>gprMax/gprMax</sub> | [#953](https://github.com/gprMax/gprMax/pull/953) Match only the named series when exporting A-scan files |
 | **[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)**<br/><sub>Kiwix · offline Wikipedia (Android)</sub> | [#5260](https://github.com/kiwix/kiwix-android/pull/5260) #5259 Report ZIM file size in bytes instead of kilobytes |
@@ -107,6 +108,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 | **[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)**<br/><sub>Kiwix · offline Wikipedia (Android)</sub> | [#5150](https://github.com/kiwix/kiwix-android/pull/5150) #5149 Keep same-day history entries for pages whose URLs differ only in case |
 | **[`neuroinformatics-unit/movement`](https://github.com/neuroinformatics-unit/movement)**<br/><sub>movement · animal pose-tracking analysis</sub> | [#1130](https://github.com/neuroinformatics-unit/movement/pull/1130) Test that single-frame datasets keep a 1D time coordinate |
 | **[`tslearn-team/tslearn`](https://github.com/tslearn-team/tslearn)**<br/><sub>tslearn-team/tslearn</sub> | [#739](https://github.com/tslearn-team/tslearn/pull/739) Let piecewise distance() take time series of different lengths |
+| **[`The-OpenROAD-Project/OpenROAD`](https://github.com/The-OpenROAD-Project/OpenROAD)**<br/><sub>OpenROAD · open-source RTL-to-GDS EDA</sub> | [#11582](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11582) bazel: keep layering_check on for gpl fft_gpu_test |
 | **[`The-OpenROAD-Project/OpenSTA`](https://github.com/The-OpenROAD-Project/OpenSTA)**<br/><sub>The-OpenROAD-Project/OpenSTA</sub> | [#419](https://github.com/The-OpenROAD-Project/OpenSTA/pull/419) bazel: export dcalc/DmpCeff.hh from opensta_lib |
 | **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)**<br/><sub>OneBusAway Maglev · transit REST API (Go)</sub> | [#1506](https://github.com/OneBusAway/maglev/pull/1506) Order stops-for-route stops by trip adjacency |
 | **[`SimplexLab/TorchJD`](https://github.com/SimplexLab/TorchJD)**<br/><sub>TorchJD · Jacobian descent for PyTorch</sub> | [#787](https://github.com/SimplexLab/TorchJD/pull/787) fix(aggregation): Apply ExcessMTL exponentiation in log domain |
@@ -141,7 +143,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>33 open pull requests across 28 projects</b> — click to expand</summary>
+<summary><b>31 open pull requests across 27 projects</b> — click to expand</summary>
 
 **[`ohcnetwork/care`](https://github.com/ohcnetwork/care)** · <sub>CARE · hospital & patient management (Django)</sub>
 - [#3772](https://github.com/ohcnetwork/care/pull/3772) Fix availability exception overlap check for existing slots
@@ -155,10 +157,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`dora-rs/dora-hub`](https://github.com/dora-rs/dora-hub)** · <sub>dora-rs · robotics dataflow nodes</sub>
 - [#90](https://github.com/dora-rs/dora-hub/pull/90) fix(dora-parquet-recorder): record string values instead of their offsets
 - [#91](https://github.com/dora-rs/dora-hub/pull/91) fix(dora-pyaudio): clip float audio before casting to int16
-
-**[`The-OpenROAD-Project/OpenROAD`](https://github.com/The-OpenROAD-Project/OpenROAD)** · <sub>OpenROAD · open-source RTL-to-GDS EDA</sub>
-- [#11522](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11522) dbSta: check Liberty transition tables and input capacitance in check_ip
-- [#11582](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11582) bazel: keep layering_check on for gpl fft_gpu_test
 
 **[`accordproject/concerto`](https://github.com/accordproject/concerto)** · <sub>Accord Project Concerto · data modelling</sub>
 - [#1420](https://github.com/accordproject/concerto/pull/1420) fix(build): make the ESM smoke test independent of the local timezone
@@ -214,9 +212,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`scverse/anndata`](https://github.com/scverse/anndata)** · <sub>scverse anndata · annotated data matrices</sub>
 - [#2667](https://github.com/scverse/anndata/pull/2667) fix: name offending elements when writing object arrays with non-strings to h5ad
 
-**[`SimplexLab/TorchJD`](https://github.com/SimplexLab/TorchJD)** · <sub>TorchJD · Jacobian descent for PyTorch</sub>
-- [#845](https://github.com/SimplexLab/TorchJD/pull/845) fix(autojac): Materialize expanded jacs and grads
-
 **[`sktime/skpro`](https://github.com/sktime/skpro)** · <sub>sktime skpro · probabilistic regression</sub>
 - [#1177](https://github.com/sktime/skpro/pull/1177) [DOC] add usage example to ConcordanceHarrell docstring
 
@@ -225,6 +220,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`Submitty/Submitty`](https://github.com/Submitty/Submitty)** · <sub>Submitty · course management & autograding</sub>
 - [#13384](https://github.com/Submitty/Submitty/pull/13384) [Bugfix:System] Quote DB URL credentials
+
+**[`The-OpenROAD-Project/OpenROAD`](https://github.com/The-OpenROAD-Project/OpenROAD)** · <sub>OpenROAD · open-source RTL-to-GDS EDA</sub>
+- [#11522](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11522) dbSta: check Liberty transition tables and input capacitance in check_ip
 
 **[`The-OpenROAD-Project/OpenSTA`](https://github.com/The-OpenROAD-Project/OpenSTA)** · <sub>The-OpenROAD-Project/OpenSTA</sub>
 - [#453](https://github.com/The-OpenROAD-Project/OpenSTA/pull/453) read_liberty: read library default_max_capacitance
