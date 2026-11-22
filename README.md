@@ -32,9 +32,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 <!-- CONTRIB:START -->
 <p>
-  <img src="https://img.shields.io/badge/pull_requests-143-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/pull_requests-150-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/merged-97-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-31-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-38-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
@@ -143,7 +143,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>31 open pull requests across 27 projects</b> — click to expand</summary>
+<summary><b>38 open pull requests across 34 projects</b> — click to expand</summary>
 
 **[`ohcnetwork/care`](https://github.com/ohcnetwork/care)** · <sub>CARE · hospital & patient management (Django)</sub>
 - [#3772](https://github.com/ohcnetwork/care/pull/3772) Fix availability exception overlap check for existing slots
@@ -173,14 +173,23 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`GAA-UAM/scikit-fda`](https://github.com/GAA-UAM/scikit-fda)** · <sub>scikit-fda · functional data analysis</sub>
 - [#729](https://github.com/GAA-UAM/scikit-fda/pull/729) Adjust domain range of vector valued and tensor bases in to_basis
 
+**[`gprMax/gprMax`](https://github.com/gprMax/gprMax)** · <sub>gprMax/gprMax</sub>
+- [#1003](https://github.com/gprMax/gprMax/pull/1003) Keep dotted names when building geometry view and object paths
+
 **[`helmholtz-analytics/heat`](https://github.com/helmholtz-analytics/heat)** · <sub>Heat · distributed tensors (Helmholtz)</sub>
 - [#2572](https://github.com/helmholtz-analytics/heat/pull/2572) Add array API compatible `cumulative_prod`
 
 **[`holoviz/lumen`](https://github.com/holoviz/lumen)** · <sub>HoloViz Lumen · data dashboards</sub>
 - [#2262](https://github.com/holoviz/lumen/pull/2262) fix: Handle DuckDBSource.to_spec when no tables are declared
 
+**[`HSF/phoenix`](https://github.com/HSF/phoenix)** · <sub>HSF/phoenix</sub>
+- [#1078](https://github.com/HSF/phoenix/pull/1078) fix(event-display): place edm4hep track states at their impact parameters
+
 **[`JdeRobot/PerceptionMetrics`](https://github.com/JdeRobot/PerceptionMetrics)** · <sub>JdeRobot PerceptionMetrics · CV evaluation</sub>
 - [#668](https://github.com/JdeRobot/PerceptionMetrics/pull/668) Only swap the images/labels folder itself in YOLO paths
+
+**[`kiwix/kiwix-android`](https://github.com/kiwix/kiwix-android)** · <sub>Kiwix · offline Wikipedia (Android)</sub>
+- [#5315](https://github.com/kiwix/kiwix-android/pull/5315) #5282 Uppercase buttons, dialogs and snackbars with the app locale
 
 **[`kubeflow/kale`](https://github.com/kubeflow/kale)** · <sub>Kubeflow Kale · notebooks → pipelines</sub>
 - [#976](https://github.com/kubeflow/kale/pull/976) fix(backend): keep and escape annotation/label values that contain ':' or quotes
@@ -203,6 +212,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)** · <sub>OneBusAway Maglev · transit REST API (Go)</sub>
 - [#1495](https://github.com/OneBusAway/maglev/pull/1495) Resolve stop route IDs in schedule-for-route
 
+**[`openfoodfacts/open-prices`](https://github.com/openfoodfacts/open-prices)** · <sub>Open Food Facts · Open Prices (Django)</sub>
+- [#1569](https://github.com/openfoodfacts/open-prices/pull/1569) fix(Locations): API: compare: return a 400 instead of a 500 on an invalid date
+
 **[`OpenMS/pyopenms_viz`](https://github.com/OpenMS/pyopenms_viz)** · <sub>OpenMS · pyopenms_viz (mass-spec plotting)</sub>
 - [#183](https://github.com/OpenMS/pyopenms_viz/pull/183) Let pyopenms_viz import without matplotlib or Pillow
 
@@ -211,6 +223,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`scverse/anndata`](https://github.com/scverse/anndata)** · <sub>scverse anndata · annotated data matrices</sub>
 - [#2667](https://github.com/scverse/anndata/pull/2667) fix: name offending elements when writing object arrays with non-strings to h5ad
+
+**[`SimplexLab/TorchJD`](https://github.com/SimplexLab/TorchJD)** · <sub>TorchJD · Jacobian descent for PyTorch</sub>
+- [#850](https://github.com/SimplexLab/TorchJD/pull/850) fix(autojac): Check row count when accumulating jacs
 
 **[`sktime/skpro`](https://github.com/sktime/skpro)** · <sub>sktime skpro · probabilistic regression</sub>
 - [#1177](https://github.com/sktime/skpro/pull/1177) [DOC] add usage example to ConcordanceHarrell docstring
@@ -229,6 +244,12 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`theochem/grid`](https://github.com/theochem/grid)** · <sub>theochem/grid · numerical integration</sub>
 - [#350](https://github.com/theochem/grid/pull/350) Fix Fourier2 weights in UniformGrid
+
+**[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)** · <sub>TraceML · ML observability</sub>
+- [#661](https://github.com/traceopt-ai/traceml/pull/661) Label nodes as nodes in the HTML report section cards
+
+**[`tslearn-team/tslearn`](https://github.com/tslearn-team/tslearn)** · <sub>tslearn-team/tslearn</sub>
+- [#827](https://github.com/tslearn-team/tslearn/pull/827) [MRG] Use 1/n_features as auto gamma for non-gak SVM kernels
 
 </details>
 
