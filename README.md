@@ -33,8 +33,8 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 <!-- CONTRIB:START -->
 <p>
   <img src="https://img.shields.io/badge/pull_requests-150-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-97-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-38-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-98-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-37-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
@@ -42,6 +42,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 | Project | Pull request |
 |:--|:--|
+| **[`openfoodfacts/open-prices`](https://github.com/openfoodfacts/open-prices)**<br/><sub>Open Food Facts · Open Prices (Django)</sub> | [#1569](https://github.com/openfoodfacts/open-prices/pull/1569) fix(Locations): API: compare: return a 400 instead of a 500 on an invalid date |
 | **[`gprMax/gprMax`](https://github.com/gprMax/gprMax)**<br/><sub>gprMax/gprMax</sub> | [#970](https://github.com/gprMax/gprMax/pull/970) Match only the named series when merging output files |
 | **[`ruxailab/RUXAILAB`](https://github.com/ruxailab/RUXAILAB)**<br/><sub>RUXAILAB · usability testing platform</sub> | [#2637](https://github.com/ruxailab/RUXAILAB/pull/2637) fix(studies): show accessibility studies when filtering by method |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#624](https://github.com/traceopt-ai/traceml/pull/624) Stop view, inspect and compare quietly when their output pipe closes |
@@ -143,7 +144,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>38 open pull requests across 34 projects</b> — click to expand</summary>
+<summary><b>37 open pull requests across 33 projects</b> — click to expand</summary>
 
 **[`ohcnetwork/care`](https://github.com/ohcnetwork/care)** · <sub>CARE · hospital & patient management (Django)</sub>
 - [#3772](https://github.com/ohcnetwork/care/pull/3772) Fix availability exception overlap check for existing slots
@@ -211,9 +212,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)** · <sub>OneBusAway Maglev · transit REST API (Go)</sub>
 - [#1495](https://github.com/OneBusAway/maglev/pull/1495) Resolve stop route IDs in schedule-for-route
-
-**[`openfoodfacts/open-prices`](https://github.com/openfoodfacts/open-prices)** · <sub>Open Food Facts · Open Prices (Django)</sub>
-- [#1569](https://github.com/openfoodfacts/open-prices/pull/1569) fix(Locations): API: compare: return a 400 instead of a 500 on an invalid date
 
 **[`OpenMS/pyopenms_viz`](https://github.com/OpenMS/pyopenms_viz)** · <sub>OpenMS · pyopenms_viz (mass-spec plotting)</sub>
 - [#183](https://github.com/OpenMS/pyopenms_viz/pull/183) Let pyopenms_viz import without matplotlib or Pillow
