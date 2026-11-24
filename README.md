@@ -32,9 +32,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 <!-- CONTRIB:START -->
 <p>
-  <img src="https://img.shields.io/badge/pull_requests-150-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-102-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-33-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/pull_requests-155-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-103-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-37-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
@@ -42,6 +42,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 | Project | Pull request |
 |:--|:--|
+| **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#666](https://github.com/traceopt-ai/traceml/pull/666) Point the re-rendered card footer at the run's own artifacts |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#661](https://github.com/traceopt-ai/traceml/pull/661) Label nodes as nodes in the HTML report section cards |
 | **[`openfoodfacts/open-prices`](https://github.com/openfoodfacts/open-prices)**<br/><sub>Open Food Facts · Open Prices (Django)</sub> | [#1569](https://github.com/openfoodfacts/open-prices/pull/1569) fix(Locations): API: compare: return a 400 instead of a 500 on an invalid date |
 | **[`gprMax/gprMax`](https://github.com/gprMax/gprMax)**<br/><sub>gprMax/gprMax</sub> | [#1003](https://github.com/gprMax/gprMax/pull/1003) Keep dotted names when building geometry view and object paths |
@@ -148,7 +149,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>33 open pull requests across 29 projects</b> — click to expand</summary>
+<summary><b>37 open pull requests across 33 projects</b> — click to expand</summary>
 
 **[`ohcnetwork/care`](https://github.com/ohcnetwork/care)** · <sub>CARE · hospital & patient management (Django)</sub>
 - [#3772](https://github.com/ohcnetwork/care/pull/3772) Fix availability exception overlap check for existing slots
@@ -166,6 +167,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`accordproject/concerto`](https://github.com/accordproject/concerto)** · <sub>Accord Project Concerto · data modelling</sub>
 - [#1420](https://github.com/accordproject/concerto/pull/1420) fix(build): make the ESM smoke test independent of the local timezone
 
+**[`CCExtractor/ccextractor`](https://github.com/CCExtractor/ccextractor)** · <sub>CCExtractor · subtitle extraction (C)</sub>
+- [#2496](https://github.com/CCExtractor/ccextractor/pull/2496) [FIX] End the 608 caption on screen at --endat, not at the end of the input
+
 **[`CircuitVerse/cv-frontend-vue`](https://github.com/CircuitVerse/cv-frontend-vue)** · <sub>CircuitVerse · digital logic simulator (Vue)</sub>
 - [#1334](https://github.com/CircuitVerse/cv-frontend-vue/pull/1334) fix(vuesim): use 2 ** bitWidth for Stepper and RAM range limits
 
@@ -174,6 +178,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`GAA-UAM/scikit-fda`](https://github.com/GAA-UAM/scikit-fda)** · <sub>scikit-fda · functional data analysis</sub>
 - [#729](https://github.com/GAA-UAM/scikit-fda/pull/729) Adjust domain range of vector valued and tensor bases in to_basis
+
+**[`gprMax/gprMax`](https://github.com/gprMax/gprMax)** · <sub>gprMax/gprMax</sub>
+- [#1013](https://github.com/gprMax/gprMax/pull/1013) Keep dotted names when building study aggregate paths
 
 **[`helmholtz-analytics/heat`](https://github.com/helmholtz-analytics/heat)** · <sub>Heat · distributed tensors (Helmholtz)</sub>
 - [#2572](https://github.com/helmholtz-analytics/heat/pull/2572) Add array API compatible `cumulative_prod`
@@ -211,8 +218,14 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)** · <sub>OneBusAway Maglev · transit REST API (Go)</sub>
 - [#1495](https://github.com/OneBusAway/maglev/pull/1495) Resolve stop route IDs in schedule-for-route
 
+**[`openfoodfacts/open-prices`](https://github.com/openfoodfacts/open-prices)** · <sub>Open Food Facts · Open Prices (Django)</sub>
+- [#1600](https://github.com/openfoodfacts/open-prices/pull/1600) fix(Proofs): API: upload: return a 400 instead of a 500 when the image is invalid
+
 **[`OpenMS/pyopenms_viz`](https://github.com/OpenMS/pyopenms_viz)** · <sub>OpenMS · pyopenms_viz (mass-spec plotting)</sub>
 - [#183](https://github.com/OpenMS/pyopenms_viz/pull/183) Let pyopenms_viz import without matplotlib or Pillow
+
+**[`ruxailab/RUXAILAB`](https://github.com/ruxailab/RUXAILAB)** · <sub>RUXAILAB · usability testing platform</sub>
+- [#2678](https://github.com/ruxailab/RUXAILAB/pull/2678) fix(dashboard): sort and describe accessibility studies in Active Studies Overview
 
 **[`scverse/anndata`](https://github.com/scverse/anndata)** · <sub>scverse anndata · annotated data matrices</sub>
 - [#2667](https://github.com/scverse/anndata/pull/2667) fix: name offending elements when writing object arrays with non-strings to h5ad
