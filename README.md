@@ -32,9 +32,9 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 <!-- CONTRIB:START -->
 <p>
-  <img src="https://img.shields.io/badge/pull_requests-155-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/merged-103-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/in_review-37-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/pull_requests-156-1f6feb?style=flat-square&labelColor=161b22&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/merged-105-8957e5?style=flat-square&labelColor=161b22&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/in_review-36-2da44e?style=flat-square&labelColor=161b22&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/projects-45-f78166?style=flat-square&labelColor=161b22&logo=opensourceinitiative&logoColor=white" />
 </p>
 
@@ -42,6 +42,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 | Project | Pull request |
 |:--|:--|
+| **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#679](https://github.com/traceopt-ai/traceml/pull/679) Expand ~ in logs_dir from traceml.yaml, env and --logs-dir= |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#666](https://github.com/traceopt-ai/traceml/pull/666) Point the re-rendered card footer at the run's own artifacts |
 | **[`traceopt-ai/traceml`](https://github.com/traceopt-ai/traceml)**<br/><sub>TraceML · ML observability</sub> | [#661](https://github.com/traceopt-ai/traceml/pull/661) Label nodes as nodes in the HTML report section cards |
 | **[`openfoodfacts/open-prices`](https://github.com/openfoodfacts/open-prices)**<br/><sub>Open Food Facts · Open Prices (Django)</sub> | [#1569](https://github.com/openfoodfacts/open-prices/pull/1569) fix(Locations): API: compare: return a 400 instead of a 500 on an invalid date |
@@ -129,6 +130,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 | **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)**<br/><sub>OneBusAway Maglev · transit REST API (Go)</sub> | [#1496](https://github.com/OneBusAway/maglev/pull/1496) Allow spaces in IDs |
 | **[`The-OpenROAD-Project/OpenROAD`](https://github.com/The-OpenROAD-Project/OpenROAD)**<br/><sub>OpenROAD · open-source RTL-to-GDS EDA</sub> | [#11541](https://github.com/The-OpenROAD-Project/OpenROAD/pull/11541) web: drop heat map bins outside a polygon die area |
 | **[`omegaup/omegaup`](https://github.com/omegaup/omegaup)**<br/><sub>omegaUp · competitive programming platform</sub> | [#10255](https://github.com/omegaup/omegaup/pull/10255) fix: escape every quote and quote line breaks in CSV cells |
+| **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)**<br/><sub>OneBusAway Maglev · transit REST API (Go)</sub> | [#1495](https://github.com/OneBusAway/maglev/pull/1495) Resolve stop route IDs in schedule-for-route |
 | **[`hermetoproject/hermeto`](https://github.com/hermetoproject/hermeto)**<br/><sub>Hermeto · hermetic build dependency fetcher</sub> | [#1788](https://github.com/hermetoproject/hermeto/pull/1788) fix(generic): map the java-source Maven type to a jar |
 | **[`openfoodfacts/open-prices`](https://github.com/openfoodfacts/open-prices)**<br/><sub>Open Food Facts · Open Prices (Django)</sub> | [#1460](https://github.com/openfoodfacts/open-prices/pull/1460) fix(Prices): reset duplicate_of when an edited price no longer matches |
 | **[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)**<br/><sub>OneBusAway Maglev · transit REST API (Go)</sub> | [#1493](https://github.com/OneBusAway/maglev/pull/1493) Return parent station in stops-for-location |
@@ -149,7 +151,7 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 ### In review
 
 <details>
-<summary><b>37 open pull requests across 33 projects</b> — click to expand</summary>
+<summary><b>36 open pull requests across 32 projects</b> — click to expand</summary>
 
 **[`ohcnetwork/care`](https://github.com/ohcnetwork/care)** · <sub>CARE · hospital & patient management (Django)</sub>
 - [#3772](https://github.com/ohcnetwork/care/pull/3772) Fix availability exception overlap check for existing slots
@@ -214,9 +216,6 @@ I build mobile apps and the backends they lean on — Flutter and Compose on the
 
 **[`omegaup/omegaup`](https://github.com/omegaup/omegaup)** · <sub>omegaUp · competitive programming platform</sub>
 - [#10490](https://github.com/omegaup/omegaup/pull/10490) fix: show feedback gutter + button only when comments can be added
-
-**[`OneBusAway/maglev`](https://github.com/OneBusAway/maglev)** · <sub>OneBusAway Maglev · transit REST API (Go)</sub>
-- [#1495](https://github.com/OneBusAway/maglev/pull/1495) Resolve stop route IDs in schedule-for-route
 
 **[`openfoodfacts/open-prices`](https://github.com/openfoodfacts/open-prices)** · <sub>Open Food Facts · Open Prices (Django)</sub>
 - [#1600](https://github.com/openfoodfacts/open-prices/pull/1600) fix(Proofs): API: upload: return a 400 instead of a 500 when the image is invalid
